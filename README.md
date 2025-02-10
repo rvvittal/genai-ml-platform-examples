@@ -1,11 +1,38 @@
-## My Project
+## AWS GenAI ML Platform Examples
 
-TODO: Fill this README out!
+This repository contains a collection of examples and resources to help you get started with the AWS Generative AI (GenAI)/ML Platform.
 
-Be sure to:
+### Overview
+The AWS GenAI/ML Platform is a collection of tools and examples that enables you to build, train, and deploy models at scale. This repository provides a set of sample notebooks, scripts, and configurations to help you explore different aspects of the platform, including:
 
-* Change the title in this README
-* Edit your repository description on GitHub
+- Data management: Examples for ingesting, preprocessing, and managing data for your GenAI models.
+- Governance: Samples for implementing governance and compliance best practices.
+- Infrastructure: Configuration templates for provisioning the necessary AWS resources.
+- Integration: Demonstrations of integrating opensource frameworks with AWS services.
+- Operations: Guidance on model lifecycle management.
+
+### Getting Started
+To get started, follow these steps:
+
+Clone the repository to your local machine:
+
+    
+git clone https://github.com/aws-samples/genai-ml-platform-examples.git
+
+    
+    
+Navigate to the repository directory:
+
+    
+cd genai-ml-platform-examples
+
+    
+
+    
+Explore the contents of the repository and follow the instructions in the `README.md` files within each subdirectory.
+
+### Contributing
+We welcome contributions to this repository! If you have any examples, improvements, or bug fixes to share, please follow the [CONTRIBUTING](chrome-extension://omgojbbklmcfkcmmjdhigkachlaibgjg/js/CONTRIBUTING.md) guidelines.
 
 ## Security
 

@@ -16,17 +16,15 @@ To get started, follow these steps:
 
 Clone the repository to your local machine:
 
-    
+```
 git clone https://github.com/aws-samples/genai-ml-platform-examples.git
-
-    
+```
     
 Navigate to the repository directory:
 
-    
+```
 cd genai-ml-platform-examples
-
-    
+```
 
     
 Explore the contents of the repository and follow the instructions in the `README.md` files within each subdirectory.

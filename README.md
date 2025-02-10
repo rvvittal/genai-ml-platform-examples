@@ -32,11 +32,8 @@ cd genai-ml-platform-examples
 Explore the contents of the repository and follow the instructions in the `README.md` files within each subdirectory.
 
 ### Contributing
-We welcome contributions to this repository! If you have any examples, improvements, or bug fixes to share, please follow the [CONTRIBUTING](chrome-extension://omgojbbklmcfkcmmjdhigkachlaibgjg/js/CONTRIBUTING.md) guidelines.
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+We welcome contributions to this repository! If you have any examples, improvements, or bug fixes to share, please see [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 

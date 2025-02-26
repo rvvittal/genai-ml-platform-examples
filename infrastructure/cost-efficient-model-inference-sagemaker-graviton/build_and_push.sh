@@ -281,8 +281,8 @@ EOF
 fi
 
 # Create ECR repository if needed
-if aws ecr describe-repositories --repository-names "${REPOSITORY_NAME}" &>/dev/null; then
-    echo "Repository ${REPOSITORY_NAME} already exists"
+if aws ecr describe-repositories --repository-names "${{ECR_REPO_NAME}" &>/dev/null; then
+    echo "Repository ${{ECR_REPO_NAME} already exists"
 else
 # if ! aws ecr describe-repositories --repository-names "${ECR_REPO_NAME}" --region "${AWS_REGION}" &> /dev/null; then
     echo "Creating ECR repository..."

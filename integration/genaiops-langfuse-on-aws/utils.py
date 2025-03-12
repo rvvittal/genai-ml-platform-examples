@@ -75,8 +75,9 @@ def convert_to_bedrock_messages(
 @observe(as_type="generation", name="Bedrock Converse")
 def converse(
     messages: List[Dict[str, Any]],
-    prompt: Optional[PromptClient] = None,
     model_id: str = "us.amazon.nova-pro-v1:0",
+    prompt: Optional[PromptClient] = None,
+    metadata: Dict[str, Any] = {},
     **kwargs,
 ) -> Optional[str]:
     # 1. extract model metadata
@@ -91,7 +92,6 @@ def converse(
         model=model_id,
         model_parameters=model_parameters,
         prompt=prompt,
-        metadata=kwargs_clone,
     )
 
     # Convert messages to Bedrock format
@@ -124,6 +124,7 @@ def converse(
         },
         metadata={
             "ResponseMetadata": response["ResponseMetadata"],
+            **metadata,
         },
     )
 
@@ -136,8 +137,9 @@ def converse_tool_use(
     messages: List[Dict[str, str]],
     tools: List[Dict[str, str]],
     tool_choice: str = "auto",
-    prompt: Optional[PromptClient] = None,
     model_id: str = "us.amazon.nova-pro-v1:0",
+    prompt: Optional[PromptClient] = None,
+    metadata: Dict[str, Any] = {},
     **kwargs,
 ) -> Optional[List[Dict]]:
     # 1. extract model metadata
@@ -153,7 +155,6 @@ def converse_tool_use(
         model=model_id,
         model_parameters=model_parameters,
         prompt=prompt,
-        metadata=kwargs_clone,
     )
 
     # Convert messages to Bedrock format
@@ -231,6 +232,7 @@ def converse_tool_use(
         },
         metadata={
             "ResponseMetadata": response["ResponseMetadata"],
+            **metadata,
         },
     )
 

@@ -1,0 +1,1 @@
+- Built on top of [Bedrock Sample application](https://github.com/aws-samples/amazon-nova-samples/tree/main/multimodal-understanding/sample-apps/02-bedrock-notebook-lm). 

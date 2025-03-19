@@ -1,0 +1,38 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: notebooklm
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: notebooklm
+  template:
+    metadata:
+      labels:
+        app: notebooklm
+    spec:
+      containers:
+      - name: notebooklm
+        image: 0123456789.dkr.ecr.us-west-2.amazonaws.com/genai/opennotebooklm:latest
+        ports:
+        - name: tcp
+          containerPort: 7860
+        env:
+        - name: KOKORO_ENDPOINT
+          value: "kokoro-service"
+      serviceAccount: notebooklm-sa
+      serviceAccountName: notebooklm-sa
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: notebooklm-svc
+spec:
+  ports:
+    - port: 7860
+      targetPort: 7860
+      protocol: TCP
+  type: ClusterIP
+  selector:
+    app: notebooklm

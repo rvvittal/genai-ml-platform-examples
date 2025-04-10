@@ -1,0 +1,40 @@
+Theme: Renewal Terms
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: Renewal Terms**
+
+**Parties Involved:**
+
+1. **ABC Marketing Solutions, Inc.** ("ABC") - A digital marketing agency that provides social media management services to various clients. 
+2. **XYZ Tech, LLC** ("XYZ") - A technology startup specializing in app development and web services, which entered into a service agreement with ABC.
+
+**Background:**
+
+In January 2022, ABC and XYZ signed a one-year service agreement for marketing services aimed at enhancing XYZ’s brand visibility and generating leads. The contract included a 12-month term with an option to renew for an additional year. The renewal terms stated that if either party wished to renew, they must provide written notice at least 60 days before the expiration of the initial term.
+
+**Key Issues:**
+
+As the contract approached its expiration on January 31, 2023, there arose a dispute regarding the renewal terms:
+
+1. **Notice of Renewal:**
+   - ABC claims they sent a written notice of their intent to renew the contract via email on November 30, 2022.
+   - XYZ contends that they never received this notice, and thus were unable to respond and communicate their conditions or intentions to continue the agreement.
+
+2. **Rate Increase:**
+   - ABC’s notice included a proposed increase in fees for the renewal term, citing increased operational costs and inflation. They suggested a 15% increase in their service charges.
+   - XYZ maintains that the original contract contains no provisions for automatic rate increases upon renewal, and they expected to continue at the same rate as the prior year, raising concerns of potential unfairness in ABC’s proposal.
+
+3. **Performance and Expectations:**
+   - XYZ asserts that the marketing services provided by ABC did not meet the expectations set forth during the agreement. They cite lower-than-expected lead generation results and delayed reporting as key performance issues.
+   - Conversely, ABC argues that they fulfilled all contractual obligations by providing regular updates and reports, emphasizing that the marketing landscape is inherently unpredictable and results can vary based on external factors.
+
+4. **Timing of Communication:**
+   - The timeline for the renewal discussions has also become contentious. ABC claims they initiated a conversation about the renewal at a quarterly review meeting in November 2022, while XYZ argues that no formal discussions regarding renewal or performance had taken place.
+
+5. **Implications for Future Business:**
+   - The disagreement has led XYZ to question whether to seek another agency for their marketing needs, impacting their business relationship. ABC, on the other hand, worries about potential loss of income and a tarnished reputation if the dispute escalates or becomes public.
+
+**Conclusion:**
+
+Ultimately, both parties seek a resolution to their differences. XYZ wants to avoid a renewal at increased rates and seeks compensation for perceived underperformance, while ABC aims to uphold their proposed terms and enhance their pricing structure. The two companies are now considering mediation to resolve the dispute amicably and maintain their professional relationship.

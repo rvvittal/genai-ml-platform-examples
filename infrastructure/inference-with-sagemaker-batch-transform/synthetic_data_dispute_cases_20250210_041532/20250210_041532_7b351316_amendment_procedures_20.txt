@@ -1,0 +1,33 @@
+Theme: Amendment Procedures
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Amendment Procedures**
+
+**Parties Involved**:  
+- **ABC Manufacturing, Inc.** (the "Manufacturer")  
+- **XYZ Retail Group, LLC** (the "Retailer")   
+
+**Background**:  
+In January 2022, ABC Manufacturing and XYZ Retail Group entered into a binding contract for the supply and distribution of a new line of eco-friendly kitchen appliances. The contract included specific terms regarding quantities, delivery schedules, pricing, and a clause addressing amendment procedures.
+
+**Key Issues**:  
+The dispute arises six months into the contract from a disagreement over the amendment procedure—specifically, the required approval process for price adjustments and alterations to the order quantity.
+
+1. **Amendment Procedure Clauses**:  
+The original contract stipulates that any amendments must be documented in writing, signed by both parties, and delivered via certified mail. Additionally, it includes a provision that allows for verbal amendments only in cases of emergency, requiring subsequent written confirmation within three business days.
+
+2. **Price Adjustment Dispute**:  
+In July 2022, due to a sudden increase in raw material costs, ABC Manufacturing emailed XYZ Retail Group to suggest a price increase of 15% for all products. The Retailer verbally opposed the increase during a phone call but did not respond formally via email. ABC proceeded to increase the invoice amount accordingly in their next shipping order.
+
+3. **Retailer's Position**:  
+XYZ Retail Group argues that the price increase is invalid as it did not follow the written confirmation process mandated by the contract. The Retailer contends that the oral opposition to the proposal should signify that no changes had been agreed upon. They posit that ABC Manufacturing’s actions breached the contract, and they are refusing to pay the adjusted invoice, thereby claiming they are still entitled to the original pricing.
+
+4. **Manufacturer's Position**:  
+ABC Manufacturing insists that the initial email constituted a valid offer for an amendment, and they argue that the Retailer’s failure to provide a timely written objection allowed the price increase to take effect. They assert that in circumstances where the supply chain is disrupted, adjustments can be implemented rapidly, and that the amendment procedure did not explicitly preclude such adjustments based on market conditions.
+
+5. **Consequences**:  
+The dispute has resulted in strain on the supply relationship, with ABC halting further deliveries until the matter is resolved and XYZ considering alternative suppliers. Both parties have incurred financial losses, with the Retailer facing stock shortages and the Manufacturer losing potential revenue due to halted orders.
+
+**Possible Resolution**:
+The parties are currently considering mediation to resolve the dispute. XYZ Retail Group seeks a formal ruling recognizing the original contract terms to avoid further price increases without mutual consent. In contrast, ABC seeks recognition of its right to adjust pricing based on industry fluctuations. Both parties also express interest in revising the amendment procedures to clarify protocols for future adjustments and enhance communication channels.

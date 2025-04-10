@@ -1,0 +1,46 @@
+Theme: Maintenance Obligations
+Case Number: 11
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Maintenance Obligations**
+
+**Background:**
+
+The dispute revolves around a contract between **Skyline Apartments, LLC** (the "Landlord") and **Green Solutions Property Management, Inc.** (the "Management Company"). The contract was signed in January 2022 and outlined the Management Company's obligations for maintaining the premises as part of their property management services for a period of two years.
+
+**Key Parties Involved:**
+
+1. **Skyline Apartments, LLC**: Owner of a 100-unit residential apartment complex in downtown Springfield. The Landlord expected the Management Company to uphold specific maintenance obligations to ensure tenant satisfaction and property value maintenance.
+  
+2. **Green Solutions Property Management, Inc.**: A management firm specializing in residential properties. The Management Company was hired based on their reputation and history of effective property upkeep.
+
+**Dispute Details:**
+
+The conflict erupted in June 2023 when Skyline Apartments received multiple complaints from tenants regarding maintenance issues that had not been addressed. Out of approximately 100 units, 30 tenants reported problems such as:
+
+- Broken HVAC systems
+- Leaking pipes
+- Faulty elevators
+- Unkept common areas (litters, uncut grass, broken lights)
+
+Upon thorough investigation, the Landlord found that many maintenance requests were either ignored or inadequately addressed by Green Solutions, leading to health and safety concerns, tenant dissatisfaction, and potential lease terminations.
+
+**Main Points of Contention:**
+
+1. **Failure to Respond to Maintenance Requests**: The Management Company was contractually obligated to respond to tenant maintenance requests within a specific timeframe (24 hours for urgent issues, 72 hours for non-urgent). Skyline claims that response times exceeded these limits and resulted in continued tenant distress.
+
+2. **Quality of Repairs**: Tenants have alleged that when repairs were made, they were subpar and failed to resolve the underlying issues. For example, a temporary fix on a leaking pipe resulted in continued leaks and water damage, which was a substantial breach of contract.
+
+3. **Negligence in Routine Maintenance**: The contract included a provision for regular maintenance checks on HVAC systems and plumbing every three months. Skyline asserts that the Management Company neglected scheduled inspections, directly leading to the current issues that detracted from tenant comfort and safety.
+
+4. **Financial Damages**: Skyline has calculated potential financial damages due to reduced tenant retention rates and the increased costs of employing a second management company to rectify the ongoing issues and enhance tenant satisfaction.
+
+5. **Miscommunication**: The Management Company argues that the Landlord failed to provide adequate details regarding tenant complaints, implying that proper protocol wasn't followed. However, Skyline counterclaims that it documented every complaint and communicated them effectively.
+
+**Resolution Efforts**: 
+
+Efforts to resolve the dispute through mediation have so far been unsuccessful, leading both parties to consider litigation. Skyline seeks to terminate the management contract and recover damages, while Green Solutions asserts it fulfilled its obligations and counters that any damages claimed are unfounded and exaggerated.
+
+**Conclusion**: 
+
+The dispute highlights significant issues regarding maintenance obligations, communication, and the quality and timeliness of property management services, threatening to disrupt the rental ecosystem for Skyline Apartments and impacting tenant satisfaction significantly.

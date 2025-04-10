@@ -1,0 +1,29 @@
+Theme: Documentation Requirements
+Case Number: 11
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Documentation Requirements between SkyTech Solutions and BuildRight Contracting**
+
+**Parties Involved:**
+
+1. **SkyTech Solutions**: A technology services provider contracted to develop a custom software solution for management of construction projects.
+2. **BuildRight Contracting**: A mid-sized construction company that specializes in commercial projects and hired SkyTech for the software development.
+
+**Background:**
+In April 2023, SkyTech Solutions and BuildRight Contracting entered into a contract that outlined the development of a project management software to streamline BuildRight's operations. As part of the agreement, specific documentation requirements were delineated including initial project specifications, weekly progress reports, user manuals, and post-launch support documentation.
+
+**Key Issues:**
+
+1. **Ambiguity in Documentation Clauses**: The contract specified that SkyTech was to deliver a "comprehensive project specification document" within six weeks of the contract date. However, the term "comprehensive" was not defined. BuildRight claims that the document provided lacked essential detailed workflows and integration requirements, which they argue led to subsequent project delays. SkyTech contends that the document meet the minimal contractual requirements and that the term "comprehensive" is subjective.
+
+2. **Delivery of Progress Reports**: The contract stipulated that weekly progress reports should be submitted every Friday. SkyTech delivered progress reports consistently but states that the content evolved in response to feedback from BuildRight. However, BuildRight claims that several reports were submitted late and lacked the necessary detail on project milestones and issue identification, which they argue hindered their ability to provide timely feedback and approvals.
+
+3. **User Manuals and Training**: Upon project delivery in September 2023, BuildRight expected not only the software but also user manuals and comprehensive training for their staff. SkyTech provided a basic user manual but did not include any training sessions as planned in an itemized section of the contract. BuildRight contends that the lack of proper training has led to operational inefficiencies and additional costs stemming from misuse of the software.
+
+4. **Post-launch Support Documentation**: The contract specified a 90-day post-launch support period, during which detailed logs of any issues and resolutions were to be maintained. BuildRight asserts that SkyTech failed to provide adequate support documentation, leading to unresolved issues and user frustration. SkyTech argues that they provided support within the specified period, and that any remaining issues were due to user error rather than documentation inadequacies.
+
+**Resolution Attempts:**
+The dispute escalated as BuildRight threatened to halt payments until the documentation issues were remedied, while SkyTech maintained that they have fulfilled their contractual obligations. Mediation sessions failed as both parties remained entrenched in their positions. 
+
+**Next Steps:**
+With ongoing tensions, both parties are considering litigation to resolve the matter, with BuildRight seeking damages for delays and operational losses, while SkyTech seeks enforcement of payment for services rendered. The ambiguity of the documentation requirements now remains the central point of contention as both parties prepare their legal arguments.

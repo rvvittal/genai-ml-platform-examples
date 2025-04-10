@@ -1,0 +1,29 @@
+Theme: License Agreement
+Case Number: 4
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over License Agreement**
+
+**Parties Involved**:  
+1. **TechSolutions Inc.** (Licensor): A software development company that specializes in creating enterprise-level project management software.
+2. **ProjectPro LLC** (Licensee): A mid-sized company that provides project management consulting services to small and medium-sized businesses.
+
+**Background**:  
+In January 2022, TechSolutions Inc. and ProjectPro LLC entered into a License Agreement where TechSolutions granted ProjectPro an exclusive license to use its flagship software, "ProjectX," to provide consulting services to its clients. The license was for a period of five years with an annual fee of $50,000, plus a 10% royalty on revenue generated from sales of services utilizing ProjectX.
+
+**Dispute Details**:  
+In October 2023, a dispute arose when TechSolutions conducted its annual audit of ProjectPro's usage and revenue reporting under the license agreement. The key issues of contention are as follows:
+
+1. **Royalty Payment Discrepancies**: TechSolutions claims that ProjectPro underreported its revenues generated from ProjectX. TechSolutions asserts that ProjectPro failed to disclose over $300,000 in revenue over the past year, resulting in underpaid royalties amounting to approximately $30,000. ProjectPro, however, contends that the figures reported were correct and cites operational challenges and the economic downturn as reasons for reduced earnings. ProjectPro argues that TechSolutions should have acknowledged the conditions that led to these discrepancies rather than demanding additional payments without verification.
+
+2. **Scope of License**: ProjectPro alleges that the license agreement is overly restrictive regarding the use of ProjectX. They argue that certain features of the software allow for broader applications than what was specified in the agreement, and as a result, they expanded their use beyond consulting services without prior approval from TechSolutions. TechSolutions insists that any unapproved usage constitutes a breach of the agreement and reserves the right to terminate the license.
+
+3. **Support and Updates**: After numerous complaints about the software's performance and lack of updates, ProjectPro claims that TechSolutions has not fulfilled its obligation to provide necessary technical support and updates as per the terms of their agreement. TechSolutions counters that ProjectPro has not followed standard support protocols, which complicates their ability to provide timely assistance. The breach of this aspect led to a perceived negative impact on ProjectPro's service quality, affecting their ability to generate expected revenue from the software.
+
+**Key Issues Summary**: 
+- Underpayment of royalties due to allegedly unreported revenue.
+- Disagreement over the definition and scope of the licensed use of ProjectX software.
+- Failure of TechSolutions to provide adequate support and updates under the agreement, which ProjectPro claims directly affected its business operations.
+
+**Resolution Sought**:  
+TechSolutions seeks the payment of the allegedly owed royalties, enforcement of the license terms, and potential penalties for breach. ProjectPro seeks a renegotiation of terms, acknowledgment of economic impact, and an injunction against termination due to alleged breaches. Mediation is the next step in the conflict resolution process.

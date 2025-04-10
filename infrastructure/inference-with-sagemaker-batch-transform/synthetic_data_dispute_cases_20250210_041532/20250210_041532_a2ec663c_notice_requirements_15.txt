@@ -1,0 +1,31 @@
+Theme: Notice Requirements
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: Notice Requirements**
+
+**Parties Involved:**
+1. **GreenLeaf Landscaping, Inc.** (Plaintiff) - A landscaping and maintenance company based in Springfield, specializing in commercial properties.
+2. **Elmwood Property Management, LLC** (Defendant) - A property management firm handling multiple commercial buildings in the Springfield area.
+
+**Background:**
+In May 2022, GreenLeaf Landscaping entered into a service contract with Elmwood Property Management for the landscaping maintenance of two commercial properties, Elmwood Industrial Park and Maplewood Plaza. The contract included a provision requiring written notice for any breaches of contract, stipulated as a minimum of 30 days before any remedial action could be taken. 
+
+**Dispute Details:**
+In September 2023, Elmwood Property Management became dissatisfied with the quality of services provided by GreenLeaf. They alleged that GreenLeaf had not adequately maintained the grounds, resulting in overgrown landscapes and unsightly shrubbery. Elmwood claimed that they had received numerous complaints from tenants and took informal steps to address the issue. 
+
+On September 15, 2023, Elmwood sent an informal email to GreenLeaf outlining their concerns and indicating that immediate improvement was necessary. However, Elmwood did not follow the contractual requirement for formal written notice. GreenLeaf responded promptly, assuring Elmwood that they would address the landscaping issues within the next two weeks.
+
+Despite GreenLeaf's efforts, Elmwood found the situation unchanged by the end of September. On October 1, 2023, Elmwood sent a formal letter terminating the contract, citing GreenLeaf's failure to meet the maintenance standards. This letter mentioned that they would seek to engage another service provider immediately.
+
+**Key Issues:**
+1. **Failure to Provide Formal Written Notice:** The primary contention revolves around Elmwood's failure to provide the required 30-day written notice before terminating the contract. GreenLeaf asserts that the contract explicitly stipulates the need for proper notice, and by sending only an email and an informal complaint, Elmwood did not fulfill this requirement.
+
+2. **Timeliness and Communication:** GreenLeaf contends that their response time was adequate, and they were in the process of rectifying the issues pointed out by Elmwood. They argue that Elmwood's rapid move to terminate the contract undermined their commitment to the service.
+
+3. **Breach of Contract Claims:** GreenLeaf argues that without proper notice, Elmwood's termination is wrongful and constitutes a breach of contract. They claim damages for lost revenue, as they had invested resources into addressing the landscaping issues based on Elmwood's assurances.
+
+4. **Disputed Performance Standards:** There is also a disagreement regarding whether GreenLeaf's services met the contractual performance standards. GreenLeaf asserts that they fulfilled their obligations and that any dissatisfaction arose from Elmwood's expectations, which were not explicitly stated in the contract.
+
+**Conclusion:**
+GreenLeaf Landscaping is seeking compensation for damages incurred from the wrongful termination of the contract, while Elmwood Property Management defends their actions based on performance-related issues. The resolution of this dispute hinges on the interpretation of the notice requirements outlined in the contract and the validity of Elmwood's claims regarding breach of service standards.

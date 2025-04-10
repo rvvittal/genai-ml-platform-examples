@@ -1,0 +1,32 @@
+Theme: Maintenance Obligations
+Case Number: 5
+--------------------------------------------------
+
+**Contract Dispute Scenario: Maintenance Obligations**
+
+**Parties Involved:**
+1. **GreenTech Development LLC** (Plaintiff) - A real estate development company that constructed a mixed-use property, "Green Hill Plaza," encompassing residential units and commercial spaces.
+2. **EverReady Property Management** (Defendant) - A property management firm contracted to maintain and manage the facilities at Green Hill Plaza.
+
+**Background:**
+Following the completion of Green Hill Plaza in January 2022, GreenTech Development LLC entered into a maintenance agreement with EverReady Property Management. The contract, signed in December 2021, outlined obligations for routine maintenance, emergency repairs, and overall property management for a period of five years.
+
+**Key Issues of Contention:**
+
+1. **Negligence in Routine Maintenance:**
+   GreenTech claims that EverReady has consistently failed to perform scheduled maintenance on critical systems, particularly HVAC and plumbing. The contract stipulated bi-annual system inspections and maintenance checks, which GreenTech alleges were not adhered to. As of September 2023, the HVAC systems in several residential units have malfunctioned during peak summer months, leading to tenant complaints and loss of rental income.
+
+2. **Failure to Address Emergency Repairs:**
+In June 2023, a significant plumbing issue developed in one of the commercial units, resulting in water damage and subsequent mold issues. GreenTech contends EverReady delayed an emergency response for over 48 hours, contrary to the contract, which mandates immediate action within two hours of a reported emergency. The delay led to extensive damage, additional remediation costs, and tenant business disruption.
+
+3. **Disputes Over Service Quality:**
+GreenTech has raised concerns regarding the quality of service provided by EverReady. They argue that maintenance requests have often been poorly documented and service performed inadequately, deviating from industry standards. For instance, repairs on the exterior facades took over a month, causing aesthetic damage and issues with tenant satisfaction. These delays, according to GreenTech, further violate the terms of the contract, which requires timely and satisfactory completion of maintenance tasks.
+
+4. **Claims for Compensation:**
+In August 2023, following multiple instances of breached obligations, GreenTech delivered a formal notice of breach and demanded compensatory damages for lost rental income and repair costs. EverReady countered by asserting that the complaints relate to issues pre-existing the management transition and that GreenTech failed to provide adequate access for repairs, thus negating their liability under the contract.
+
+5. **Termination of Contract:**
+Due to ongoing disputes, GreenTech has expressed intentions to terminate the management contract ahead of the five-year term. EverReady, however, contests this move, claiming that the maintenance shortfalls were rectified and that the termination would be unfounded, posing financial ramifications for both parties.
+
+**Conclusion:**
+The dispute has escalated, requiring mediation to resolve the differing interpretations of the maintenance obligations and assess the legitimacy of claims made by both parties. Central to the conflict are questions of accountability, the interpretation of contractual terms, and the resulting financial implications of alleged breaches in service commitments.

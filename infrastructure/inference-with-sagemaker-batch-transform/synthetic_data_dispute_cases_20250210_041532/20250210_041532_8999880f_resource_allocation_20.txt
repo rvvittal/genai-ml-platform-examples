@@ -1,0 +1,28 @@
+Theme: Resource Allocation
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Resource Allocation in a Renewable Energy Project**
+
+**Parties Involved:**
+1. **EcoGreen Solutions, Inc.** (Contractor) - A mid-sized renewable energy company contracted to build a solar farm in Oakridge County.
+2. **Oakridge County Government** (Client) - The local government authority that commissioned the solar farm to meet sustainability goals and provide public power.
+
+**Background:**
+In January 2023, Oakridge County Government entered into a contract with EcoGreen Solutions for the design and construction of a 5 MW solar farm, aimed at reducing the county’s carbon footprint and generating renewable energy for public consumption. The contract stipulated that the project was to be completed by December 2023, with a total budget of $4 million.
+
+**Key Issues:**
+1. **Resource Allocation Disagreement:**
+   - EcoGreen Solutions alleges that Oakridge County has not provided the necessary access to utility infrastructures, such as transmission lines and substations, which are critical for the project’s progress. The contractor claims that the lack of timely access has caused a delay in material delivery and construction scheduling. They argue that Oakridge's failure to allocate these resources in a timely manner constitutes a breach of contract.
+   - Conversely, Oakridge County contends that EcoGreen mismanaged the initial timelines and underestimated the logistics involved, leading to their request for resources at the last minute. The county argues that they have adequately cooperated and provided the necessary electrical permits and zoning approvals, as stipulated in the contract.
+
+2. **Budget Overruns:**
+   - EcoGreen has submitted a request for an additional $500,000, citing unforeseen site preparation costs due to poor soil conditions and unexpected delays in securing materials. They assert that these are legitimate claims covered under the contract’s change order provisions.
+   - Oakridge County, however, refuses to approve the additional budget, arguing that EcoGreen should have performed a more thorough site assessment prior to bidding. Further, they claim the company should absorb the cost overruns, as they believe the contractor failed to adhere to project management protocols outlined in their initial proposal.
+
+3. **Timeline Conflicts:**
+   - The original project timeline has slipped, and EcoGreen Solutions fears they will miss the contractual deadline due to the issues relating to resource allocation. They are seeking extensions that would push the project's completion into the summer of 2024.
+   - Oakridge County is concerned about the political implications of a delayed project, as they have publicly committed to commissioning the solar farm by January 2024. They are pushing for EcoGreen to expedite the work without compromising quality, emphasizing the community's expectations and sustainability goals.
+
+**Resolution Attempts:**
+Despite attempts at mediation, both parties remain entrenched in their positions. Oakridge County has suggested potential windowed access periods to utility connections, while EcoGreen insists that they need full access for their resource planning. Both parties have threatened legal action if the dispute cannot be resolved amicably, leading to a standoff that jeopardizes the successful completion of the project.

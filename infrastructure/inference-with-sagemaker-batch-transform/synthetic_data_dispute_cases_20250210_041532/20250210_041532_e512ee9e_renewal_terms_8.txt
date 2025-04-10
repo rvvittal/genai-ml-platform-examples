@@ -1,0 +1,33 @@
+Theme: Renewal Terms
+Case Number: 8
+--------------------------------------------------
+
+**Contract Dispute Scenario: Renewal Terms**
+
+**Parties Involved:**
+1. **TechCorp Solutions, Inc.** - a software development company based in San Francisco.
+2. **GreenLight Marketing LLC** - a digital marketing agency located in New York.
+
+**Background:**
+TechCorp and GreenLight entered into a one-year contract on January 1, 2022, for marketing services related to TechCorp’s new software product launch. The agreement included a section detailing renewal terms, specifically outlining a 30-day notice period before the expiration of the contract for either party. The renewal terms in the contract allowed for a 10% increase in pricing from the previous year if both parties expressed intent to renew by the specified date.
+
+**Key Details of the Dispute:**
+As the contract neared its renewal date in December 2022, TechCorp encountered delays in the launch timeline due to unforeseen technical issues. Consequently, TechCorp's management felt dissatisfied with the marketing results, believing they had not received the expected value from GreenLight's services. By December 1, 2022, TechCorp sent an email to GreenLight expressing its intention *not* to renew the contract, citing the disappointing performance and the lack of measurable results.
+
+On December 15, 2022, while reviewing the contract, GreenLight discovered that TechCorp's email had not been formally acknowledged. GreenLight subsequently sent a notification to TechCorp claiming that the 30-day notice requirement was violated, as they argued that the email was insufficient to constitute a proper termination notice. GreenLight insisted that without proper notice, the contract would automatically renew at the increased rate for another year.
+
+**Key Issues of Contention:**
+1. **Validity of the Termination Notice:**
+   - TechCorp argues that it duly notified GreenLight of its intent not to renew and initiated a proper conversation regarding contract termination.
+   - GreenLight contends that the email was informal and not in line with the contract's requirements for termination notice, asserting that they did not receive acknowledgment of the notice.
+
+2. **Performance Metrics and Expectations:**
+   - TechCorp is unhappy with the perceived lack of performance by GreenLight, citing specific metrics such as lead generation and social media engagement, which fell short of the agreed-upon objectives.
+   - GreenLight counters that they met all deliverables as required and that external market factors beyond their control affected results.
+
+3. **Automatic Renewal Terms:**
+   - GreenLight is claiming the automatic renewal for another year at the increased price, leading to further disputes centered on whether an implied agreement or good faith discussions could supersede the explicit terms laid out in the contract.
+   - TechCorp is seeking to avoid the renewal cost based on its provision of timely notice of non-renewal, claiming that GreenLight’s reliance on formal acknowledgment clauses creates undue leverage that could discourage open communication.
+
+**Conclusion:**
+The dispute has escalated to potential legal proceedings, with both parties seeking clarity on the enforceability of the renewal terms and the implications of performance evaluations tied to the contract. Mediation has been suggested as a potential resolution method as both parties seek to avoid protracted litigation.

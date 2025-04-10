@@ -1,0 +1,28 @@
+Theme: Communication Breakdown
+Case Number: 19
+--------------------------------------------------
+
+**Scenario: Communication Breakdown in Contract for Event Planning Services**
+
+**Parties Involved:**
+1. **Gala Events Inc.** - An established event planning company hired to organize a corporate gala for TechCorp, a mid-sized technology firm.
+2. **TechCorp** - A technology firm planning its annual shareholder meeting and gala dinner.
+
+**Background:**
+In January, TechCorp engaged Gala Events Inc. to plan a gala dinner scheduled for March 15. A comprehensive contract was signed, detailing the scope of services, including venue selection, catering, and entertainment. The contract specified a series of deadlines for decision-making and approvals by TechCorp.
+
+**Key Issues:**
+1. **Unclear Specifications:** TechCorp provided Gala Events with a general list of preferences for the event but did not give specific requirements for important elements, such as the catering menu or entertainment types. Gala Events interpreted the instructions differently than intended, leading to a mismatch between expectations and deliverables.
+
+2. **Failure to Communicate Changes:** As part of their internal planning, TechCorp decided to change the event theme to "Futurist Evening" two months into the planning phase. However, this information was communicated orally during a meeting but was not documented in a follow-up email or amendment to the contract. Gala Events continued planning based on initial specifications, leading to significant overlaps in the planned theme and decor for the event.
+
+3. **Timeliness of Decisions:** The contract stipulated that TechCorp must provide approval on key milestones (menu selection, venue layout, etc.) by certain dates. TechCorp's decision-making team was often slow to respond to emails and follow-up communications from Gala Events. This delay led to a bottleneck in preparations, causing frustration on both sides.
+
+4. **Misunderstood Budget Constraints:** TechCorp had initially provided a budget cap for the event. When Gala Events proposed additional enhancements to improve the experience, TechCorp assumed these were included in the original budget. Due to the lack of clarity in communication, Gala Events commenced their preparations, unaware that TechCorp was unwilling to exceed the budget. Once Gala Events submitted the final bill, which included upgrades, TechCorp expressed dissatisfaction, claiming it had exceeded agreed limits.
+
+5. **Last-Minute Changes:** A week before the event, TechCorp requested a complete change in the entertainment lineup, desiring a well-known band instead of the local artists previously agreed upon. This adjustment was not feasible on such short notice, creating tension as TechCorp insisted on the change citing a miscommunication on availability.
+
+**Resolution Attempts:**
+Discussions between the parties ensued but were often hindered by the emotional reactions from misaligned expectations. Both parties acknowledged the breakdown in communication but struggled to identify a fair way to proceed. Gala Events proposed to deliver a modified event plan within the original framework, while TechCorp sought penalties due to dissatisfaction with the overall handling of the arrangements. 
+
+The ongoing strain of unresolved issues highlighted the critical importance of clear communication and documentation in contractual relationships, concluding with both parties recognizing the need for improved processes in future collaborations.

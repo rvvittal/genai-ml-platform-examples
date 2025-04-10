@@ -1,0 +1,42 @@
+Theme: Milestone Disputes
+Case Number: 12
+--------------------------------------------------
+
+**Scenario: Milestone Dispute Between ABC Construction and XYZ Development Corp.**
+
+**Parties Involved:**
+
+1. **ABC Construction**: A medium-sized general contracting firm responsible for the renovation of a multi-unit residential building.
+2. **XYZ Development Corp.**: A real estate development company that owns the property undergoing renovation.
+
+**Project Overview:**
+
+In January 2023, ABC Construction entered into a $2 million contract with XYZ Development Corp. to renovate an existing apartment complex over a period of 9 months. The contract stipulated several key milestones for the project, including:
+
+- **Milestone 1**: Completion of structural repairs (due March 31, 2023)
+- **Milestone 2**: Completion of plumbing and electrical installations (due June 30, 2023)
+- **Milestone 3**: Final inspection and project close-out (due October 30, 2023)
+
+**Key Issues:**
+
+In July 2023, a dispute arose regarding Milestone 2, which ABC Construction asserts was completed on schedule, while XYZ Development Corp. contends that substantial work deficiencies necessitated additional repairs, claiming ABC Construction missed critical elements of the plumbing and electrical installations.
+
+**Main Points of Contention:**
+
+1. **Completion Status**:
+   - **ABC Construction's Position**: ABC Construction maintains that they completed the plumbing and electrical work as per the contract specifications. They assert that a blockage in the timeline was caused by undisclosed issues related to the existing infrastructure which were beyond their control.
+   - **XYZ Development Corp.'s Position**: XYZ Development Corp. argues that the work was not completed to the agreed standards. They point to multiple inspections that revealed significant safety violations and non-compliance with local building codes, necessitating further work to rectify.
+
+2. **Documentation and Evidence**:
+   - **ABC's Claims**: ABC Construction has submitted photos and inspection reports from an independent inspector that verify the completion of Milestone 2. They claim that these documents affirm their adherence to the contract and building codes.
+   - **XYZ's Claims**: XYZ Development Corp. has conducted its own inspections and gathered documentation that they claim show repeated failures in meeting the project's specifications. They assert that these findings were sufficient to withhold payment for Milestone 2.
+
+3. **Financial Implications**:
+   - As a result of this dispute, XYZ Development Corp. has withheld a payment of $500,000 tied to Milestone 2, claiming they are not liable for work that was not satisfactorily completed. Meanwhile, ABC Construction insists that withholding payment constitutes a breach of contract and has disrupted their cash flow.
+  
+4. **Future Work and Project Timeline**:
+   - The dispute has also delayed subsequent work on Milestone 3, as ABC Construction needs to resolve the Milestone 2 issues before proceeding. This has raised concerns regarding the overall project completion timeline and the potential for additional costs.
+
+**Conclusion**:
+
+With both parties firm in their positions, the dispute has escalated, with ABC Construction considering legal action for breach of contract over withheld payments, while XYZ Development Corp. is evaluating its options to enforce compliance and mitigate project risks. An informal mediation is proposed to resolve the dispute before escalating to litigation.

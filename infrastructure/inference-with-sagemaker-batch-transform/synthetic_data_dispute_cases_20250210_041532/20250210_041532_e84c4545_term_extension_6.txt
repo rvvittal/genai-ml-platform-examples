@@ -1,0 +1,34 @@
+Theme: Term Extension
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: Term Extension Between Tech Solutions Inc. and CityNet Telecom**
+
+**Parties Involved:**
+1. **Tech Solutions Inc.** - A software development company based in San Francisco, specializing in custom applications for telecom providers.
+2. **CityNet Telecom** - A regional telecommunications company that provides internet and telephone services to metropolitan areas across California.
+
+**Background:**
+In January 2020, Tech Solutions Inc. and CityNet Telecom entered into a contract for the development and maintenance of a custom billing software system, with an initial term of three years, set to expire on January 31, 2023. The contract included provisions for performance reviews and an option for a one-year term extension, contingent upon mutual agreement.
+
+**Dispute Overview:**
+As the initial term approached its conclusion, CityNet Telecom expressed a desire to extend the contract by one year due to the critical nature of the billing system in their operations. On December 15, 2022, CityNet sent a formal request to Tech Solutions for the term extension, citing several successful software updates and ongoing support that had become integral to their business.
+
+However, Tech Solutions responded with concerns about escalating maintenance costs and increasing demands for system updates that were not originally outlined in the contract. They indicated that the projected costs for continued support would exceed CityNet’s budget. Furthermore, Tech Solutions proposed an updated contract with a 25% increase in fees for the additional year, which CityNet viewed as exorbitant.
+
+**Key Issues:**
+
+1. **Cost Projections:**
+   - CityNet contends that the original contract included a fixed cost for maintenance and updates for the term of the agreement, and that the proposed fee hike was neither justified nor acceptable. They argue that Tech Solutions committed to maintaining the system for the duration of the contract without implementing significant price increases.
+   - Tech Solutions counters that significant enhancements in technology and support would require additional resources, thus the increase in fees is necessary to maintain quality service.
+
+2. **Scope of Services:**
+   - CityNet maintains that all services performed during the initial contract were within the agreed scope, and that the incremental updates were simply necessary to keep the software current and functional.
+   - Tech Solutions claims that the interpretation of “maintenance” has evolved, and they have been forced to allocate more resources than anticipated. They assert that the original contract was not intended to cover the breadth of updates required due to market changes.
+
+3. **Mutual Agreement Concerns:**
+   - CityNet argues that since they initiated the request for a term extension before the contract expiration, they believe their request should be viewed favorably, and they are prepared to negotiate a mutually agreeable fee for continued support.
+   - Tech Solutions, however, claims that the “mutual agreement” clause has not been met, as their counter-proposal defines the terms under which they would agree to extend the term, which CityNet views as unreasonable and against the spirit of cooperation.
+
+**Conclusion:**
+The parties have entered into a stalemate, with CityNet unwilling to accept the increased fees without further negotiations and Tech Solutions firmly holding their position about the need for equitable compensation. Both companies are now considering mediation to resolve these key issues before pursuing more formal arbitration.

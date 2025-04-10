@@ -1,0 +1,34 @@
+Theme: Support Services
+Case Number: 1
+--------------------------------------------------
+
+**Contract Dispute Scenario: Support Services**
+
+**Parties Involved:**
+1. **TechSol Inc.** (the Client) – A mid-sized technology company seeking additional support for its IT infrastructure.
+2. **SupportPro LLC** (the Service Provider) – A service-oriented business specializing in IT support services, contracted to manage TechSol’s IT needs.
+
+**Background:**
+In January 2023, TechSol Inc. entered into a contract with SupportPro LLC for IT support services. The agreement stipulated that SupportPro would provide 24/7 technical support, regular maintenance of hardware and software, and on-site assistance for urgent issues. The contract was set for one year, with an option for renewal based on performance.
+
+**Key Issues:**
+
+1. **Scope of Services:**
+   One of the primary points of contention arose regarding the scope of services rendered by SupportPro. TechSol claimed that SupportPro failed to meet the agreed-upon response times for support requests, particularly during a critical software upgrade in June 2023. TechSol accused SupportPro of providing inadequate remote support, resulting in prolonged downtime that affected productivity and revenue.
+
+2. **Documentation and Reporting:**
+TechSol alleged that SupportPro did not adhere to the contract's requirement for monthly performance reports. The lack of documentation made it difficult for TechSol to measure the effectiveness of the services rendered. SupportPro contended that the monthly reports were not explicitly defined in the contract and that their informal communication was sufficient.
+
+3. **Service Level Agreements (SLAs):**
+The contract included specific SLAs, including response times for high-priority issues. TechSol argued that SupportPro frequently missed these timelines. Conversely, SupportPro claimed that the issues categorized as high-priority were often inaccurately described by TechSol, noting that the context provided was insufficient for proper prioritization.
+
+4. **Billing Discrepancies:**
+Billing disputes also emerged due to additional charges filed by SupportPro after the first three months. TechSol believed that the charges were unsubstantiated, stemming primarily from support requests that they thought should be covered under the existing contract. SupportPro argued that the requests went beyond the agreed scope of service, thus raising an additional cost.
+
+5. **Termination Notice:**
+In September 2023, following unresolved issues and dissatisfaction with the quality of support, TechSol issued a termination notice. SupportPro contested this notice, claiming that TechSol did not follow the required procedures for termination and had not provided adequate opportunity for rectification of the alleged breaches.
+
+**Resolution Efforts:**
+Efforts to mediate the dispute through a third-party arbitrator began in October 2023, focusing on clarifying the scope of services, reviewing the contexts of service delivery, and reconciling billing disagreements. Both parties expressed their interest in reaching a resolution outside of litigation, hoping to settle before the contract officially ended in January 2024.
+
+The ongoing dispute highlights critical failings related to service expectations, communication, and documentation, underscoring the importance of clear contract terms in support service agreements.

@@ -1,0 +1,26 @@
+Theme: Amendment Procedures
+Case Number: 14
+--------------------------------------------------
+
+**Contract Dispute Scenario: Amendment Procedures between TechNova Solutions and AlphaDrive Marketing**
+
+**Parties Involved:**
+- **TechNova Solutions:** A software development firm specializing in custom applications for businesses.
+- **AlphaDrive Marketing:** A digital marketing agency engaged by TechNova to promote its latest software product, “AppEase.”
+
+**Background:**
+In January 2023, TechNova Solutions and AlphaDrive Marketing entered into a contract for marketing services to launch “AppEase.” The contract outlined the scope of work, timelines, deliverables, and payment structure. It included a clause regarding amendment procedures, stating: “Any modifications or amendments to this agreement must be made in writing and signed by both parties.”
+
+**Key Issues:**
+1. **Unauthorized Changes:** In July 2023, after several months of unsuccessful marketing campaigns, AlphaDrive unilaterally altered its marketing strategies and deliverables, promising new tactics to TechNova without a formal written amendment. They believed these changes were necessary given the market response. TechNova contends that AlphaDrive’s changes breached the original terms of the contract, arguing that the amendment clause is clear and must be followed to protect both parties' interests.
+
+2. **Disputed Performance Metrics:** TechNova claims that AlphaDrive failed to meet the agreed-upon performance metrics outlined in the contract, which included generating a certain number of leads and website traffic within specific timeframes. In response, AlphaDrive argues the metrics were “guidelines” rather than strict obligations and asserts that they often communicated these changes during weekly meetings. TechNova argues that the absence of written acknowledgment invalidates AlphaDrive’s claim of ‘guideline’ flexibility.
+
+3. **Failure to Document Communications:** Both parties engaged in numerous email and verbal discussions regarding adjustments to the marketing plan throughout the contract duration. TechNova cites these unrecorded communications as a failure on AlphaDrive’s part to comply with the amendment procedure. AlphaDrive, however, argues that these communications reflect an understanding that the performance expectations had evolved based on consumer feedback and data analysis.
+
+4. **Payment Dispute:** As the marketing campaign progressed without meeting the targeted metrics, TechNova withheld the final payment due under the contract, citing AlphaDrive’s failure to adhere to the agreed terms. AlphaDrive responded by issuing a demand for the payment, claiming that the adjustments made were subsequently accepted through implied consent and that TechNova was liable for their payment regardless of performance outcomes.
+
+5. **Increased Costs:** Due to conflicting views over the modification of the strategic plan and payment, AlphaDrive incurred additional costs in their attempt to meet TechNova’s expectations, which they are now seeking to recover from TechNova. TechNova maintains that these costs arose from AlphaDrive’s failure to adhere to the amendment procedure, arguing that they should not be responsible for expenses incurred without proper authorization.
+
+**Conclusion:**
+The dispute centers around the interpretation of the amendment procedure clause, the nature of performance metrics as binding obligations versus guidelines, and the consequences of adjusting to market realities without formal consent. Legal counsel has been engaged by both parties, with negotiations currently ongoing to resolve these issues amicably before pursuing litigation.

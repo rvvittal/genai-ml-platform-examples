@@ -1,0 +1,32 @@
+Theme: Payment Default
+Case Number: 1
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Default**
+
+**Parties Involved:**
+1. **Tech Innovations Corp (TIC)** - A software development company based in Silicon Valley, specializing in custom software solutions for businesses.
+2. **Green Solutions Inc (GSI)** - An environmental consultancy firm based in Austin, Texas, that leverages technology to offer eco-friendly solutions.
+
+**Background:**
+In January 2023, TIC and GSI entered into a contractual agreement whereby TIC would develop a custom analytics software tool for GSI. The total contract value was $300,000, with a payment schedule stipulating three payments: 30% upfront ($90,000), 40% upon halfway completion ($120,000), and the remaining 30% upon final delivery ($90,000). The project was to be completed by June 2023.
+
+**Dispute Overview:**
+As of July 2023, the project is significantly behind schedule. TIC completed only 50% of the software, citing unexpected technical challenges and resource shortages. Meanwhile, GSI, having initially paid the upfront fee and the second installment based on TIC's assurances of progress, is poised to withhold the final payment due to the lack of timely delivery and quality concerns. 
+
+**Key Issues of Contention:**
+
+1. **Delayed Progress:**
+   GSI claims that TIC's failure to meet the development milestones outlined in their agreement constitutes a breach of contract. GSI expected TIC to deliver the project within the agreed timeline, and they argue that the lack of completion has hindered their own business operations, which relied on the implementation of the software.
+
+2. **Quality of Work:**
+During a recent demonstration of the current software capabilities, GSI expressed concerns about the quality and functionality of the work completed. GSI contends that the software lacks critical features specified in the requirement document. TIC, however, argues that the software revisions are part of an iterative process and claims that GSI’s expectations were unrealistic.
+
+3. **Payment Obligations:**
+GSI has refused to pay the final installment on the basis of TIC's defaults. Conversely, TIC argues that they are entitled to the final payment since they completed half of the project, which GSI agreed should trigger that payment milestone. They further argue that GSI's refusal to pay could constitute a breach on GSI's part, as it undermines the compensation structure agreed upon.
+
+4. **Communication Breakdown:**
+Both parties acknowledge that communication regarding project updates has been inconsistent. GSI claims that TIC was unresponsive to requests for weekly updates, while TIC asserts that GSI failed to provide necessary feedback on preliminary iterations of the software, contributing to the delays.
+
+**Next Steps:**
+To resolve the dispute, both parties are considering mediation to facilitate a dialogue regarding the unfinished project, the quality of deliverables, and the obligations surrounding payment. Legal letters have been exchanged, and if an amicable solution is not reached soon, litigation may ensue, resulting in further costs for both TIC and GSI.

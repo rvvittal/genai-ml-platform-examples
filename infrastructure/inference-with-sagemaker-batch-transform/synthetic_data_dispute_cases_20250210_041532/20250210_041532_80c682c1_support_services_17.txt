@@ -1,0 +1,30 @@
+Theme: Support Services
+Case Number: 17
+--------------------------------------------------
+
+**Contract Dispute Scenario: Support Services Between TechWiz Solutions and GreenLeaf Industries**
+
+**Parties Involved:**
+1. **TechWiz Solutions**: A technology consulting firm that specializes in IT support and managed services, providing ongoing support for hardware and software issues to businesses.
+2. **GreenLeaf Industries**: A mid-sized manufacturing company that relies on TechWiz for crucial IT support for its production systems, including inventory management and quality control software.
+
+**Background:**
+In January 2023, TechWiz Solutions and GreenLeaf Industries entered into a one-year contract for IT support services valued at $120,000. Under this agreement, TechWiz was to provide 24/7 tech support, regular maintenance of the systems, and emergency on-site assistance within 4 hours of a service request. 
+
+**Dispute Overview:**
+By August 2023, GreenLeaf began experiencing recurring problems with its inventory management software, leading to significant production delays. Representatives from GreenLeaf expressed their concerns to TechWiz, reporting that the response times for support tickets frequently exceeded the agreed-upon four-hour window, sometimes reaching as long as 12 hours. Furthermore, when on-site support was requested, TechWiz's team was often unavailable, leading to an increased backlog of issues.
+
+**Main Points of Contention:**
+
+1. **Response Time Violations**: GreenLeaf claims that TechWiz consistently failed to meet the response time outlined in their contract. According to internal records, over 30% of tickets reported between June and August received responses outside the contractual timeframe. This resulted in production cycle interruptions, posing a risk to contract obligations with distributors.
+
+2. **Quality of Service**: GreenLeaf argues that the IT support provided was subpar, highlighting instances where issues were not resolved after multiple support sessions. They provided an example where a critical software glitch, reported on July 15, remained unresolved for over three weeks, despite repeated follow-ups. This neglect caused GreenLeaf to incur penalties from suppliers due to their inability to fulfill orders on time.
+
+3. **Breach of Contract**: Due to the ongoing issues, GreenLeaf asserts that TechWiz has breached their contract. As per the service level agreement (SLA), consistent failure to meet the stipulated response times and quality assurances could invoke penalties, including termination of the contract or a demand for compensation for damages incurred due to TechWiz's negligence.
+
+4. **TechWiz’s Defense**: In response, TechWiz acknowledged that they faced staffing shortages and increased service demands in the summer months, which contributed to delays. They argue that they communicated these challenges to GreenLeaf, offering temporary solutions, such as remote monitoring services and escalating support levels, which GreenLeaf rejected.
+
+5. **Seeking Resolution**: GreenLeaf is requesting a formal meeting to discuss compensation for the damages incurred and potential penalties for breach, while TechWiz has proposed extending the contract and providing enhanced support services at no additional cost to address the issues.
+
+**Conclusion:**
+This dispute presents a critical inflection point for both parties, as GreenLeaf seeks to recoup losses and ensure contractual obligations are honored, while TechWiz must manage its reputation and operational integrity amidst rising concerns about its service reliability.

@@ -1,0 +1,28 @@
+Theme: Acceptance Criteria
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: Acceptance Criteria Between TechDev Co. and HealthPlus Inc.**
+
+**Background:**
+
+TechDev Co., a software development firm specializing in healthcare solutions, entered into a contract with HealthPlus Inc., a provider of electronic health record software, to create a patient management application. The contract was signed on January 15, 2023, detailing the project’s scope, deadlines, and acceptance criteria for deliverables. The final delivery date was set for June 30, 2023.
+
+**Parties Involved:**
+
+1. **TechDev Co.**: The contractor tasked with developing a custom software solution, overseen by Project Manager Sarah Liu.
+2. **HealthPlus Inc.**: The client, represented by Director of Operations John Carter, responsible for providing ongoing feedback and final approval of the software.
+
+**Key Issues:**
+
+1. **Vagueness of Acceptance Criteria**: The contract included an acceptance criteria section that specified functional requirements but lacked clarity on performance metrics, such as response time under load or compatibility with third-party systems. TechDev asserts that the criteria were adequate for the scope of the project. However, HealthPlus claims the criteria were insufficiently detailed, leading to differences in interpretation during the testing phase.
+
+2. **Disagreement on Deliverables**: On June 15, 2023, TechDev submitted the application for final review, claiming it met all acceptance criteria. HealthPlus conducted a series of tests and identified several issues, including slower-than-expected system response times and improper integration with existing systems. HealthPlus asserted that these deficiencies did not conform to the implications of the agreed performance metrics, which they claim were understood to be part of the acceptance criteria.
+
+3. **Late Deliverable Concerns**: TechDev argues that HealthPlus's requests for additional features during development changed the original scope of work and contributed to the deliverable’s delays. HealthPlus contends that changes were limited to minor adjustments and that TechDev failed to communicate potential impacts on the delivery schedule. Consequently, HealthPlus alleged that TechDev should incur penalties for not meeting the established deadline.
+
+4. **Final Acceptance and Payment**: HealthPlus refused to sign off on the project and delayed payment of the final installment of $200,000 based on the incomplete status of deliverables. TechDev, on the other hand, insists that they delivered a functional product and demands payment, arguing that the existing contract did not provide grounds for withholding payment based on performance issues not expressly detailed in the acceptance criteria.
+
+**Conclusion:**
+
+The dispute centers around the interpretation of acceptance criteria, the clarity of deliverables, and consequent responsibilities regarding payments. Both parties seek resolution through negotiation, with TechDev advocating for payment based on contractual obligations and HealthPlus demanding better-defined performance metrics to mitigate non-compliance issues. Their ongoing contention could potentially lead to legal arbitration if an agreement isn't reached promptly.

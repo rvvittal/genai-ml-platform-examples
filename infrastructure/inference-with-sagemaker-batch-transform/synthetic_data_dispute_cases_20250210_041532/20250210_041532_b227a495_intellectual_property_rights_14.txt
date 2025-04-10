@@ -1,0 +1,29 @@
+Theme: Intellectual Property Rights
+Case Number: 14
+--------------------------------------------------
+
+**Contract Dispute Scenario: Intellectual Property Rights**
+
+**Parties Involved:**
+1. **InnovateTech Inc.** - A technology startup specializing in software development, based in San Francisco, California.
+2. **Creative Solutions LLC** - A design and marketing agency located in New York City, known for its branding and digital media strategies.
+
+**Background:**
+In January 2022, InnovateTech Inc. entered into a contract with Creative Solutions LLC to develop a branding campaign for their flagship software application, "SmartPlan." The contract stipulated that Creative Solutions would create an array of marketing materials, including logos, promotional videos, and social media content, with a total project fee of $150,000, payable in three installments as the project progressed.
+
+**Dispute Description:**
+By March 2023, InnovateTech alleged that Creative Solutions had failed to deliver all required project milestones on time, particularly a key promotional video that was critical for the product launch scheduled in May. As a result, InnovateTech claimed they suffered financial losses and reputational damage due to the delay. 
+
+In response, Creative Solutions contended that the delays were attributable to InnovateTech's failure to provide necessary input and approvals for the marketing materials, as outlined in the initial agreement. The agency argued that it could not proceed efficiently without timely feedback from InnovateTech, leading to the inability to meet deadlines.
+
+The crux of the dispute arose when InnovateTech decided to terminate the contract in late March 2023, citing Creative Solutions' failure to meet the agreed timelines. They invoked a clause in the contract that allowed for termination if milestones were not met within a reasonable timeframe. However, as part of the termination procedure, InnovateTech alleged that all intellectual property rights to the materials created up until that point remained with them, while Creative Solutions contended that they retained rights to the materials until full payment was made, as their contract did not explicitly assign IP rights and included an IP retention clause for unpaid work.
+
+**Key Issues:**
+1. **Breach of Contract:** InnovateTech believes Creative Solutions breached their contract by failing to meet project deadlines, while Creative Solutions claims it was InnovateTech's lack of communication that led to the project delays.
+  
+2. **Intellectual Property Rights:** The main contention revolves around the ownership of the marketing materials produced. InnovateTech argues that they should own the materials since they paid for most of the project, while Creative Solutions insists they cannot relinquish any rights until the contract is fully executed, including final payments.
+
+3. **Damages and Losses:** InnovateTech calculates its losses, asserting that the delay impacted its product launch, leading to decreased sales forecasts. Creative Solutions counters that the delays were not entirely their fault and questions the legitimacy of InnovateTech's financial claims.
+
+**Conclusion:**
+The dispute escalated to negotiations for settlement but remains unresolved as both parties have adopted rigid stances. InnovateTech seeks full ownership of all materials while Creative Solutions demands outstanding payments and recognition of their IP rights as per their contractual agreement. Both firms are now considering legal action as a means to resolve the matter.

@@ -1,0 +1,31 @@
+Theme: Integration Issues
+Case Number: 3
+--------------------------------------------------
+
+### Contract Dispute Scenario: Integration Issues
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - A software development firm contracted to deliver a Customer Relationship Management (CRM) system.
+2. **RetailCorp** - A large retail company seeking to enhance its customer engagement through the implementation of the new CRM system.
+
+**Background:**
+In January 2023, TechSolutions Inc. and RetailCorp entered into a contract for the development and integration of a customized CRM system that is expected to streamline RetailCorp's consumer data management and improve marketing efforts. The contract stipulated that TechSolutions would complete the integration within six months, with a total payment of $800,000, linked to key milestones.
+
+**Key Issues in Dispute:**
+1. **Timeline Delays:**
+   By June 2023, TechSolutions had failed to meet the deadline for integration. RetailCorp alleges that TechSolutions did not adhere to the agreed-upon timeline, with significant delays appearing in the initial testing phases. TechSolutions argues that unforeseen complications arose due to RetailCorp's legacy systems, which were not fully disclosed at the project's outset.
+
+2. **Scope Creep:**
+   RetailCorp is contending that TechSolutions is responsible for additional costs arising from scope creep. RetailCorp requested several new features during the project that were not part of the original scope. TechSolutions insists that these modifications were necessary for compatibility with existing systems and were verbally approved by RetailCorp’s project manager. The lack of formal documentation for these changes has become a point of contention.
+
+3. **Integration Compatibility:**
+   A major grievance concerns the integration of the new CRM with RetailCorp's ERP (Enterprise Resource Planning) system. RetailCorp claims that the CRM’s current integration capabilities are not functioning as per the contract specifications. Issues like data syncing errors and the inability to access real-time analytics have been cited as critical failures. TechSolutions maintains that these issues stem from RetailCorp's outdated ERP system, which requires further updates to enable successful integration.
+
+4. **Testing and Acceptance Criteria:**
+   RetailCorp rejects TechSolutions’ claim that the delivered system is ready for acceptance testing. The contract outlined specific acceptance criteria that the system must meet before final payment. RetailCorp asserts that key functionalities did not perform as expected during preliminary tests, while TechSolutions insists that the software is functionally complete and that RetailCorp has not performed adequate testing due to internal resource constraints.
+
+5. **Financial Aspects:**
+   Both parties are at a financial impasse; RetailCorp has withheld the final payment of $300,000 as per the contract stipulation, while TechSolutions claims the withheld payment is unjustified, threatening to take legal action if the payment is not released. Some of the project’s developers have paused work due to mounting financial pressures, which further complicates the timeline for resolution.
+
+### Conclusion:
+The dispute between TechSolutions Inc. and RetailCorp highlights critical issues related to governance in contract management, including clarity of scope, adherence to timelines, and integration quality. Both parties may need to engage in mediation or arbitration to resolve their differences and ensure the successful rollout of the CRM system.

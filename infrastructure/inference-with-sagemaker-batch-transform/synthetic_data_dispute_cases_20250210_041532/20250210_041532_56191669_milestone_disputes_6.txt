@@ -1,0 +1,35 @@
+Theme: Milestone Disputes
+Case Number: 6
+--------------------------------------------------
+
+### Contract Dispute Scenario: Milestone Dispute in Construction Project
+
+**Parties Involved:**
+1. **Builder Corp.** - A mid-sized construction company contracted to build a mixed-use residential development.
+2. **City Developments Inc. (CDI)** - A real estate development firm that owns the project and is funding the construction.
+
+**Project Overview:**
+The parties entered into a construction contract for a $10 million project to build a 100-unit residential complex in Springfield, which included strict deadlines and a series of performance milestones tied to payments. The contract stipulates five key milestones, each triggering payment contingent upon satisfactory completion and inspection.
+
+**Key Milestones:**
+1. **Milestone 1:** Site preparation and foundation work completion (Due: January 1).
+2. **Milestone 2:** Frame and roof completion (Due: April 1).
+3. **Milestone 3:** Interior rough-ins (Due: July 1).
+4. **Milestone 4:** Exterior finishes (Due: October 1).
+5. **Milestone 5:** Final completion and inspections (Due: December 1).
+
+**Dispute Summary:**
+As of mid-April, Builder Corp. completed the foundation work two weeks late due to unexpected weather conditions, thereby causing missed deadlines for subsequent milestones. CDI, following their contract stipulations, withheld payment due for Milestone 1 until the inspection was complete, which occurred two weeks after the due date.
+
+In April, Builder Corp. asserted that the weather-related delays were beyond their control and submitted a Change Order Request (COR) to adjust the project timeline. However, CDI claimed that Builder Corp.'s late submission of the request and failure to seek timely approval for changes violated the terms of their contract.
+
+As Milestone 2 approached, Builder Corp. completed the framing and roofing, but due to the initial delay, they could only perform a partial inspection. CDI decided to withhold payment for Milestone 2, arguing that incomplete inspections constituted failure. Builder Corp. countered, stating that they had met the essential requirements and were entitled to payment despite the incomplete inspection process.
+
+**Key Issues of Contention:**
+1. **Weather-related Delays vs. Contractual Obligations:** Builder Corp. argues that the weather conditions were an unforeseen event justifying delays under contract clause 5.2 – “Force Majeure.” CDI contests that Builder Corp. failed to notify them within the contractual timeframe to invoke this clause.
+   
+2. **Milestone Payment Conditions:** The contract states that payments are only released upon satisfactory inspections of completed milestones. CDI’s interpretation leads them to insist on a complete inspection for Milestone 2, while Builder Corp. argues that partial inspections should suffice as long as progress is demonstrable.
+
+3. **Timeliness of Change Orders:** Builder Corp.’s late submission of the Change Order Request conflicts with CDI’s strict adherence to timelines for approvals. This leads to further disputes regarding who holds more responsibility for scheduling delays. 
+
+The situation escalates as tensions rise; both parties threaten legal action. ASCII letters of intent and reminder notices circulate, each seeking to enforce their positions, but a resolution remains elusive. Ultimately, the city's construction agency intervenes, urging both parties to negotiate a settlement to avoid costly litigation.

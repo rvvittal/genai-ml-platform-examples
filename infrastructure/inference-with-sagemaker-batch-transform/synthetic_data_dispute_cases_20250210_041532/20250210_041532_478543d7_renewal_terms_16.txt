@@ -1,0 +1,34 @@
+Theme: Renewal Terms
+Case Number: 16
+--------------------------------------------------
+
+**Contract Dispute Scenario: Renewal Terms**
+
+**Parties Involved:**
+1. **TechCo Solutions, Inc.** ("TechCo") – A software development company specializing in custom applications for businesses.
+2. **RetailMax Stores, LLC.** ("RetailMax") – A national retail chain that has been using TechCo’s inventory management software since 2020.
+
+**Background:**
+In 2020, TechCo and RetailMax entered into a three-year software licensing agreement. The initial contract specified the terms, conditions, and pricing for the use of TechCo's inventory management software, along with a clause related to automatic renewal of the contract.
+
+**Dispute Overview:**
+As the original contract approached its expiration date in December 2023, both parties found themselves in disagreement over the interpretation of the renewal terms specified in the contract.
+
+**Key Issues:**
+
+1. **Automatic Renewal Clause:**
+   The contract contained the following clause: “This agreement will automatically renew for an additional three-year term unless either party provides written notice of termination at least 90 days prior to the expiration date.” RetailMax asserts that this clause clearly indicates that unless TechCo receives written termination notice by September 30, 2023, the contract would automatically extend. Conversely, TechCo argues that the notice must specify an explicit intention to terminate the agreement, and that a generic email sent by RetailMax on September 15, 2023, does not satisfy the contractual obligation.
+
+2. **Pricing Discrepancies:**
+RetailMax contends that the contract did not stipulate that the renewal would involve a price increase. They argue that during the renewal period, the pricing should remain consistent with the initial agreement. However, TechCo has proposed a 15% increase in licensing fees, claiming that market conditions and increased operational costs justify the price hike. RetailMax maintains that this increase was not addressed during negotiations and is contrary to the spirit of their long-term partnership.
+
+3. **Software Updates and Support:**
+RetailMax also raises concerns regarding the ongoing support and updates for the software. They assert that the initial contract included provisions for regular updates and 24/7 customer support services. However, TechCo has indicated that during the renewal term, support would only be available during regular business hours unless an additional fee is paid for extended support. RetailMax argues that they relied on the original terms and that sudden changes are unacceptable.
+
+**Proposed Resolutions:**
+RetailMax is pushing for TechCo to either adhere to the original pricing structure or to continue negotiations for a mutually agreeable price that reflects their long-standing relationship. They also demand that the terms for software support and updates remain consistent with the initial agreement.
+
+On the other hand, TechCo is willing to negotiate on pricing but insists on incorporating its new support policies into the renewal terms. They argue that adjustments are necessary for business sustainability, particularly given the evolving software landscape.
+
+**Conclusion:**
+The dispute surrounding the renewal terms between TechCo Solutions, Inc. and RetailMax Stores, LLC. has led to a standoff, with both parties needing to address their concerns and negotiate terms that honor their existing agreement while adapting to current market dynamics. Legal counsel may be required to navigate these conflicting interpretations and seek a resolution that aligns with their business interests.

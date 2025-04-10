@@ -1,0 +1,32 @@
+Theme: Support Services
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Support Services between TechGlobal Solutions and HealthCorp Industries**
+
+**Background:**  
+In January 2022, TechGlobal Solutions, a software development company, and HealthCorp Industries, a healthcare company, entered into a three-year contract for the provision of IT support services. The agreement included system maintenance, software updates, and a dedicated support team available 24/7. The contract stipulated specific response times to technical issues, performance benchmarks, and payment terms.
+
+**Parties Involved:**  
+1. **TechGlobal Solutions**: Contract manager—Emily Chan, with a team of IT professionals.
+2. **HealthCorp Industries**: IT Director—Mark Jensen, overseeing tech operations in multiple hospital facilities.
+
+**Key Issues in the Dispute:**
+
+1. **Service Quality and System Downtime**:  
+   HealthCorp claims that TechGlobal has consistently failed to meet the service quality standards outlined in the contract. Specifically, HealthCorp reports frequent system downtimes, particularly affecting their patient management system, which has led to delays in patient scheduling and billing. HealthCorp alleges that TechGlobal has not adhered to the 99% uptime guarantee in the contract, with actual reported uptime averaging only 92%. This has strained operations and damaged the company's reputation within the healthcare community.
+
+2. **Response Times to Technical Issues**:  
+According to the contract, TechGlobal is required to respond to critical incidents within one hour. HealthCorp claims that, on numerous occasions, response times have exceeded this requirement, with some issues taking several hours to resolve, adversely impacting patient care. TechGlobal contests this claim, arguing that HealthCorp has failed to properly categorize issues, causing misunderstandings regarding the urgency and response timelines.
+
+3. **Non-payment of Invoices**:  
+In late 2022, TechGlobal submitted invoices for additional support requests that exceeded the agreed-upon limit in the contract. HealthCorp declined to pay these invoices, citing dissatisfaction with the level of service provided as justification. TechGlobal contends that these additional requests were clearly outlined in the service agreement, and that HealthCorp's refusal to pay is unfounded.
+
+4. **Contract Interpretation**:  
+Both parties disagree on the interpretation of the performance benchmarks. HealthCorp argues that TechGlobal's failure to meet these benchmarks constitutes a breach of contract, which warrants a termination clause that allows them to exit the agreement without penalties. TechGlobal, however, argues that the benchmarks were met according to their internal metrics and asserts that the complaint originated from misunderstandings about the technical definitions laid out in the contract.
+
+**Resolution Attempts**:  
+Following numerous discussions and failed mediation meetings, both parties have escalated the situation to legal counsel. HealthCorp is seeking damages related to operational losses and potential contract termination, while TechGlobal demands payment for services rendered and insists that they have met their contractual obligations.
+
+**Conclusion:**  
+The dispute continues to escalate, with significant implications for both companies. TechGlobal's reputation and financial stability are at stake, alongside HealthCorp's operational efficiency and patient care, making resolution imperative for both parties.

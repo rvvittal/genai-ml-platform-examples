@@ -1,0 +1,42 @@
+Theme: Payment Default
+Case Number: 6
+--------------------------------------------------
+
+### Contract Dispute Scenario: Payment Default
+
+**Parties Involved:**
+
+1. **Alpha Construction Inc.** (Plaintiff)  
+   - A mid-sized construction company based in Chicago, Illinois, specializing in commercial building projects.
+
+2. **Beta Developments LLC** (Defendant)  
+   - A property development firm engaged in residential and commercial projects, headquartered in Chicago, Illinois.
+
+**Background:**
+
+On April 1, 2023, Alpha Construction Inc. and Beta Developments LLC entered into a contract for the construction of a new office building in downtown Chicago, valued at $1.2 million. The contract outlined a payment schedule based on project milestones, including a 10% upfront deposit and subsequent payments upon the completion of key construction phases. The timeline stipulated completion by December 1, 2023.
+
+**Current Dispute:**
+
+Alpha Construction alleges that Beta Developments defaulted on payment when it failed to make the second milestone payment of $240,000, which was due on July 15, 2023, following the completion of the foundation and structural work. As of August 1, 2023, Beta had neither made the payment nor formally notified Alpha of any intent to renegotiate or contest the charge.
+
+**Key Issues:**
+
+1. **Payment Deficiency:**  
+   Alpha Construction claims that the foundation and framing work were completed ahead of schedule and met all specifications outlined in the contract, thus warranting the release of the second payment. They assert that Beta’s failure to pay constitutes a breach of contract.
+
+2. **Alleged Quality Concerns:**  
+   Beta Developments disputes the payment by alleging that there were significant quality issues with the work completed, including delays in project deliverables and design inconsistencies that reportedly led to additional costs. They contend that these deficiencies justify withholding payment until resolved.
+
+3. **Lack of Communication:**  
+   Alpha Construction argues that Beta did not properly communicate any concerns regarding the quality of work until after the payment due date. They claim that after multiple attempts to contact Beta for clarification, they received no feedback, leaving them unable to address any alleged issues in a timely manner.
+
+4. **Liquidated Damages Clause:**  
+   The contract contains a clause imposing liquidated damages for delays on Beta's part, which Alpha believes could counteract Beta's claims. Alpha asserts that the delays referenced by Beta were either minimal or caused by factors unrelated to their work.
+
+5. **Legal Repercussions:**  
+   Alpha Construction has threatened legal action to recover the overdue amount, along with interest and costs associated with the breach. Beta, on the other hand, has indicated an intention to counter-sue, citing costs incurred due to the alleged substandard work and project delays.
+
+**Conclusion:**
+
+The dispute currently hinges on two main points: the legitimacy of Beta Developments' claims regarding the quality of construction work and whether they have grounds to withhold payment as specified in the contract. A potential resolution may involve mediation or legal proceedings to determine liability and financial responsibility for the incomplete phase of the project.

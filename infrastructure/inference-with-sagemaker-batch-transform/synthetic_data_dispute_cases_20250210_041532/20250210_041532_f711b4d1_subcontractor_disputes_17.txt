@@ -1,0 +1,32 @@
+Theme: Subcontractor Disputes
+Case Number: 17
+--------------------------------------------------
+
+**Contract Dispute Scenario: Subcontractor Disputes**
+
+**Parties Involved**:  
+1. **GC Construction Co.** (General Contractor)  
+2. **GreenBuild Subcontractors, LLC** (Subcontractor)
+
+**Project Overview**:  
+GC Construction Co. has been awarded a contract to build a new community center in Springfield. As part of the main contract, GC contracted GreenBuild Subcontractors, LLC, to handle all landscaping and site development work. The total value of the subcontract was $250,000, with a timeline of three months for project completion, commencing January 1, 2023.
+
+**Key Issues**:  
+
+1. **Delays in Work Completion**:  
+GreenBuild began working on-site in January but encountered several delays due to adverse weather conditions and issues with obtaining necessary permits. By mid-March, the landscaping work was only 50% complete, which was a significant deviation from the agreed timeline. GC Construction Co. argued that the subcontractor did not adequately manage these delays, citing a lack of proactive communication regarding the weather issues and the slow response in obtaining the necessary permits.
+
+2. **Quality of Work**:  
+Once GreenBuild completed a significant portion of the landscaping, GC Construction Co. raised concerns about the quality of work. Specific complaints included improperly installed irrigation systems, damaged plantings, and inconsistent grading throughout the property. GC claimed that the completed work did not meet the outlined specifications in the contract and could potentially lead to additional future costs for rectification.
+
+3. **Change Orders and Cost Overruns**:  
+During the project, GC Construction Co. initiated several change orders due to design modifications requested by the city. GreenBuild claimed that GC failed to provide timely approvals for these changes and, as a result, incurred additional costs. The subcontractor submitted a request for an additional $35,000 to cover these overruns, but GC disputed this claim, insisting that the delays and additional costs were due to GreenBuild's mismanagement rather than the change orders themselves.
+
+4. **Final Payment Dispute**:  
+As the project neared completion in April, GC Construction Co. produced a final payment invoice to GreenBuild but withheld final payment, citing the outstanding quality issues and delays. GreenBuild countered that with progress payments received up to that point, they had adequately performed their duties as outlined in the contract, and thus they were entitled to the final payment to cover their labor and material costs.
+
+5. **Communication Breakdown**:  
+The relationship between GC Construction and GreenBuild deteriorated due to a lack of effective communication. GreenBuild felt that GC was not adequately supportive during the initial delays, while GC felt blindsided by GreenBuild’s failure to properly inform them about the ongoing issues and challenges. Accusations of miscommunication exacerbated tensions between the two parties, leading to a breakdown of trust.
+
+**Conclusion**:  
+Both parties are now faced with the prospect of legal action. GC Construction Co. insists on withholding payment until the landscaping is rectified and the project is brought back on schedule, while GreenBuild seeks recourse for what they see as unjust penalties and demands full payment for the work completed. The unresolved issues surrounding delays, quality disputes, and change order costs have ultimately left both parties considering mediation to resolve their contentions amicably.

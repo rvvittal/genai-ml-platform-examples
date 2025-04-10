@@ -1,0 +1,30 @@
+Theme: Maintenance Obligations
+Case Number: 1
+--------------------------------------------------
+
+**Scenario: Contract Dispute Between Landlord and Tenant Over Maintenance Obligations**
+
+**Parties Involved:**
+
+1. **Landlord:** Clara Thompson, owner of a four-unit apartment building located in downtown Springfield.
+2. **Tenant:** John Mitchell, a tenant in Unit 3 who signed a one-year lease starting June 1, 2022.
+
+**Background:**
+
+Clara Thompson leased Unit 3 to John Mitchell under a contract that specifies the landlord’s obligation to maintain the property, including plumbing, heating, and electrical systems. The lease explicitly states that the landlord is responsible for all necessary repairs, provided that such repairs are not caused by tenant negligence.
+
+**Key Issues:**
+
+1. **Heating System Malfunction:** In January 2023, during a particularly cold spell, Mitchell reported that the heating system in his unit was not functioning properly. The temperature within the unit fell dangerously low, prompting complaints to the landlord. Clara arranged for a technician to assess the situation within a week but did not expedite the process despite the extreme circumstances.
+
+2. **Repair Delays:** The technician diagnosed the issue as a malfunctioning boiler that required part replacement. The repair parts delivery was delayed for two weeks, during which time Mitchell repeatedly contacted Clara requesting updates. He argued that the lack of heat constituted a breach of the lease agreement, as it affected his ability to use and enjoy the property.
+
+3. **Tenant's Responsibility:** Clara contended that Mitchell had caused the heating issue by improperly adjusting the thermostat, claiming that tenants are responsible for the reasonable use of appliances. According to her interpretation of the lease, if a tenant's actions lead to a repair need, they are liable for associated costs.
+
+4. **Further Damages:** In addition to the heating issue, Mitchell reported water damage in his ceiling in March 2023, which he attributed to a neglected roof leak that he had previously reported to Clara. He argues that Clara's neglect in addressing the roof maintenance violated the contract, leading to the water damage, and is now seeking compensation for damaged personal property and repair costs.
+
+5. **Notice of Breach:** Following the continued unresolved issues, Mitchell sent a formal notice to Clara in early April, indicating her breach of contract for failing to provide proper heating and maintenance. He demanded a rent reduction for the months impacted and compensation for the damages incurred due to the landlord's negligence.
+
+6. **Possible Resolution:** Clara acknowledged the validity of some repair delays, yet she firmly rejected Mitchell's claims regarding the thermostat usage and refused the rent reduction, asserting the obligations outlined in their lease were met. The dispute escalated as both parties obtained legal counsel, positioning them for a potential court battle over the unclear maintenance obligations and accountability.
+
+This conflict encapsulates the challenges that arise in landlord-tenant relationships, particularly regarding maintenance responsibilities and the interpretation of lease agreements. Both parties seek resolution, but the diverging viewpoints on fault and obligation complicate the path forward.

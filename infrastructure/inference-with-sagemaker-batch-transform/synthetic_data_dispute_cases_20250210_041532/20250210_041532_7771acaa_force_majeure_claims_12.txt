@@ -1,0 +1,30 @@
+Theme: Force Majeure Claims
+Case Number: 12
+--------------------------------------------------
+
+**Contract Dispute Scenario: Force Majeure Claims**
+
+**Parties Involved:**
+1. **TechGlobex Inc.** - A leading software development company based in San Francisco, California.
+2. **BuildTech Solutions** - A construction firm contracted by TechGlobex for the construction of a new office facility in Austin, Texas.
+
+**Background:**
+In June 2023, TechGlobex entered into a contract with BuildTech Solutions for the construction of their new office complex, valued at $5 million. The contract included specific clauses regarding project timelines, payment schedules, and a force majeure clause that defined unforeseen events like natural disasters, pandemics, and government actions that could delay project completion.
+
+**Key Events Leading to Dispute:**
+In March 2024, a severe flooding incident hit Austin, Texas, causing significant delays in the construction schedule. BuildTech claimed this was a force majeure event that exempted them from penalties related to missed deadlines and sought to extend the project timeline by six months. They also requested additional funds to recover lost time and mitigate the damages incurred due to the flooding.
+
+TechGlobex, however, contested BuildTech's claim, arguing that:
+1. Readiness: BuildTech was initially unprepared for the extent of flooding, which was forecasted and indicative of the seasonal weather patterns in Austin. TechGlobex maintained that BuildTech should have had contingency plans in place.
+2. Delay Not Unique: TechGlobex asserted that while the flooding did cause some delays, the schedule had already been impacted by BuildTech’s slow progress prior to the flooding. They pointed to previous missed deadlines and incomplete submissions as ongoing issues.
+3. Scope of Force Majeure: TechGlobex argued that the force majeure clause should not apply, as BuildTech failed to provide timely notification of the flooding’s impact. According to the contract, parties must inform each other of a force majeure event within 48 hours.
+
+**Key Issues:**
+1. **Adequacy of Notification:** Did BuildTech adequately notify TechGlobex about the flooding and its impact on the project timeline within the stipulated timeframe?
+2. **Preparedness and Contingency Plans:** Does the nature of the flood constitute a valid force majeure event considering BuildTech's lack of adequate preparation?
+3. **Impact on Payment:** Should TechGlobex be held liable for additional payments requested by BuildTech due to the flooding, despite ongoing delays that predated this event?
+
+**Current Status:**
+As of April 2024, TechGlobex has formally responded to BuildTech’s claims, stating they will not accept the extensions or additional costs. A mediation session has been proposed to facilitate discussions and resolve the dispute amicably, but both parties remain entrenched in their positions, making it likely that the case could proceed to arbitration if a resolution is not found.
+
+This situation highlights the complexities of force majeure claims, especially around issues of preparedness, notification, and contractual obligations.

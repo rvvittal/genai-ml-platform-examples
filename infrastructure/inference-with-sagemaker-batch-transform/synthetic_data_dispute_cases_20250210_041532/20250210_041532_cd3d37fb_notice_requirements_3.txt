@@ -1,0 +1,29 @@
+Theme: Notice Requirements
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Notice Requirements**
+
+**Background:**
+
+The dispute arises between two parties: GreenLeaf Landscaping (the "Contractor"), owned by person A, and Urban Development Co. (the "Client"), headed by person B. The two parties entered into a contract for a major commercial landscaping project in Downtown City, valued at $500,000. The contract specifies that the Contractor must provide written notice of any delays affecting the project timeline within 10 days of becoming aware of the delay.
+
+**Key Issues:**
+
+1. **Delay Notification:**
+   The Contractor encountered significant delays due to unusually heavy rains that began in early April, halting progress. Although the rains were an unforeseen circumstance, the Contractor failed to submit any written notice within the required 10-day timeframe. The contract clearly outlined that a written notice, detailing the reasons for the delay and an updated timeline, must be delivered to the Client.
+
+2. **Client’s Expectations and Reliance:**
+   The Client completed their part of the project and began to market the new commercial space, banking on the landscaping to be finished by May 15. In mid-April, the Client contacted the Contractor regarding the lack of visible progress. The Contractor verbally communicated their challenges but did not provide a formal notice. Subsequently, on May 10, the Client sent a formal letter stating that they were terminating the contract due to the lack of communication and progress.
+
+3. **Contractual Rights to Terminate:**
+   Urban Development Co. contends that by failing to adhere to the notice requirement, the Contractor waived their rights to claim any extension of time for the project completion. They argue that the Contractor’s failure to notify them of the delays in a timely manner represents a breach of contract. The Client claims to seek damages for additional costs incurred by having to contract another landscaping service to finish the work, estimated at around $75,000.
+
+4. **Contractor's Defense:**
+   In defense, the Contractor argues that the severe weather was an act of God and that they were not entirely responsible for the delays. They contend that the Client's expectations were unrealistic given the natural circumstances. Additionally, the Contractor argues that they communicated the delay verbally and that the Client should have reasonably informed themselves of the weather issues impacting the project.
+
+5. **Impact of Notice Provisions:**
+   A focal point of the dispute revolves around the implications of the notice requirement stipulated in the contract. The Contractor claims that the essence of the delay has been communicated and that the formal notice was a mere technicality, arguing for the enforcement of equitable principles. Conversely, the Client insists that the notice requirement serves a critical function to manage expectations and enforce accountability.
+
+**Conclusion:**
+This case highlights the significance of notice requirements in contractual agreements. The dispute centers on whether the Contractor's failure to provide formal notice constitutes a breach of contract that justifies the Client's termination of the agreement and the costs associated with engaging a substitute service provider. The outcome will likely hinge on the court's interpretation of the notice provisions and the constellatory obligations of the parties involved.

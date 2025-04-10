@@ -1,0 +1,38 @@
+Theme: Support Services
+Case Number: 4
+--------------------------------------------------
+
+**Contract Dispute Scenario: Support Services Agreement Between TechSolutions Inc. and Innovatech LLC**
+
+**Background:**
+TechSolutions Inc., a mid-sized software development company, entered into a contract with Innovatech LLC, a third-party support services provider, on January 15, 2023. The agreement was for Innovatech to provide technical support and maintenance services for TechSolutions’ newly launched software platform over a one-year term.
+
+**Parties Involved:**
+1. **TechSolutions Inc.**
+   - Role: Client requiring support services for its software product.
+   - Contact: Rachel Young, Chief Operations Officer.
+
+2. **Innovatech LLC**
+   - Role: Service provider contracted to deliver technical support and maintenance.
+   - Contact: Jason Lee, Operations Manager.
+
+**Key Issues Leading to Dispute:**
+1. **Scope of Services:**
+   - The contract specified that Innovatech would provide 24/7 technical support, including troubleshooting, software updates, and user training. However, TechSolutions claims that Innovatech has primarily restricted its support to business hours (9 AM - 5 PM) and has been unresponsive to urgent support requests that fell outside of these hours. This limitation has created significant disruptions and dissatisfaction among TechSolutions' end-users.
+
+2. **Response Time:**
+   - According to the terms outlined in the service level agreement (SLA), Innovatech was required to respond to high-priority issues within two hours. TechSolutions contends that there were multiple occasions where urgent issues went unanswered or unresolved for several hours, leading to critical downtime for their software platform and affecting their customer commitments.
+
+3. **Software Updates:**
+   - The contract included provisions for regular software updates, which, according to TechSolutions, were to be implemented quarterly. However, as of September 2023, no updates had been executed, and TechSolutions claims that Innovatech failed to address critical bugs impacting usability and performance. Innovatech’s defense is that the delay was due to ongoing technical challenges with the updates, which they claim they notified TechSolutions about.
+
+4. **Communication Breakdown:**
+   - There has been a significant communication breakdown between the two parties. TechSolutions alleges that Innovatech failed to provide timely updates or comprehensive reports on support tickets, leading to frustration among TechSolutions’ team members. Innovatech, on the other hand, argues that they have been transparent but that TechSolutions’ internal communication issues have complicated the matter.
+
+5. **Termination of Contract:**
+   - On October 1, 2023, TechSolutions issued a notice of termination based on the ongoing failures of Innovatech to meet its obligations. Innovatech, however, disputes this termination, asserting that they were not given a reasonable opportunity to rectify the alleged shortcomings and that the notice violates the section of the contract detailing termination conditions.
+
+**Resolution Attempts:**
+Prior to the formal dispute, both parties engaged in mediation sessions to address the grievances. TechSolutions requested compensation for losses incurred due to downtime and sought a release from the contract without penalties. Innovatech proposed extending support hours and implementing weekly check-ins to improve communication, but TechSolutions viewed these measures as insufficient.
+
+As tensions escalated, both parties prepared to pursue litigation to resolve the conflict, prompting the need for legal representation and potential settlement discussions to avoid costly court proceedings.

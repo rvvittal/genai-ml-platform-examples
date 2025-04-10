@@ -1,0 +1,32 @@
+Theme: Scope Changes
+Case Number: 5
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes in a Commercial Construction Project**
+
+**Parties Involved:**
+- **General Contractor:** Skyline Construction, LLC
+- **Client:** Urban Greens Developers, Inc.
+- **Project:** Development of a mixed-use commercial building in Downtown Metro City.
+
+**Background:**
+Skyline Construction was awarded a contract by Urban Greens to build a 150,000 square-foot mixed-use facility, including retail spaces on the ground floor and residential apartments on the upper floors. The project commenced on January 10, 2023, with an original contract value of $10 million and a projected completion date of December 15, 2023.
+
+**Key Issues:**
+
+1. **Change Order Dispute:**
+   After several months into the project, Urban Greens requested several modifications to the initial design in response to market demands and aesthetic trends. These modifications included changing the layout of the retail spaces, increasing the number of residential units, and incorporating additional sustainable building features.
+
+   Skyline submitted a series of change orders, outlining the additional costs and time implications for the requested alterations. Urban Greens approved some changes but vehemently disagreed with Skyline's subsequent estimates for cost adjustments—specifically, the $750,000 increase proposed for the additional structural reinforcements deemed necessary for the added residential units.
+
+2. **Timeline Extensions:**
+   Due to the approved change orders, Skyline asserted that they required an extension of the project timeline to accommodate the changes. They requested an additional three months, moving the completion date to March 15, 2024. Urban Greens contested this timeline, arguing that some of the delays were due to Skyline's inefficiencies and failure to anticipate structural needs during the initial planning phase.
+
+3. **Quality of Work:**
+   Urban Greens also raised concerns about the quality of work being delivered. They claimed that some aspects of the original construction did not meet the agreed specifications, notably the foundation work that showed signs of degradation during inspections. Skyline countered that they were following the plans provided and that any quality issues could stem from delays caused by constant design changes.
+
+4. **Disagreement on Code Compliance:**
+   An additional point of contention arose over compliance with local building codes related to the requested change in the building’s façade materials. Skyline informed Urban Greens that the desired eco-friendly materials would require significant additional cost and time for review and approval from city officials—costs that Urban Greens refused to absorb as they argued the materials were initially discussed during the planning meetings.
+
+**Conclusion:**
+This dispute highlights the complexities often faced in construction contracts, where design changes can lead to escalating costs and extended timelines. Skyline Construction is seeking mediation to resolve these issues amicably, while Urban Greens is considering potential legal action to enforce the original contract terms. Both parties must negotiate a balance between necessary changes and their inherent impacts to move forward with the project.

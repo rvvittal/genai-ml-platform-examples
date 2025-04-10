@@ -1,0 +1,33 @@
+Theme: Warranty Claims
+Case Number: 3
+--------------------------------------------------
+
+**Scenario Title: Dispute Over Warranty Claims for Defective HVAC System**
+
+**Parties Involved:**
+1. **ABC Heating & Cooling, Inc.** (Contractor) – A mid-sized HVAC installation company located in Texas.
+2. **John and Sarah Thompson** (Homeowners) – A couple that recently renovated their home in Austin, Texas.
+
+**Background:**
+In January 2023, John and Sarah Thompson contracted ABC Heating & Cooling to install a high-efficiency HVAC system in their newly renovated home. The contract included a **five-year parts and labor warranty** on the HVAC system and specified that maintenance service would be performed annually by the contractor. The total installation cost was $15,000, and payment was made in full upon completion of the project.
+
+**Details of the Dispute:**
+By July 2023, the Thomspons began experiencing issues with the new HVAC system. They reported that the air conditioning unit was not cooling the house effectively, and it was making unusual noises. After multiple attempts to adjust the thermostat and ensure proper ventilation, the Thomspons contacted ABC Heating & Cooling for service.
+
+The company sent a technician to inspect the unit on August 10, 2023. The technician determined that a compressor failure had occurred, estimating that it would require extensive repairs amounting to around $3,500. The technician initially assured the homeowners that the repair would be covered under warranty; however, upon submitting the warranty claim to the company’s management, ABC Heating & Cooling denied coverage.
+
+**Key Issues:**
+1. **Warranty Coverage:**
+   - The primary contention lies in whether the compressor failure falls under the warranty coverage. ABC Heating & Cooling claims that the failure is due to the homeowners neglecting routine maintenance, which allegedly includes changing the air filter and ensuring the unit was not obstructed. The Thomspons argue that they followed all maintenance instructions provided in the manual and that their issues should be covered under the warranty as the failure was not due to negligence on their part.
+
+2. **Documentation and Maintenance Records:**
+   - ABC Heating & Cooling claims that without documented maintenance records, they cannot honor the warranty. The Thomspons insist they were never informed of a requirement to keep maintenance logs and that they genuinely followed the contractor's verbal instructions regarding maintenance. This has raised questions about the adequacy of communication regarding warranty and maintenance obligations.
+
+3. **Customer Service and Response Time:**
+   - The Thomspons have expressed dissatisfaction with the responsiveness of ABC Heating & Cooling. They contacted the company multiple times following the initial service date, experiencing delays in response that further exacerbated their discomfort due to the faulty HVAC system. This raises concerns about the contractor's obligation to respond promptly under the terms of the warranty.
+
+4. **Potential Damages:**
+   - The Thomspons claim that the lack of a functioning HVAC system during the peak of summer caused them additional costs in the form of temporary housing and increased utility bills from using portable air conditioners. They seek compensation for these expenses due to the alleged breach of contract by ABC Heating & Cooling.
+
+**Conclusion:**
+The dispute escalated to the stage where both parties have engaged legal counsel. The Thomspons are contemplating filing a formal complaint and seeking monetary damages, while ABC Heating & Cooling maintains that they adhered to all contractual obligations. The resolution of this dispute will hinge on the interpretation of warranty coverage and maintenance requirements as detailed in the original contract.

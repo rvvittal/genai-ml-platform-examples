@@ -1,0 +1,31 @@
+Theme: Warranty Claims
+Case Number: 4
+--------------------------------------------------
+
+**Contract Dispute Scenario: Warranty Claims**
+
+**Parties Involved**:  
+1. **TechGear Inc.** (Manufacturer) - A company specializing in high-end electronic devices, particularly smartwatches.  
+2. **Joe's Electronics** (Retailer) - A small electronics store that sells various tech products, including TechGear’s smartwatches.  
+3. **Marcus Lee** (Customer) - A consumer who purchased a TechGear smartwatch from Joe's Electronics.
+
+**Background**:  
+In January 2023, Marcus Lee purchased a TechGear Model X smartwatch from Joe's Electronics, with a local advertisement promoting a two-year warranty covering defects in materials and workmanship. The warranty explicitly mentioned that malfunction due to user error or improper use would not be covered.
+
+**Key Issues**:  
+In May 2023, after four months of use, Marcus noticed that his smartwatch would intermittently shut down, displaying an error message about battery failure. Concerned about the malfunction, he returned the device to Joe's Electronics. The store manager, after testing the watch, confirmed the issue and advised Marcus that it was likely a manufacturing defect.
+
+**Dispute Development**:  
+Upon submitting a warranty claim to TechGear Inc., Joe's Electronics received a denial from the manufacturer, citing that the malfunction was due to “water damage” that violated the warranty terms. TechGear included a note indicating that the device showed signs of misuse, suggesting that it had been submerged or exposed to moisture contrary to their operating instructions.
+
+**Marcus’s Argument**:  
+Marcus denied the claim that he had abused the device. He asserted that he had followed all care instructions and had only worn the smartwatch while swimming, which he believed was permissible given the advertised water-resistant features. He insisted that TechGear’s rejection was unwarranted and that the product should function as advertised, regardless of occasional exposure to water. He requested a resolution that included either repair or replacement of the watch, stating that the warranty should cover his case based on the advertising materials that highlighted the device's water resistance.
+
+**TechGear's Defense**:  
+TechGear maintained its position, arguing that the watch was indeed misused, referencing internal analysis that indicated moisture damage. They asserted that users must strictly adhere to the guidelines provided, which emphasized limits on water exposure. As such, they concluded that any claims regarding the warranty would be invalid if the device was exposed to more than specified conditions.
+
+**Joe's Electronics’ Role**:  
+As a mediator in this dispute, Joe's Electronics found itself caught between Marcus and TechGear. The retailer wanted to maintain good customer relations while also protecting their partnership with TechGear. They proposed an alternative resolution, suggesting that they would facilitate a direct dialogue between Marcus and TechGear to reassess the warranty claim.
+
+**Conclusion**:  
+The main points of contention in this scenario are the definitions of misuse, the extent of the warranty's coverage concerning water damage, and the obligations of the retailer versus the manufacturer when claims are disputed. This situation highlights the complexities often faced in warranty claims, particularly when differing interpretations of product usage arise.

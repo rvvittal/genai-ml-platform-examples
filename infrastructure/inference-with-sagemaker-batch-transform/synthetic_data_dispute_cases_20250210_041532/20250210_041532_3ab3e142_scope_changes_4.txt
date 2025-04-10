@@ -1,0 +1,30 @@
+Theme: Scope Changes
+Case Number: 4
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes in Commercial Building Project**
+
+**Parties Involved:**
+1. **XYZ Construction Corp.** (Contractor) - A mid-sized construction firm contracted to build a three-story office building.
+2. **ABC Development LLC** (Client) - A real estate development company that oversees the construction project.
+
+**Background:**
+In January 2023, ABC Development LLC awarded XYZ Construction Corp. a contract valued at $2.5 million for the construction of a 30,000 square-foot office building in downtown. The project was to be completed within ten months, with an agreed-upon schedule and set specifications including materials, design, and environmental compliance.
+
+**Key Issues:**
+Three months into construction, ABC Development proposed modifications that would expand the building’s footprint by roughly 5,000 square feet to accommodate additional office space, which would significantly alter the initial design. XYZ Construction, concerned about the implications of these alterations, sought clarification on the scope change procedures outlined in their contract.
+
+1. **Lack of Written Change Order:**
+   ABC Development verbally communicated the desired changes to XYZ Construction but did not supply a formal written change order as stipulated in the contract. XYZ contends that without a documented change order, they are not obligated to execute the modifications or absorb any associated costs.
+
+2. **Cost Implications:**
+   XYZ Construction estimates that the proposed changes would increase costs by approximately $300,000. They argue that the original contract clearly delineates the scope of work, and changes outside of this scope should lead to renegotiation of contract terms, including price adjustments. ABC Development, however, asserts that since the modification would ultimately benefit them (increasing potential rental income), the contractor should absorb the extra costs.
+
+3. **Timeline Delays:**
+   The proposed scope expansion would extend the project timeline from ten to potentially fifteen months due to the need for redesign, re-permitting, and additional labor. XYZ Construction claims that the schedule outlined in the contract is compromised, which would also lead to additional costs for temporary site management and labor inefficiencies. ABC Development argues that since they initiated the changes, it’s their prerogative to adjust the timeline, implying that the contractor should internally manage their resources to meet new deadlines.
+
+4. **Quality and Compliance Standards:**
+   The initial contract set strict compliance standards regarding environmental impact and building codes. ABC Development has requested certain non-compliant materials to be used in the expansion. XYZ Construction insists that compliance with local regulations must be maintained, and using these materials would necessitate further changes to the contract. ABC contends that the modifications fall within permissible limits and should not warrant a compliance issue.
+
+**Conclusion:**
+The opposing views on scope changes, responsibility for cost overruns, delays, and compliance present a complex dispute between XYZ Construction Corp. and ABC Development LLC. The lack of formal documentation of changes amplifies tensions, and both parties must negotiate a resolution to avoid legal action that could lead to increased costs and project delays. A mediation session is scheduled for late October to address these disputes and seek a mutually agreeable resolution.

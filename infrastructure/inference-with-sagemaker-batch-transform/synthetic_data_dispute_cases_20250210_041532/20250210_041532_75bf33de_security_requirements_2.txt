@@ -1,0 +1,32 @@
+Theme: Security Requirements
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: Security Requirements Between TechSolutions Inc. and DataSafe Corp.**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - A software development firm contracted to build a cloud-based application for DataSafe Corp, a company specializing in data storage and security solutions.
+2. **DataSafe Corp.** - The client that requires stringent security measures for the application to protect sensitive user data, including personally identifiable information (PII) and financial records.
+
+**Background:**
+In January 2023, TechSolutions Inc. and DataSafe Corp. entered into a contract for the development of a cloud-based application with a total project cost of $500,000. The contract explicitly outlined security requirements categorized into three tiers based on the criticality of the user data involved:
+
+1. **Tier 1:** Basic encryption and user authentication measures.
+2. **Tier 2:** Multi-factor authentication, regular security audits, and data breach response plan.
+3. **Tier 3:** Advanced threat detection systems and real-time monitoring.
+
+The contract stipulated that each tier must be met for the launch of the application and that Tier 3 security requirements were to be implemented by a specific launch date—October 1, 2023.
+
+**Dispute:**
+As the launch date approached, TechSolutions Inc. informed DataSafe Corp. that they could not fully implement the Tier 3 security requirements due to unforeseen technical challenges. They suggested postponing the launch date to December 1, 2023, instead of adhering to the original timeline. TechSolutions claimed that the additional time was necessary to ensure robust security measures and mitigate potential risks tied to deploying a system that did not meet the contractually established standards.
+
+On the other hand, DataSafe Corp. expressed concern that postponing the launch would negatively impact their business operations, as they had committed to deploying the application for their clients in November. Furthermore, they argued that TechSolutions’ inability to meet the requirements by the deadline constituted a breach of contract. DataSafe Corp. insisted that they expected a certain level of expertise and reliability from TechSolutions, which was not reflected in the recent developments.
+
+**Key Issues:**
+1. **Breach of Contract:** DataSafe Corp. contended that TechSolutions Inc. failed to fulfill the contract’s specified security requirements by the agreed-upon timeline.
+2. **Liability for Damages:** DataSafe Corp. sought compensation for potential revenue losses due to the delayed launch, arguing that their reputation and client contracts were at stake due to TechSolutions’ failure.
+3. **Feasibility of Postponement:** TechSolutions argued that prioritizing security over speed was paramount, citing industry standards for software security. They believed they were acting in the best interest of both parties by recommending a delay to ensure that all security measures were reliable.
+4. **Expectations and Communication:** There were disagreements regarding the adequacy of communication from TechSolutions regarding project challenges. DataSafe Corp. maintained that TechSolutions did not provide timely updates leading to avoidable misunderstandings regarding project status.
+
+**Conclusion:**
+The dispute has escalated to potential legal proceedings, with both parties seeking resolutions to address the security requirements and the implications of the delay on their business operations. Mediation or arbitration has been proposed as an avenue to resolve the issues amicably and restore the professional relationship.

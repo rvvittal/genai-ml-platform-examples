@@ -1,0 +1,185 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'CloudFormation template for SQS-triggered Lambda function for SageMaker batch transform jobs'
+
+Parameters:
+  SQSQueueName:
+    Type: String
+    Default: batch-transform-queue
+    Description: Name of the SQS queue to create or use
+  
+  LambdaFunctionName:
+    Type: String
+    Default: batch-transform-lambda
+    Description: Name of the Lambda function to create
+  
+  ModelPath:
+    Type: String
+    Description: S3 path to the model.tar.gz file (e.g., s3://bucket-name/models/model.tar.gz)
+  
+  ContainerImage:
+    Type: String
+    Description: Container image URI for the batch transform job
+  
+  RoleArn:
+    Type: String
+    Description: SageMaker execution role ARN
+  
+  ModelName:
+    Type: String
+    Default: modernbert-dispute-classifier
+    Description: Name for the SageMaker model
+  
+  TransformJobPrefix:
+    Type: String
+    Default: dispute-classifier-job
+    Description: Prefix for batch transform job names
+  
+  DefaultInstanceType:
+    Type: String
+    Default: ml.g4dn.xlarge
+    Description: Default instance type for the batch transform job
+  
+  DefaultInstanceCount:
+    Type: Number
+    Default: 1
+    Description: Default number of instances for the batch transform job
+  
+  DefaultOutputPrefix:
+    Type: String
+    Default: output/
+    Description: Default S3 prefix for output files
+
+Resources:
+  # SQS Queue
+  BatchTransformQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: !Ref SQSQueueName
+      VisibilityTimeout: 900  # 15 minutes, should be longer than Lambda timeout
+      MessageRetentionPeriod: 1209600  # 14 days
+      RedrivePolicy:
+        deadLetterTargetArn: !GetAtt BatchTransformDeadLetterQueue.Arn
+        maxReceiveCount: 5
+
+  # Dead Letter Queue for failed messages
+  BatchTransformDeadLetterQueue:
+    Type: AWS::SQS::Queue
+    Properties:
+      QueueName: !Sub "${SQSQueueName}-dlq"
+      MessageRetentionPeriod: 1209600  # 14 days
+
+  # Lambda Execution Role
+  LambdaExecutionRole:
+    Type: AWS::IAM::Role
+    Properties:
+      AssumeRolePolicyDocument:
+        Version: '2012-10-17'
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: lambda.amazonaws.com
+            Action: sts:AssumeRole
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole
+      Policies:
+        - PolicyName: SQSPermissions
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - sqs:ReceiveMessage
+                  - sqs:DeleteMessage
+                  - sqs:GetQueueAttributes
+                Resource: !GetAtt BatchTransformQueue.Arn
+        - PolicyName: SageMakerPermissions
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - sagemaker:CreateModel
+                  - sagemaker:CreateTransformJob
+                  - sagemaker:DescribeModel
+                Resource: '*'
+        - PolicyName: S3Permissions
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - s3:GetObject
+                  - s3:ListBucket
+                Resource: '*'
+        - PolicyName: PassRolePermission
+          PolicyDocument:
+            Version: '2012-10-17'
+            Statement:
+              - Effect: Allow
+                Action:
+                  - iam:PassRole
+                Resource: !Ref RoleArn
+
+  # Lambda Function
+  BatchTransformLambda:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Ref LambdaFunctionName
+      Handler: lambda_batch_transform.lambda_handler
+      Role: !GetAtt LambdaExecutionRole.Arn
+      Runtime: python3.9
+      Timeout: 300  # 5 minutes
+      MemorySize: 256
+      Environment:
+        Variables:
+          MODEL_PATH: !Ref ModelPath
+          CONTAINER_IMAGE: !Ref ContainerImage
+          ROLE_ARN: !Ref RoleArn
+          MODEL_NAME: !Ref ModelName
+          TRANSFORM_JOB_PREFIX: !Ref TransformJobPrefix
+          DEFAULT_INSTANCE_TYPE: !Ref DefaultInstanceType
+          DEFAULT_INSTANCE_COUNT: !Ref DefaultInstanceCount
+          DEFAULT_OUTPUT_PREFIX: !Ref DefaultOutputPrefix
+      Code:
+        ZipFile: |
+          # This is a placeholder. The actual code will be uploaded separately.
+          def lambda_handler(event, context):
+              return {
+                  'statusCode': 200,
+                  'body': 'This is a placeholder. Please upload the actual code.'
+              }
+
+  # Lambda Permission for SQS
+  LambdaSQSPermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      Action: lambda:InvokeFunction
+      FunctionName: !Ref BatchTransformLambda
+      Principal: sqs.amazonaws.com
+      SourceArn: !GetAtt BatchTransformQueue.Arn
+
+  # Event Source Mapping
+  LambdaSQSEventSourceMapping:
+    Type: AWS::Lambda::EventSourceMapping
+    Properties:
+      BatchSize: 1
+      Enabled: true
+      EventSourceArn: !GetAtt BatchTransformQueue.Arn
+      FunctionName: !Ref BatchTransformLambda
+
+Outputs:
+  QueueURL:
+    Description: URL of the SQS queue
+    Value: !Ref BatchTransformQueue
+  
+  QueueARN:
+    Description: ARN of the SQS queue
+    Value: !GetAtt BatchTransformQueue.Arn
+  
+  DeadLetterQueueURL:
+    Description: URL of the Dead Letter Queue
+    Value: !Ref BatchTransformDeadLetterQueue
+  
+  LambdaFunctionARN:
+    Description: ARN of the Lambda function
+    Value: !GetAtt BatchTransformLambda.Arn 

@@ -1,0 +1,31 @@
+Theme: Reporting Requirements
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Reporting Requirements between TechInstall, Inc. and GreenBuild Solutions**
+
+**Parties Involved:**
+- **TechInstall, Inc.**: A technology installation firm responsible for implementing smart building systems in GreenBuild Solutions’ new commercial properties.
+- **GreenBuild Solutions**: A sustainable construction company that focuses on environmentally friendly projects and has contracted TechInstall for their innovative installation expertise.
+
+**Background:**
+In April 2023, TechInstall and GreenBuild Solutions entered into a contract for the installation of smart technology in a series of GreenBuild's new eco-friendly commercial buildings. The agreement stipulated that TechInstall would provide bi-weekly progress reports detailing project status, any significant issues encountered, labor hours logged, and materials used. These reports were a condition for the phased release of payments.
+
+**Key Issues:**
+1. **Delays in Reporting:**
+   By September 2023, GreenBuild noted that TechInstall had repeatedly failed to deliver the bi-weekly reports as required by the contract. Specifically, of the eleven reports due since the start of their engagement, only five had been submitted on time. The delays impeded GreenBuild’s ability to monitor project progress and plan their cash flow effectively.
+
+2. **Content of Reports:**
+   Upon reviewing the reports that were submitted, GreenBuild expressed concerns regarding the content specificity. The reports frequently lacked details about the progress of individual installations and omitted descriptions of problems encountered during the implementation phase. For instance, a vital report noted "minor delays" without elaborating on the reasons or potential impacts on project timelines, raising flags for GreenBuild regarding the project’s transparency and overall management.
+
+3. **Financial Implications:**
+   The inconsistent reporting caused GreenBuild to withhold two of their scheduled payments totaling $250,000. GreenBuild argued that the contract’s terms allowed for such withholding in the case of late or incomplete reports. In contrast, TechInstall contended that this withholding was unjustified and resulted in cash flow issues on their end, affecting subcontractor payments and project timelines.
+
+4. **Remedial Actions:**
+   TechInstall proposed to remedy the situation by submitting a comprehensive report covering the last five months’ work and offering weekly updates moving forward. However, GreenBuild insisted on the need for an overall assessment, including penalties for previous non-compliance with the reporting schedule, which TechInstall viewed as an overreach.
+
+5. **Dispute Resolution:**
+   As both parties failed to reach a consensus, they agreed to involve a mediator by mid-October 2023. The mediation aims to address the overdue payments, establish clearer communication protocols moving forward, and resolve the interpretation of the contract’s reporting requirements.
+
+**Conclusion:**
+The dispute primarily centers around the timely and complete delivery of project reports as stipulated in the contract. Key points of contention are the frequency and quality of these reports, the financial ramifications stemming from alleged non-compliance, and the potential consequences for TechInstall’s operations due to withheld payments. Both parties hope a mediated solution can facilitate a resolution while preserving their business relationship.

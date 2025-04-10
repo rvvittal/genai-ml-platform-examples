@@ -1,0 +1,35 @@
+Theme: Interpretation Disagreements
+Case Number: 12
+--------------------------------------------------
+
+**Contract Dispute Scenario: Interpretation Disagreements**
+
+**Parties Involved:**
+1. **GreenBuild Construction, LLC** (Contractor)
+2. **Evergreen Development Corp.** (Client)
+
+**Background:**
+In January 2023, GreenBuild Construction, LLC (hereafter "GreenBuild") entered into a contract with Evergreen Development Corp. (hereafter "Evergreen") for the construction of a 20-unit residential complex in downtown Maplewood. The contract, valued at $2 million, specified the timeline for completion, materials to be used, and payment terms.
+
+**Key Issues:**
+The dispute arose in July 2023 when the project was two months behind schedule. Evergreen accused GreenBuild of breaching the contract due to delays that they attributed to GreenBuild’s failure to adhere to the agreed-upon timeline. GreenBuild, on the other hand, asserted that the delays were caused by unforeseen circumstances, specifically the late delivery of materials and adverse weather conditions. 
+
+**Points of Contention:**
+
+1. **Timeline of Completion:**
+   - The contract stated that the project was to be completed within six months, with a completion date of July 1, 2023. However, GreenBuild argued that the contract included a provision for "reasonable extensions due to unforeseen circumstances." Evergreen disputed this interpretation, stating that the exact phrase was not included in the final document.
+   - GreenBuild pointed to Section 3.4 of the contract, which mentions delays due to “acts of God or supply chain disruptions.” They contended that the late delivery by suppliers constituted a legitimate reason for an extension.
+
+2. **Definition of "Reasonable Circumstances":**
+   - The term "reasonable circumstances" was not explicitly defined within the contract. GreenBuild interpreted it to include any delay caused by external factors beyond their control. Evergreen, however, insisted that it meant very limited situations, such as natural disasters, rather than routine supply chain issues.
+   - This led to a disagreement about what could be classified as an "unforeseen circumstance." Evergreen maintained that GreenBuild should have anticipated these material delays as a common risk in the construction industry.
+
+3. **Financial Implications:**
+   - In accordance with the contract, Evergreen had the right to impose liquidated damages of $500 per day for any delays beyond the completion date. Evergreen sent GreenBuild a notice of intent to assess these damages starting July 2, 2023, which GreenBuild contested, arguing that they were not liable for the delays.
+   - The disagreement escalated when Evergreen demanded payment for a total of $30,000 in liquidated damages. GreenBuild refused to pay, arguing that the delays were justifiable and that the clause regarding liquidated damages was not applicable under the cited circumstances.
+
+4. **Communication Failures:**
+   - Communication around project updates had been informal, leading to further disputes about whether GreenBuild had properly notified Evergreen of the delays as specified in the contract. Evergreen claimed they had not received timely updates, while GreenBuild pointed to several emails and meetings where they discussed possible delays.
+
+**Conclusion:**
+The dispute between GreenBuild and Evergreen centers on the interpretation of contract language related to timelines, unforeseen circumstances, and financial penalties for delays. Both parties have engaged legal counsel to seek resolution, but the lack of clear definitions and documentation continues to complicate the situation. A potential mediation session aims to clarify these interpretations and negotiate a resolution before matters escalate to litigation.

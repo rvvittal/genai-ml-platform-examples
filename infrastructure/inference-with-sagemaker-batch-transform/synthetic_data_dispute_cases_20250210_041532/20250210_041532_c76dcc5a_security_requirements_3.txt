@@ -1,0 +1,37 @@
+Theme: Security Requirements
+Case Number: 3
+--------------------------------------------------
+
+### Contract Dispute Scenario: Security Requirements 
+
+**Parties Involved:**
+1. **TechSecure, Inc.** (Plaintiff): A cybersecurity firm contracted to implement security measures for City Bank.
+2. **City Bank** (Defendant): A mid-sized financial institution that requires enhanced cybersecurity protocols due to a recent spike in cyberattacks.
+
+**Background:**
+In January 2023, TechSecure and City Bank entered into a comprehensive contract worth $800,000 to enhance the bank’s IT infrastructure and implement robust cybersecurity measures. The contract included specific security requirements, deliverables, and timelines. The primary components were:
+- Installation of advanced firewalls
+- Implementation of end-to-end encryption for all customer data
+- Regular security audits and updates every quarter
+- Training for City Bank's staff on cybersecurity protocols
+
+**Dispute Overview:**
+By October 2023, City Bank raised concerns about TechSecure's compliance with the contract’s security requirements. The bank experienced two significant security breaches during this period, which they attributed to inadequate protections that TechSecure allegedly failed to implement.
+
+**Key Issues:**
+1. **Non-Compliance with Security Measures:**
+   City Bank claims that TechSecure did not install the advanced firewalls as detailed in the contract. An internal audit revealed that basic firewalls were still in place, exposing the bank to potential attacks. TechSecure contends that the firewall system was upgraded to the contractual specifications; however, City Bank argues that the upgrades were superficial and did not meet industry standards.
+
+2. **Failure to Encrypt Customer Data:**
+   City Bank asserts that end-to-end encryption for customer data was either incomplete or improperly configured. This allegation arose after a data leak where sensitive banking information was accessed by unauthorized parties. TechSecure counters by claiming that encryption was indeed implemented, but City Bank's legacy systems were incompatible, resulting in a failure to properly secure the data.
+
+3. **Inadequate Training and Awareness Programs:**
+   The bank also claims that TechSecure did not fulfill its obligation to train staff adequately. Following the breaches, it was clear that many employees were unaware of the basic cybersecurity protocols, leading to lapses in security. TechSecure argues that they conducted multiple training sessions and provided necessary documentation; however, they did not mandate attendance, which City Bank used to justify the lack of effectiveness of their training.
+
+4. **Timeliness of Deliverables:**
+   City Bank contends that TechSecure’s late delivery of crucial updates and regular audits contributed to the vulnerability. TechSecure argues that delays were due to unforeseen circumstances, including supply chain issues for hardware upgrades, and that they communicated these delays promptly to City Bank.
+
+**Consequences and Resolution Efforts:**
+Given the breaches, City Bank is seeking damages for lost client trust and remediation costs, which they estimate at $1.2 million. TechSecure is countering with claims of wrongful accusations and loss of future contracts due to their tarnished reputation.
+
+Both parties have attempted mediation but have yet to reach a resolution. They remain at an impasse, with City Bank contemplating legal action for breach of contract, while TechSecure defiantly upholds its delivery of security services and seeks to protect its reputation in the cybersecurity industry.

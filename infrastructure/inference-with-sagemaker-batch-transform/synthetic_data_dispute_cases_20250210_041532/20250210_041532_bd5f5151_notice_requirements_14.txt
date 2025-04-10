@@ -1,0 +1,27 @@
+Theme: Notice Requirements
+Case Number: 14
+--------------------------------------------------
+
+**Contract Dispute Scenario: Notice Requirements**
+
+**Background:**
+Parties involved in the dispute are Taylor Construction Co. (Taylor), a general contractor, and Greenfield Developers, Inc. (Greenfield), a property development firm. In 2022, Taylor and Greenfield entered into a construction contract for the renovation of an office building owned by Greenfield, valued at $2 million. The contract included a provision that required the parties to provide written notice of any claim or potential claim at least 15 days prior to commencing any form of dispute resolution.
+
+**Key Issues:**
+Recently, the project encountered significant delays due to unforeseen structural issues, which caused Taylor to submit a change order and request for an extension of time to complete the project. Tensions arose when Greenfield alleged that Taylor failed to meet the notice requirements specified in the contract.
+
+### The Dispute:
+1. **Timing of Notice**: 
+   - Taylor asserts that they informed Greenfield verbally about the structural issues on May 1 and sent a formal written notice on May 20, 10 days following the verbal communication.
+   - Greenfield, however, contends that the formal notice was not provided within the 15-day window stipulated in the contract, claiming that the contract specifically requires both verbal and written notifications to adhere to the timeline. They argue that since the notice was sent more than 15 days after the discovery of the issues, Taylor’s claim for extra time and compensation should be rejected.
+
+2. **Method of Communication**:
+   - The contract permits written notices to be delivered by mail or electronic email. Taylor claims that the email sent on May 20 met all contractual requirements since it was sent to the designated email addresses listed in the contract.
+   - Greenfield disputes this, stating they never received the email, claiming it was inadvertently marked as spam. They emphasize that they did not have any knowledge of Taylor’s issues until they received the notice after the expiration of the notice period, citing a failure in proper communication.
+
+3. **Impact of Delayed Notice**: 
+   - Taylor argues that the delays incurred were critical and that timely notice would not have impacted their performance on the project since they were rectifying the issues as they arose. Consequently, they claim damages for the additional costs incurred beyond the specified completion date.
+   - Greenfield argues that Taylor’s delay in providing adequate notice severely hindered their ability to manage the project timeline effectively. They insist that had they received timely notice, they could have implemented mitigation measures to mitigate delays, ultimately leading to additional costs for both parties. 
+
+### Conclusion:
+The central points of contention revolve around whether Taylor met the notice requirements as outlined in their contract with Greenfield. The outcome of this dispute could hinge on the interpretation of the timing and manner of notice given, and whether any exceptions to the notice requirements are permissible under the contract. The parties are exploring mediation before considering litigation, acknowledging the potential financial implications of prolonged disputes.

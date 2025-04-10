@@ -1,0 +1,32 @@
+Theme: Reporting Requirements
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: Reporting Requirements Between TechWave Solutions and Global Insights Corp.**
+
+**Parties Involved:**
+1. **TechWave Solutions**: A software development company contracted to provide data analytics services to clients.
+2. **Global Insights Corp.**: A marketing research firm that engaged TechWave Solutions to develop a tailored analytics dashboard for its research projects.
+
+**Background:**
+In January 2023, TechWave Solutions entered into a contract with Global Insights Corp. to develop and implement a custom data analytics dashboard intended to streamline Global Insights' reporting capabilities. The contract specified a range of reporting requirements, including the frequency and content of status updates, final deliverables, and data presentation format mandates. 
+
+**Key Issues of Dispute:**
+1. **Timeliness of Reporting**: 
+   - The contract stipulated that TechWave Solutions would provide bi-weekly progress reports detailing the project’s status, including any potential risks or delays. However, by April 2023, Global Insights received only two reports, both late and lacking detailed content. 
+   - TechWave argues that unforeseen technical challenges delayed the reporting process, while Global Insights contends that the lack of communication has hindered their ability to meet client deadlines and make informed business decisions.
+
+2. **Content of Reports**:
+   - Global Insights alleges that the reports delivered did not meet the contractual requirements for detail. According to the contract, reports should include metrics on user testing, feedback collection phases, and preliminary data analysis. 
+   - TechWave claims that the reports contained the relevant information but did not delve as deeply into user testing metrics as Global Insights expected, arguing that the focus should have been on the overall project timeline and final deliverables.
+
+3. **Final Deliverables**:
+   - The contract outlined that the final dashboard should be delivered by June 15, 2023, postulated to go live for the next quarter's projects. However, global insights has indicated that due to the insufficiency of the interim reports, they believe TechWave is not on track to meet this deadline.
+   - TechWave, on the other hand, asserts that the revisions requested by Global Insights after initial presentations have necessitated an extension, arguing that the mutual feedback process is integral to the project’s success.
+
+4. **Documentation and Compliance**:
+   - Global Insights has raised concerns regarding TechWave's lack of documentation related to changes made during development, which they argue contradicts the reporting requirements outlined in the contract. They demand comprehensive documentation to understand the rationale behind all major project decisions.
+   - TechWave frames this lack of documentation as a minor concern, asserting that their ongoing communication warrants sufficient clarity without the need for exhaustive record-keeping.
+
+**Conclusion:**
+The disputes between TechWave Solutions and Global Insights Corp. center around the adequacy and punctuality of progress reports, the depth of content provided, adherence to contractual timelines, and thoroughness of documentation. As the deadline for final deliverables approaches, both parties appear to be at an impasse, necessitating potential mediation or litigation to resolve the issues arising from their contract regarding reporting requirements.

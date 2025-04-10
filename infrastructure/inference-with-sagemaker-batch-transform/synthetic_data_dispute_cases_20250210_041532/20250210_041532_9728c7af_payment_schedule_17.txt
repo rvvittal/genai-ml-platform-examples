@@ -1,0 +1,32 @@
+Theme: Payment Schedule
+Case Number: 17
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Schedule Agreement Between Tech Solutions Inc. and Renovate Now LLC**
+
+**Background**  
+In January 2023, Tech Solutions Inc., a software development firm, entered into a contract with Renovate Now LLC, a property renovation company, to create a custom project management application. The total contract value is $120,000, with a payment schedule outlined as follows: 20% upon signing, 30% upon completion of the design phase, 30% after deployment, and the final 20% after full implementation and training.
+
+**Parties Involved**  
+- **Tech Solutions Inc.**: Represented by CEO Laura Bennett  
+- **Renovate Now LLC**: Represented by CFO Mark Reynolds  
+
+**Timeline of Events**  
+On March 1, 2023, after a prolonged negotiation, both parties signed the contract. Tech Solutions delivered the design phase by May 1, 2023, and submitted an invoice for the 30% payment ($36,000). Renovate Now acknowledged receipt of the invoice but only processed a partial payment of $18,000 by May 15, citing cash flow issues stemming from delays in their renovation projects.
+
+By June 15, 2023, Tech Solutions completed the deployment phase but did not invoice for the next payment. Instead, Laura, seeking to maintain goodwill, allowed Renovate Now additional time to manage their cash flow, believing they would prioritize payment soon. 
+
+**Contestation Points**  
+1. **Payment Delays**: Renovate Now has failed to adhere to the agreed payment schedule. By July 30, they had only paid a total of $36,000, significantly below the contracted amount considering they should have paid $66,000 following the completion of both the design and deployment phases.
+
+2. **Breach of Agreement**: Tech Solutions contends that Renovate Now's refusal to fulfill the payment structure stipulated in the contract constitutes a breach of the agreement. Laura argues that the delays have hindered their cash flow and resources needed for other projects.
+
+3. **Impact on Deliverables**: Due to the non-payment, Tech Solutions is unable to allocate further resources to Renovate Now's project, resulting in potential delays in project finalization and undermining the operational timeline initially discussed. Laura claims that without the 30% deployment payment, they cannot afford to provide further support and enhancements.
+
+4. **Renovate Now’s Defense**: Mark contends that unforeseen circumstances led to extended delays in their renovation projects, resulting in cash flow issues. He argues that the original timeline was unrealistic, given the volatile market conditions. Renovate Now believes the contract should accommodate a greater degree of flexibility concerning payment deadlines.
+
+**Resolution Attempts**  
+Negotiations have taken place, with Laura proposing a restructuring of the payment schedule that accommodates Renovate Now’s current cash flow issues but still ensures Tech Solutions can secure their due payments. Mark has requested a 60-day grace period on the outstanding payments, which Laura has rejected, insisting that any modification must include a binding agreement to secure partial payments.
+
+**Conclusion**  
+As of August 15, 2023, no consensus has been reached. Tech Solutions is now considering mediation to resolve the dispute, while Renovate Now maintains that the pressures of the current economy validate their request for payment flexibility. The next steps could involve formal legal consultation should negotiations fail to yield a satisfactory resolution for both parties.

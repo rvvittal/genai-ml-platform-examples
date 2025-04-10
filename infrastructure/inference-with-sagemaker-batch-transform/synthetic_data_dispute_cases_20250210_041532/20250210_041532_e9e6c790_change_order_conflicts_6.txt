@@ -1,0 +1,37 @@
+Theme: Change Order Conflicts
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: Change Order Conflicts**
+
+**Parties Involved:**
+1. **General Contractor**: BuildRight Construction Co.
+2. **Client**: Simpson Family Homes, LLC
+3. **Project Manager**: Jordan Fields (representing the general contractor)
+4. **Client Representative**: Emily Simpson (Co-owner of Simpson Family Homes, LLC)
+
+**Project Overview:**
+The dispute arises from an ongoing residential construction project valued at $2.5 million, aimed at developing a 10,000-square-foot luxury home in a high-end neighborhood. Construction commenced on January 15, 2023, with an expected completion date of July 15, 2024.
+
+**Background:**
+As the project progressed, the Simpson family requested several changes to the original architectural plans to enhance the design features of their new home. These change orders included upgrades to the kitchen layout, installation of a home theater, and modifications to the exterior facade. According to the original contract, any modifications must be documented and approved in writing by both parties.
+
+**Key Issues:**
+
+1. **Approval of Change Orders**:
+   - The Simpson family requested four change orders over the course of the project. BuildRight Construction Co. issued quotes for the additional work, but the approval process was marred by delays. The Simpson family claims they verbally authorized the changes during a site meeting, while BuildRight insists that changes were not valid until documented in writing, per the contract terms.
+
+2. **Cost Discrepancies**:
+   - Two of the requested change orders were executed but led to disputes over the costs. BuildRight submitted a change order for the kitchen upgrade totaling $65,000. However, Emily Simpson contends that the projection for similar upgrades from a competing contractor was only $50,000. Questions about the inclusion of markup fees added to the overall confusion about the true cost of the changes.
+
+3. **Unforeseen Work**:
+   - During modification of the exterior facade as part of another change order, BuildRight discovered structural issues that necessitated additional reinforcement work. This was an unforeseen condition, and the construction company sought to charge an additional $30,000 to rectify the issues. The Simpson family argues that this should be considered part of standard construction risk, and they refuse to cover the additional costs.
+
+4. **Project Delays**:
+   - Due to the ongoing disputes and the time taken for negotiations and approvals on change orders, the project has fallen behind schedule. BuildRight is now claiming that the delays are the client's responsibility due to indecision, while the Simpsons counter that the contractor's failure to adhere to proper change order procedures has exacerbated the issue.
+
+5. **Contractual Terms Ambiguity**: 
+   - The contract includes vague language about what constitutes “sufficient documentation” for change orders. Both parties interpret the terms differently, leading to miscommunications and contract violations, which have heightened tensions and mistrust throughout the project.
+
+**Conclusion**:
+The situation escalated to the point where the Simpson family threatened legal action unless the issues were resolved. Both parties recognize the need for mediation but remain at an impasse over the fundamental disagreements regarding the validity of the change orders and the incurred costs.

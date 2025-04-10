@@ -1,0 +1,35 @@
+Theme: Scope Changes
+Case Number: 10
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes in Construction Project**
+
+**Parties Involved:**
+
+1. **ABC Construction, Inc.** – A mid-sized general contractor based in Austin, Texas, with a history of commercial and residential projects.
+   
+2. **GreenTech Developments, LLC** – A real estate development firm focused on sustainable building practices, currently working on a mixed-use development in downtown Austin.
+
+**Background:**
+
+In January 2023, ABC Construction entered into a contract with GreenTech Developments for the construction of a mixed-use development that included residential units, retail spaces, and a community park. The contract included a detailed scope of work, outlining specifications, timelines, and budget constraints, totaling $5 million.
+
+**Key Issues:**
+
+1. **Requested Changes in Design:**
+   In March 2023, GreenTech requested a significant redesign of the residential unit layouts to incorporate additional eco-friendly features, including solar panel installations and upgraded insulation. ABC Construction acknowledged the request but contended that the changes were outside the original scope of work and that they would incur additional costs and delays.
+
+2. **Lack of Written Change Orders:**
+   Throughout the project, verbal conversations regarding potential modifications occurred, where GreenTech expressed various adjustments and enhancements. However, ABC Construction maintained that any changes must be documented as formal change orders per their contract terms. GreenTech, on the other hand, asserts that the ongoing discussions and payments indicate an understanding that adjustments to the project were accepted.
+
+3. **Cost Overruns:**
+   As of July 2023, with construction in full swing, ABC Construction submitted an invoice requesting an additional $600,000 for the redesign execution, claiming that the altered specifications resulted in increased labor and material costs. GreenTech disputed this amount, arguing that the contractor failed to provide adequate documentation backing their cost increase and asserted that they had budgeted for potential changes.
+
+4. **Delayed Timelines:**
+   ABC Construction stated that the project timeline would be extended by three months due to the requested modifications. GreenTech argued that the majority of the delays were related to ABC’s poor project management and subcontractor coordination, claiming they had already missed several deadlines unrelated to the changes.
+
+5. **Quality of Work:**
+   Amidst these disputes, GreenTech raised concerns about the quality of construction materials being used, asserting that some selections did not align with the sustainability standards agreed upon. This claim complicated the matter, as ABC maintained that all materials were selected within the confines of the original contract terms.
+
+**Conclusion:**
+The dispute between ABC Construction and GreenTech Developments revolves around scope changes, lack of documentation, cost overruns, delays, and quality of workmanship. Both parties have sought mediation to resolve their differences, with GreenTech pushing for adherence to the original contract pricing and specifications, while ABC insists on formal recognition of changes to the project. As negotiations stall, both companies face potential legal action, further complicating a project that was initially set to finish by the end of 2023.

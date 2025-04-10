@@ -1,0 +1,29 @@
+Theme: Intellectual Property Rights
+Case Number: 12
+--------------------------------------------------
+
+**Contract Dispute Scenario: Intellectual Property Rights**
+
+**Parties Involved:**
+1. **TechGen Innovations Ltd.** - A London-based technology startup specializing in developing blockchain solutions for supply chain management. The company holds several patents relating to digital authentication processes.
+2. **SupplyChain Solutions, Inc.** - A prominent U.S. logistics company seeking to enhance its services through advanced technology.
+
+**Background:**
+In January 2022, TechGen Innovations and SupplyChain Solutions entered into a partnership agreement whereby TechGen would license its patented blockchain technology to SupplyChain at a fixed annual fee of £500,000 for a five-year term. The agreement included strict clauses on the protection and usage of TechGen's intellectual property, specifying that any modifications made to the technology by SupplyChain must be reported and approval sought from TechGen.
+
+**Key Issues of Dispute:**
+
+1. **Unauthorized Modifications:**
+   In April 2023, TechGen discovered that SupplyChain had modified its blockchain technology without prior consent. Instead of merely implementing TechGen's existing processes, SupplyChain engineers had incorporated their own algorithms, claiming that the modifications improved system efficiency. TechGen asserted that these changes violated the original licensing agreement, which clearly stipulated that any enhancements must be pre-approved.
+
+2. **Breach of Confidentiality:**
+During routine checks, TechGen found that SupplyChain had shared aspects of its proprietary technology with an unapproved third-party software development firm to assist in the implementation of the enhancements. TechGen argued that this unauthorized sharing not only breached the confidentiality clauses in their contract but also jeopardized the integrity of its intellectual property, as it could lead to potential reverse engineering.
+
+3. **Disputed Royalties:**
+Following the modifications, SupplyChain began to claim that the new features significantly boosted their operational efficiency and profitability. They proposed a renegotiation of the licensing fee, suggesting that TechGen should receive a percentage of the increased revenue resulting from the enhancements. TechGen maintains that such negotiations would violate the agreed fixed fee structure of the licensing agreement and indicated they would not accept any adjustments unless a formal agreement was reached.
+
+4. **Jurisdiction and Applicable Law:**
+The contract stipulated that any disputes would be resolved under UK law. However, SupplyChain insisted on trying to address the matter in a U.S. court, arguing that the enhancements were made on U.S. soil, and therefore U.S. law should govern the interpretation of the agreement. This contention has led to conflicting legal perspectives and further complicates the resolution process.
+
+**Current Status:**
+TechGen Innovations has sent a cease-and-desist letter to SupplyChain demanding the immediate cessation of the unauthorized practices, and they have threatened to initiate legal proceedings if an amicable resolution cannot be reached. Meanwhile, SupplyChain has sought legal counsel to explore their options in contesting the claims and renegotiating their fee rights. The dispute illustrates the complexities surrounding intellectual property rights in collaborative technology ventures, highlighting the critical need for clear agreements and communication between parties.

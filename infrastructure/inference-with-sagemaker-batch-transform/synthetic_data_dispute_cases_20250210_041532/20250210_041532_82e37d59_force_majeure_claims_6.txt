@@ -1,0 +1,34 @@
+Theme: Force Majeure Claims
+Case Number: 6
+--------------------------------------------------
+
+**Dispute Scenario: Force Majeure Claims in Construction Contract**
+
+**Parties Involved:**
+1. **GreenBuild Construction Ltd.** – A mid-sized construction firm contracted to complete the "River View Apartment Complex" in Riverside City.
+2. **City of Riverside** – The municipal body that commissioned GreenBuild for the construction project, under a contract valued at $5 million.
+
+**Background:**
+GreenBuild entered into a contract with the City of Riverside in January 2022 to construct an apartment complex, with a completion deadline set for December 2022. The contract included a standard force majeure clause, which specified that parties would not be liable for delays caused by unforeseen events beyond their control, including natural disasters, pandemics, and government actions.
+
+In March 2022, heavy rains and severe flooding in Riverside caused significant damage to the construction site, leading to a temporary halt in work. GreenBuild submitted a force majeure claim to the City, requesting a deadline extension and additional funding to address the damages incurred.
+
+**Key Issues in Dispute:**
+
+1. **Validity of Force Majeure Claim:**
+   The City of Riverside acknowledged the severe weather but questioned whether the flooding constituted a true force majeure event under the terms of the contract. They argued that historical data showed flooding in that area was foreseeable, and therefore, GreenBuild should have prepared for such events.
+
+2. **Extent of Damages:**
+   GreenBuild claimed the flooding caused damage to equipment and materials, resulting in losses estimated at over $150,000. However, the City contested the amount, arguing that GreenBuild had not provided sufficient documentation to support the damage claims. They believed the construction firm should absorb some of the costs of losses, as they were deemed normal business risks.
+
+3. **Extension of Deadline:**
+   GreenBuild requested an extension of the completion date by three months, citing delays from both the flooding and subsequent supply chain disruptions due to nationwide material shortages. The City was apprehensive about extending the deadline, citing previous statements from GreenBuild about their capacity to manage project timelines effectively.
+
+4. **Mitigation of Losses:**
+   The City of Riverside argued that GreenBuild failed to mitigate losses promptly. They contended that GreenBuild did not employ alternative measures after the flooding, such as adjusted schedules or seeking additional labor to expedite repairs. The City maintained that the firm is obligated to take reasonable steps to mitigate damages caused by situations that could be classified as force majeure.
+
+5. **Communication and Cooperation:**
+   Another contentious point involved the nature of communication between the parties. GreenBuild alleged that the City was unresponsive in the immediate aftermath of the flooding, which further delayed decision-making. Conversely, the City asserted that GreenBuild had not communicated effectively about the potential impacts or their needs following the flooding, complicating efforts to coordinate assistance or resources.
+
+**Conclusion:**
+The dispute escalated when GreenBuild threatened legal action for the additional costs and extended timeline, while the City prepared to counter the claims by invoking the contract's provisions concerning liabilities for foreseeable risks. An impasse emerged, necessitating mediation to resolve the disagreements surrounding the interpretation of the force majeure clause and the related claims.

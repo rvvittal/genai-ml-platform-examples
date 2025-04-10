@@ -1,0 +1,25 @@
+Theme: Renewal Terms
+Case Number: 13
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Renewal Terms Between TechCo and CloudSolutions**
+
+**Background**:  
+TechCo, a mid-sized software development firm, entered into a service agreement with CloudSolutions, a cloud storage provider, on January 1, 2020. The original contract specified a three-year term with an optional two-year renewal. The renewal terms stated that if either party did not wish to renew, they must provide written notice at least 90 days before the contract expiration date. The contract also stipulated that fees for the renewal period would be adjusted based on the Consumer Price Index (CPI) but would not exceed 5% increases per year.
+
+**Parties Involved**:  
+1. **TechCo**: The service user, dependent on stable cloud storage for its software products.
+2. **CloudSolutions**: The service provider, offering cloud services to various clients, including TechCo.
+
+**Key Issues**:
+
+1. **Lack of Written Notice**: TechCo claims it sent a written notice of non-renewal via email on October 1, 2022, well within the 90-day requirement. However, CloudSolutions asserts they never received this email and provided their own evidence of internal communications around that time that do not include TechCo's notice. This discrepancy centers around whether the notice was sent and received as stipulated by the contract.
+
+2. **Fee Adjustments**: CloudSolutions proceeded to calculate the renewal fees based on the CPI as outlined in the contract. However, TechCo disputes the calculation method used, arguing that CloudSolutions applied an incorrect CPI index, resulting in a fee increase of 8% instead of the capped 5%. TechCo contends that the renewal fee should have been based on a different index that better reflects the services involved, leading to claims of overcharging.
+
+3. **Good Faith Negotiations**: TechCo argues that CloudSolutions acted in bad faith by not engaging in discussions regarding a mutual settlement when it became clear that there was confusion surrounding the notice. TechCo claims that CloudSolutions threatened to take legal action if payment for the increased renewal fees was not made by the deadline. In contrast, CloudSolutions maintains they adhered to contractual obligations and were merely enforcing the terms outlined in their agreement.
+
+4. **Continuity of Service**: Adding to the dispute, TechCo is facing potential operational disruptions due to this contract misunderstanding. They argue that the absence of an agreement should not interrupt their access to services, especially since they believe they have fulfilled their obligations under the original contract terms.
+
+**Conclusion**:  
+The dispute is currently under review, with TechCo pushing for either a recognition of non-renewal or a recalibration of the renewal fees to comply with the original agreement. CloudSolutions is pushing back, insisting that TechCo failed to meet the notice requirement and that their fee adjustments were valid based on the contract terms. Both parties are preparing for potential mediation to resolve the issues without escalating to litigation.

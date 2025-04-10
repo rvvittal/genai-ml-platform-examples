@@ -1,0 +1,28 @@
+Theme: Payment Schedule
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Schedule Between BrightBuild Construction and Elite Design Group**
+
+**Background:**
+BrightBuild Construction (hereafter referred to as "BrightBuild") is a general contractor specializing in residential renovations, while Elite Design Group (referred to as "Elite") is an architecture firm known for its high-end design services. In January 2023, the two parties entered into a contractual agreement to renovate a luxury home in Silver Lake, California, valued at $500,000. The contract outlined a detailed payment schedule based on specific construction milestones—20% upon contract signing, 30% after the completion of the foundation, 30% upon framing completion, and the final 20% upon project completion.
+
+**Parties Involved:**
+- BrightBuild Construction (Contractor)
+- Elite Design Group (Architect/Client)
+
+**Key Issues:**
+1. **Disputed Foundation Completion:**
+   In April 2023, Elite alleged that BrightBuild did not meet the foundational work specifications outlined in the architectural blueprints, leading to delays in the project timeline. Elite withheld the second payment (30% of the total contract) as a penalty for what they claimed was subpar work. BrightBuild argued that the foundation work had been completed to industry standards, supported by inspections from local building authorities, and contended that withholding payment constituted a breach of contract.
+
+2. **Change Orders and Additional Costs:**
+   In early May, during the framing phase, Elite requested significant changes to the design that had not been originally accounted for in the contract, including upgraded material and layout alterations. BrightBuild submitted a change order that detailed additional costs totaling $45,000. Elite disputed these costs, claiming the change requests were within the scope of the project and alleged that they had been misled about the overall budget from the beginning. BrightBuild argued that the initial contract allowed for change orders to be addressed separately, citing specific language that acknowledged potential adjustments based on design modifications.
+
+3. **Disruption of Workflow:**
+   Due to the payment dispute, BrightBuild temporarily halted work on the project, leading to additional delays and a rescheduling of subcontractors. Elite claimed these delays were due to BrightBuild's failure to allocate proper resources and manage the construction timeline, thus seeking damages for potential financial losses related to a delayed completion. BrightBuild countered that the stoppage was a direct result of Elite’s decision to withhold payment, which they stated was an unjustifiable course of action that compounded the issues.
+
+**Resolution Attempts:**
+Efforts to mediate the dispute have been unsuccessful thus far. Both parties have indicated a willingness to resolve this matter, but disagreements persist over the foundation's completion quality and the legitimacy of the change orders. BrightBuild remains adamant about receiving the payments due based on work completed, while Elite pushes for a complete redesign of the project plan without a corresponding increase in costs, asserting that the changes were part of the original envisioning of the project.
+
+**Conclusion:**
+As of October 2023, the parties are preparing for a potential arbitration to resolve the disputes surrounding payment with the overarching goals of safeguarding their reputations and concluding the project as efficiently as possible for their client base.

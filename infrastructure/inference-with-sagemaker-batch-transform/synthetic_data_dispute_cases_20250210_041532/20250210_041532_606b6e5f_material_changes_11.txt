@@ -1,0 +1,29 @@
+Theme: Material Changes
+Case Number: 11
+--------------------------------------------------
+
+**Contract Dispute Scenario: Material Changes in Construction Project**
+
+**Parties Involved:**
+1. **BuilderCorp Ltd.** - A mid-sized construction company contracted to build a luxury apartment complex in downtown Portland, Oregon.
+2. **Elite Realty Group** - The property developer overseeing the apartment project.
+
+**Background:**
+In January 2023, Elite Realty Group and BuilderCorp Ltd. entered into a contract for the construction of a 12-story luxury apartment complex valued at $20 million. The contract outlined specific architectural designs, materials to be used, and a completion deadline of December 2024. As the project progressed, disputes arose regarding changes in materials and design specifications, which allegedly affected the project timeline and budget.
+
+**Key Issues:**
+
+1. **Material Modifications:**
+   In August 2023, BuilderCorp submitted a change order to Elite Realty Group proposing the use of a different type of exterior cladding material. BuilderCorp claimed that the originally specified cladding was no longer available due to supply chain issues and that the alternative material would not only meet safety codes but also reduce costs by 10%. Elite Realty Group initially approved the change, but upon review, found that the new material’s aesthetic did not align with the luxury branding of the complex.
+
+2. **Impact on Project Timeline:**
+   Elite Realty Group contends that the change in materials has delayed construction timelines significantly. They argue that BuilderCorp should have anticipated the potential supply shortages during the procurement phase and should have secured alternative materials more proactively. The developer claims that this failure to account for these risks has led to substantial setbacks, estimating an additional three months of delay resulting in increased holding costs.
+
+3. **Contractual Obligations:**
+   The core of the dispute lies in the interpretation of the contract’s “Material Changes” clause. BuilderCorp argues that the clause allows for modifications due to supplier issues, thereby justifying their change order. Conversely, Elite Realty Group asserts that the clause requires prior written consent for changes that significantly deviate from the contract's agreed specifications and argues that BuilderCorp acted unilaterally in approving the material switch.
+
+4. **Cost Overruns:**
+   Since the proposed change order, additional costs for labor and re-engineering have emerged, leading to disputes over who bears these costs. BuilderCorp demands that these costs be absorbed by Elite Realty Group, citing unanticipated complications due to the material change. Elite Realty Group maintains that BuilderCorp is responsible for any delays and cost overruns resulting from their decision to change the material without proper consultation.
+
+**Current Status:**
+As of October 2023, both parties have entered mediation to resolve the issues. BuilderCorp advocates for an adjustment in contract terms to accommodate the new materials without penalty, while Elite Realty Group seeks a formal acknowledgment of the original specifications and full adherence to the initial timeline, alongside reimbursement for financial losses incurred. The successful resolution hinges on determining the extent of BuilderCorp's obligation to minimize disruptions and the interpretation of the contract’s clauses regarding material changes.

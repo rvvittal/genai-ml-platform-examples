@@ -1,0 +1,36 @@
+Theme: Term Extension
+Case Number: 18
+--------------------------------------------------
+
+**Contract Dispute Scenario: Term Extension for Software Development Agreement**
+
+**Parties Involved:**
+1. **Tech Innovations Inc. (TII)** - A software development company based in San Francisco, California, specializing in custom enterprise solutions.
+2. **Global Retail Corp. (GRC)** - A large retail chain headquartered in New York, which has engaged TII to develop a customized inventory management system.
+
+**Background:**
+In January 2022, TII and GRC entered into a contract for the development of an inventory management software, with a project start date of February 15, 2022, and a completion deadline of February 14, 2023. The contract had specific terms regarding deliverables, payment schedules, and an option for a term extension, provided that both parties agreed in writing at least 30 days before the original term's expiration.
+
+**Current Dispute:**
+As the completion deadline approached, TII faced unforeseen technical difficulties due to evolving requirements from GRC's management, resulting in a delay in delivery. By January 2023, while TII was able to demonstrate a working version of the software, numerous bugs and additional requested features were not fully addressed.
+
+**Key Issues:**
+
+1. **Request for Term Extension:**
+   - TII initiated informal discussions with GRC in early January 2023, seeking a 60-day extension to finalize the software. GRC required a signed formal request for extension per the contract.
+   - On January 20, 2023, TII submitted a formal extension request, citing the technical difficulties encountered and the need for additional time to resolve outstanding issues.
+
+2. **Agreement on Extended Terms:**
+   - GRC's project manager, Emma Lawson, responded on January 25, 2023, stating that the extension request would be denied unless TII could provide a detailed contingency plan outlining how the new timeline would be adhered to. GRC was under pressure to implement the new system before its busy spring sales season.
+   - TII argued that the request for a contingency plan was not in line with the original agreement's wording, which stated that a simple agreement to extend the term was sufficient.
+
+3. **Financial Implications:**
+   - GRC expressed concern over possible budget overruns and additional costs associated with delaying the project. They claimed that as per the original contract, TII was obligated to meet the deadline, and any further delay would incur penalties as outlined.
+
+4. **Breach of Contract Allegations:**
+   - By February 1, 2023, with no formal agreement on the extension in place, GRC initiated a dispute alleging that TII was in breach of contract for failing to deliver the completed software by the agreed-upon deadline. Meanwhile, TII contended that it had acted in accordance with the terms regarding an extension and that GRC’s request for a contingency plan exceeded the original terms of the contract.
+
+5. **Resolution Efforts:**
+   - Both parties are now engaged in mediation, with TII pushing for an immediate term extension to complete the software while GRC seeks compensation for potential revenue losses resulting from the delay. 
+
+The outcome of this dispute hinges on the interpretation of the contract’s term extension provision, the obligations of each party regarding communication and documentation, and the financial repercussions of the delays cited by both parties.

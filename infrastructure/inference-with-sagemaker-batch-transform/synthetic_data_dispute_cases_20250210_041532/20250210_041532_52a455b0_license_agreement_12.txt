@@ -1,0 +1,29 @@
+Theme: License Agreement
+Case Number: 12
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over License Agreement between TechInnovate LLC and SoftSolutions Inc.**
+
+**Parties Involved:**
+1. **TechInnovate LLC** - A startup specializing in software development, focusing on artificial intelligence tools for small businesses.
+2. **SoftSolutions Inc.** - A well-established software company with a diverse portfolio, including SaaS applications and enterprise solutions.
+
+**Background:**
+In January 2022, TechInnovate LLC entered into a license agreement with SoftSolutions Inc. to use SoftSolutions' customer relationship management (CRM) software as part of its AI tool integration. Under the agreement, TechInnovate was granted a non-exclusive license to use the CRM software for three years, in exchange for an initial payment of $50,000 and an annual royalty of 10% based on gross revenues generated from the software integration.
+
+**Key Issues of Contention:**
+
+1. **Scope of Use:**
+   TechInnovate claims that the license agreement explicitly permitted the use of SoftSolutions' CRM software in conjunction with its own AI tools without restrictions on how those tools could be marketed and sold. Conversely, SoftSolutions argues that the license was intended solely for internal use and not for resale or distribution to end customers. The dispute centers on the interpretation of the terms "integration" and "commercial use" as laid out in the agreement.
+
+2. **Royalties Calculation:**
+   Following the first year of operation, TechInnovate reported gross revenues of $1 million, resulting in a royalty payment of $100,000, which was remitted to SoftSolutions. However, TechInnovate has since indicated that due to a strategic pivot towards a subscription model, their revenues from the CRM software were inaccurately reported in the context of the integration, leading to SoftSolutions claiming the royalties should be higher. TechInnovate contends that only direct revenue from the software should be considered, and not ancillary product sales.
+
+3. **Quality of Software Updates:**
+   Under the agreement, SoftSolutions is obliged to provide regular updates and support for the CRM software. TechInnovate alleges that the updates provided were insufficient, causing critical integration issues that directly affected their product launch and customer satisfaction. TechInnovate claims damages due to lost sales and seeks compensation, while SoftSolutions argues that the updates met industry standards and TechInnovate's claims are exaggerated.
+
+4. **Termination Rights:**
+   In December 2023, SoftSolutions issued a notice of breach, claiming that TechInnovate violated the license agreement by marketing the integrated product as part of a standalone offering. TechInnovate contests this claim, asserting that there was no breach since their marketing strategy was consistent with the initial purpose of the agreement. They argue that any amendments to terms or conditions must involve mutual consent, which SoftSolutions has failed to provide.
+
+**Conclusion:**
+Both parties find themselves at an impasse, with TechInnovate contemplating legal action for breach of contract and damages, while SoftSolutions is preparing to escalate to litigation to terminate the license agreement. As negotiations stall, both companies are exploring mediation options, hoping to avoid a lengthy and costly legal battle.

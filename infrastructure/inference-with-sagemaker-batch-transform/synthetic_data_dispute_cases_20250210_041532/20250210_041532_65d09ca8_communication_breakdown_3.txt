@@ -1,0 +1,29 @@
+Theme: Communication Breakdown
+Case Number: 3
+--------------------------------------------------
+
+**Scenario: Contract Dispute between TechCorp and DevSolutions**
+
+**Background:**
+TechCorp, a software development company, entered into a contract with DevSolutions, a consulting firm, to develop a custom customer relationship management (CRM) platform. The contract was signed on March 1, 2023, with an agreed completion date of August 31, 2023. The total project cost was $500,000, with payments structured in three installments: $200,000 upfront, $200,000 upon delivery of the prototype, and $100,000 upon final project acceptance.
+
+**Parties Involved:**
+- **TechCorp**: A rapidly growing company that relies on a high-functioning CRM system to manage customer interactions and data.
+- **DevSolutions**: A consulting firm known for providing tailored software solutions to businesses, with an extensive portfolio but experiencing some recent client dissatisfaction.
+
+**Key Issues:**
+
+1. **Communication Breakdown**:
+   TechCorp's project manager, Lisa, reported persistent communication gaps between her team and DevSolutions. She alleged that despite regular check-in meetings, key project milestones were not being communicated effectively, leading to misunderstandings about the development process. For instance, during a scheduled call on July 10, 2023, TechCorp's team requested clarification on the integration of marketing automation features, which they believed had been agreed upon. The DevSolutions tech lead, Brian, responded with vague assurances, but no clear timelines or adjustments were made, leading TechCorp to believe that progress was being delayed.
+
+2. **Inadequate Deliverables**:
+   When DevSolutions submitted the prototype on August 1, 2023, TechCorp found that critical features discussed during the initial phase were either incomplete or implemented in ways that did not meet the specifications outlined in the contract. Specifically, the functionality for reporting analytics was significantly compromised and did not integrate well with existing TechCorp systems. This discrepancy led to an immediate dissatisfaction and a refusal by TechCorp to proceed with the next payment installment.
+
+3. **Billing Disputes**:
+   TechCorp withheld the second payment, citing the inadequacies in the prototype. DevSolutions, in response, argued that their work met the contract's specifications based on previous discussions. They contended that the communication issues stemmed from TechCorp's internal changes, including new personnel that did not fully grasp the original agreements. DevSolutions issued an invoice for the second installment despite TechCorp's objections, leading to further tension and the possibility of legal action over overdue payments.
+
+4. **Timeline and Penalties**:
+   The timeline for completion has been impacted as well. According to the contract, delays in payment could result in penalties for DevSolutions, which they are now unable to meet due to the withheld payments. TechCorp insists that any delays are a direct result of DevSolutions’ performance issues, while DevSolutions maintains that the delays were unavoidable.
+
+**Conclusion:**
+Without a resolution, both parties face a potentially damaging legal battle, with TechCorp seeking compensation for lost time and resources, while DevSolutions aims to recover payments for the work they allege was completed per the contract. Mediation discussions have begun but have been hampered by the ongoing communication issues that initiated the dispute.

@@ -1,0 +1,41 @@
+Theme: Payment Schedule
+Case Number: 20
+--------------------------------------------------
+
+### Contract Dispute Scenario: Payment Schedule
+
+**Parties Involved:**
+1. **ABC Construction Inc.** (Contractor) - A mid-sized construction company specializing in commercial building projects.
+2. **XYZ Developments LLC** (Client) - A real estate development firm engaged in constructing a new office building in downtown.
+
+**Background:**
+In January 2023, ABC Construction and XYZ Developments entered into a contract for the construction of a five-story office building. The contract included a detailed payment schedule contingent upon the completion of specific project milestones: 
+- **20% deposit** upon signing the contract 
+- **30% payment** upon completion of the foundation
+- **30% payment** upon completion of the framing
+- **20% final payment** upon project completion
+
+**Timeline of Events:**
+- The contract was executed on January 15, 2023.
+- ABC Construction completed the foundation by March 15, 2023, and received the second payment.
+- By April 30, 2023, the framing was completed, but XYZ Developments delayed the third payment, citing concerns over the framing quality.
+- ABC Construction proceeded to finish the rest of the building by July 15, 2023. The project was completed, however, the final payment has yet to be released.
+
+**Key Issues:**
+1. **Quality of Work Dispute:** 
+   - XYZ Developments claims that the framing was not up to the agreed specifications, asserting that it deviated from the approved architectural plans. They allege that the framing has led to structural concerns which require additional inspections and potential rework, thus justifying their delay in payment.
+
+2. **Disruption of Payment Schedule:**
+   - ABC Construction argues that the foundation and framing were completed to industry standards, and any alleged issues should have been raised before the scheduled payment. They assert that this has disrupted their cash flow, potentially jeopardizing their ability to meet payroll and project deadlines for subsequent clients.
+
+3. **Withholding of Payments:**
+   - XYZ Developments has withheld the 30% payment for framing completion citing “breach of contract,” whereas ABC Construction contends that this withholding is not justified under the original agreement as no formal complaints had been filed prior to this point.
+
+4. **Final Payment Controversy:**
+   - ABC Construction is seeking the final 20% payment, arguing that the project has been delivered on time and in adherence to contractual obligations. They maintain that completion should trigger the last payment regardless of XYZ’s satisfaction claims unless valid notice of defects was provided.
+
+**Resolution Attempts:**
+Despite multiple discussions and an official notice sent by ABC Construction in August requesting the owed payments, XYZ Developments has offered to pay only 50% of the outstanding amounts, insisting on holding back funds until the framing issues are resolved.
+
+**Next Steps:**
+Both parties are now considering mediation to resolve the payment issues, but should that fail, ABC Construction is prepared to pursue legal action for breach of contract to recover the full amounts due.

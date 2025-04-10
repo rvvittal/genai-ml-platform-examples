@@ -1,0 +1,33 @@
+Theme: Liability Limits
+Case Number: 10
+--------------------------------------------------
+
+**Contract Dispute Scenario: Liability Limits in Construction Contract**
+
+**Parties Involved:**
+
+1. **XYZ Construction Co.** (Contractor) - A mid-sized construction firm specializing in commercial projects.
+2. **Alpha Corp.** (Client) - A technology company commissioning a new office building.
+
+**Background:**
+
+In January 2022, XYZ Construction Co. entered into a contract with Alpha Corp. for the construction of a new office building located in downtown Metropolis. The contract includes various clauses detailing the work to be performed, timelines, payment terms, and key liabilities. The contract also specifies a liability limit clause, which caps liability for any damages or losses arising from the work performed to the amount of the total contract value, which was set at $2 million.
+
+**Incident:**
+
+On December 5, 2022, during the final stages of construction, a structural failure occurred in the building's framework, leading to severe damage. The incident resulted in not only physical damages but also delayed the project's completion by six months. Alpha Corp. subsequently claims that the incident caused significant financial losses estimated at $5 million due to lost business opportunities and increased costs associated with leasing temporary office space.
+
+**Key Issues:**
+
+1. **Interpretation of Liability Limits:**
+   Alpha Corp. argues that the liability limit clause is unconscionable and does not adequately cover consequential damages resulting from the contractor's negligence. They assert that the damages extend beyond the physical damages to lost profits and business interruptions, which should not be capped by the $2 million limit. Conversely, XYZ Construction Co. contends that the liability limit is standard industry practice, designed to protect them from excessive financial exposure, and that the contract explicitly restricts all claims to the stated limit.
+
+2. **Determining Negligence:**
+   The parties disagree on the issue of negligence. Alpha Corp. alleges XYZ Construction Co. failed to adhere to safety protocols and building codes, contributing directly to the structural failure. XYZ Construction Co., on the other hand, maintains that all safety standards were followed and argues that external factors, such as unexpected severe weather conditions, were beyond their control and contributed to the incident.
+
+3. **Scope of Damages:**
+   Another contentious point is the scope of damages claimed by Alpha Corp. While the contractor acknowledges liability for the direct repair costs associated with the damages, they dispute the extent of the consequential damages claimed, including lost profits and additional leasing expenses. XYZ Construction Co. argues that these types of damages were not foreseeable at the time of contract formation and should therefore not be compensable under the terms of the contract.
+
+**Conclusion:**
+
+The dispute centers around the interpretation and enforceability of the liability limit clause, questions of negligence in the construction process, and the scope of damages that can be claimed. Both parties are now considering mediation as a means to resolve the conflict before escalating to litigation, which could result in costly and prolonged legal battles.

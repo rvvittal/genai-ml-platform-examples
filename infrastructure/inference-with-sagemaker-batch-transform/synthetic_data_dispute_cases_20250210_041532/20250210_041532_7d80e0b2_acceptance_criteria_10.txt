@@ -1,0 +1,32 @@
+Theme: Acceptance Criteria
+Case Number: 10
+--------------------------------------------------
+
+**Contract Dispute Scenario: Acceptance Criteria in Software Development**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** (the Developer) - A software development company contracted to create a custom customer relationship management (CRM) system for a retail company, **RetailMax Ltd.** (the Client).
+2. **RetailMax Ltd.** (the Client) - An established retail company looking to enhance its customer engagement through a tailored CRM system.
+
+**Background:**
+In January 2022, TechSolutions Inc. and RetailMax Ltd. entered into a contract for the development of a CRM system. The contract specified deliverables, timelines, and acceptance criteria that defined the project's success. The acceptance criteria included functional specifications, performance benchmarks, and usability standards, which were outlined in an attached document titled "Acceptance Criteria Overview."
+
+**Dispute Summary:**
+By August 2023, TechSolutions delivered the CRM system, claiming it met the specified criteria. However, RetailMax refused to accept the software, arguing it fell short in several key areas as outlined in the acceptance criteria.
+
+**Key Issues:**
+
+1. **Functional Specifications:**
+   RetailMax maintained that the CRM did not support critical functionalities, such as automated reporting and integration with their existing inventory management system. TechSolutions argued that the features in question were labeled as "optional" in the acceptance criteria, which RetailMax disputed, asserting that clear integration was deemed mandatory during initial meetings.
+
+2. **Performance Benchmarks:**
+According to the contract, the CRM system was expected to handle at least 5,000 simultaneous users with a response time of less than 2 seconds for 90% of user queries. Upon testing, RetailMax experienced latency issues during peak hours, claiming that TechSolutions had violated the performance benchmark. TechSolutions countered that RetailMax's testing environment did not mirror the agreed-upon production conditions, leading to inconsistent results.
+
+3. **Usability Standards:**
+RetailMax pointed out that the user interface was not intuitive, affecting user adoption rates among staff. The contract explicitly stated that the system must pass a usability test with at least 80% user satisfaction in a targeted focus group. TechSolutions argued that they conducted usability tests, achieving a 78% satisfaction rate, which they deemed acceptable under the clause allowing for minor deviations.
+
+4. **Documentation and Training:**
+RetailMax expressed dissatisfaction with the training sessions provided and the lack of comprehensive documentation for the system. The contract specified that adequate training and documentation were to be provided as part of the deliverables. TechSolutions contended that they met the requirements by conducting several sessions and supplying basic manuals, while RetailMax insisted that the documentation failed to cover critical features, impacting their operational readiness.
+
+**Conclusion:**
+Both parties are currently at an impasse, with TechSolutions seeking payment for the delivered system and RetailMax considering withholding payment until all agreed-upon criteria are met. The dispute has escalated, prompting discussions about potential mediation or legal recourse to resolve the matter, with each side firmly believing they have complied with the contractual terms. The outcome will hinge on the interpretation of acceptance criteria and the evidence of due diligence by both parties prior to project delivery.

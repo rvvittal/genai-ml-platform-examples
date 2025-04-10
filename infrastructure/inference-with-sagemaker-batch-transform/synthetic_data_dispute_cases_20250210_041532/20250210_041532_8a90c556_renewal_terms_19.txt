@@ -1,0 +1,33 @@
+Theme: Renewal Terms
+Case Number: 19
+--------------------------------------------------
+
+**Contract Dispute Scenario: Renewal Terms**
+
+**Parties Involved:**
+1. **GreenTech Solutions LLC** - an environmental consulting firm based in Austin, Texas.
+2. **EcoBreeze Corp.** - a renewable energy technology company based in San Francisco, California.
+
+**Background:**
+In 2020, GreenTech Solutions entered into a three-year consulting agreement with EcoBreeze Corp. to provide environmental impact assessments for EcoBreeze’s solar panel manufacturing facilities. The contract included a clause outlining the renewal terms, stating that the contract would automatically renew for an additional year unless either party provided written notice of termination at least 90 days before the contract expiration on December 1, 2023.
+
+**Dispute Overview:**
+As the December deadline approached, EcoBreeze Corp. underwent a significant leadership change, resulting in new management who questioned the value of the consulting services provided by GreenTech. On October 5, 2023, the new management sent an email to GreenTech, stating their intention to terminate the contract due to perceived underperformance and a shift in strategic direction. 
+
+However, GreenTech claimed that they did not receive the email until October 15, which was after the 90-day notice period stipulated in the contract. GreenTech contends that their services have provided significant value, citing metrics and reports demonstrating compliance with environmental regulations as well as project enhancements stemming from their assessments.
+
+**Key Issues in Dispute:**
+1. **Notice Timing and Validity:**
+   - GreenTech argues that EcoBreeze's notice was not valid as it was not sent within the required 90-day timeframe. The email sent by EcoBreeze on October 5 does not constitute valid notice since the contract would automatically renew unless a valid notice is served by September 1, 2023.
+   - EcoBreeze counters that the email conforms to their understanding of the notice period being a “suggested timeline” and maintains that the underlying concerns regarding performance justify termination irrespective of technicalities.
+
+2. **Performance and Value:**
+   - GreenTech asserts that their assessments have resulted in significant cost savings for EcoBreeze in terms of regulatory compliance and operational optimization. They provide a list of metrics indicating improved sustainability practices necessitated by their consultations.
+   - Conversely, EcoBreeze claims that GreenTech's assessments have been inadequate and fail to meet the new management’s expectations and strategic vision. They argue that the metrics presented are misleading and do not translate to actionable insights.
+
+3. **Interpretation of Renewal Terms:**
+   - GreenTech insists that the contract language is clear regarding automatic renewal unless proper termination is executed. They express concerns that EcoBreeze’s actions reflect a desire to sidestep the contractual obligations without legitimate grounds.
+   - EcoBreeze, however, argues that the terms do not account for significant internal changes and evolving business needs, thus warranting reconsideration of the renewal.
+
+**Conclusion:**
+The parties are at an impasse, with GreenTech preparing to enforce the renewal of the contract while EcoBreeze attempts to seek alternative consulting solutions. Mediation efforts are being considered to resolve the dispute amicably and avoid potential litigation.

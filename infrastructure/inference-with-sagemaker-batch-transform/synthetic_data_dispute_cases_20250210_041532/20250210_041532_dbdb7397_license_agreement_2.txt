@@ -1,0 +1,31 @@
+Theme: License Agreement
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: License Agreement between TechWave Inc. and NexGen Solutions**
+
+**Parties Involved:**
+- **TechWave Inc.**: A software development company located in San Francisco, California, specializing in cloud-based solutions.
+- **NexGen Solutions**: A start-up company based in Austin, Texas, focusing on integrating advanced AI technologies into everyday business operations.
+
+**Background:**
+In January 2022, TechWave Inc. and NexGen Solutions entered into a Licensing Agreement that allowed NexGen to use TechWave’s proprietary software, “CloudXpert,” to enhance their product offering. The agreement specified that NexGen would pay a licensing fee of $50,000 upfront and an additional 5% of gross sales derived from any products utilizing CloudXpert for a period of three years.
+
+**Details of the Dispute:**
+By September 2023, NexGen Solutions had released a suite of AI tools, marketed as “AI Assistant Pro,” which incorporated functionality derived from CloudXpert. However, NexGen had not made the required gross sales disclosures to TechWave, nor had they paid the 5% royalties as stipulated in the agreement.
+
+In late September 2023, TechWave conducted a routine check on NexGen’s software offerings and suspected that the AI Assistant Pro had generated significantly higher sales than NexGen had reported. After multiple requests for sales figures and royalty payments went unanswered, TechWave sent a formal notice of breach on October 1, 2023. This notice detailed the allegations of insufficient reporting and non-payment of royalties. 
+
+**Key Issues:**
+1. **Royalty Payment Non-Compliance**: The primary issue at hand is NexGen's failure to pay the 5% royalty fees based on the gross sales derived from the use of CloudXpert. TechWave claims they have evidence that sales exceeded $1 million, which would imply a potential unpaid royalty of $50,000.
+
+2. **Lack of Sales Reporting**: NexGen disputes the accuracy of TechWave's sales calculations. They argue that due to various operational challenges and market fluctuations, their sales fell below expectations, and thus, they owe significantly less in royalties. NexGen claims that the revenue generated from AI Assistant Pro does not directly correlate to the functionality derived from CloudXpert.
+
+3. **Termination Clause**: TechWave’s notice of breach initiated a 30-day period for NexGen to remedy the situation, or TechWave intends to terminate the license agreement. However, NexGen asserts that the termination clause is overly punitive and does not provide a fair chance for them to address the alleged breach, given the ongoing uncertainties in their financial performance.
+
+4. **Definition of “Gross Sales”**: Both parties are at odds regarding the interpretation of what constitutes “gross sales.” NexGen argues that expenses and refunds incurred should be deducted from gross sales before calculating royalties, a point that TechWave vehemently contests.
+
+5. **Intellectual Property Protections**: The dispute has led to concerns over potential misuse of CloudXpert technology within AI Assistant Pro. TechWave worries that if NexGen does not comply with the agreement, they may risk compromising their proprietary technology.
+
+**Conclusion:**
+The dispute presents a significant challenge for both parties, potentially damaging their business reputations and relationships. Mediation efforts have thus far been unsuccessful, and litigation remains a possibility if a resolution is not reached in the coming weeks.

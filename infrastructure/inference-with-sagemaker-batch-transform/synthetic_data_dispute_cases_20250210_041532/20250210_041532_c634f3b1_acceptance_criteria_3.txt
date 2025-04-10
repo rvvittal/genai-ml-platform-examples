@@ -1,0 +1,28 @@
+Theme: Acceptance Criteria
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: ABC Tech Solutions vs. Omega Manufacturers**
+
+**Parties Involved:**
+1. **ABC Tech Solutions (ABC)** - A software development company contracted to create a custom inventory management system for Omega Manufacturers.
+2. **Omega Manufacturers (Omega)** - A mid-sized manufacturing firm that produces consumer electronics and entered into a contract with ABC for the development of the inventory management system.
+
+**Background:**
+In March 2023, ABC and Omega entered into a contract worth $250,000, outlining the development of an inventory management system designed to optimize Omega’s supply chain. The contract specified four phases of project delivery, each with defined acceptance criteria that had to be met before payment was released.
+
+**Key Issues:**
+1. **Ambiguity in Acceptance Criteria:**
+   The acceptance criteria for Phase One, which included the system's basic functionality and integration with existing databases, were vague. While the contract stated the system must handle 1,000 SKU items and accomplish basic reporting tasks, it did not define specific performance metrics or user interface expectations. ABC claims they met the criteria by enabling basic functionalities but did not address usability concerns raised by Omega. Omega contends that the interface was not user-friendly and the reporting features were inadequate, failing to meet their operational needs.
+
+2. **Delayed Timeline:**
+   The contract stipulated that Phase One should take three months for completion. ABC delivered the project five months into the timeline, citing unexpected technical hurdles. Omega expressed frustration at the delays, claiming that this not only disrupted their operations but also hindered their overall project schedule. They argue that the delays constitute a breach of contract, whereas ABC cites legitimate technical issues that justified the extended completion time.
+
+3. **Payment Dispute:**
+   Upon completion of Phase One, ABC sought payment of $100,000, which was the agreed amount for that phase. Omega refused to pay, arguing they had not accepted the deliverables due to the cited failures in usability and performance and claiming the acceptance criteria were not satisfactorily met. In contrast, ABC maintains that since they demonstrated the functionalities outlined in the contract, they are entitled to payment regardless of Omega's subjective satisfaction, emphasizing that the criteria were technically achieved.
+
+4. **Future Liabilities:**
+   The dispute has raised concerns regarding future phases of the project. Omega has expressed doubt about ABC's capability to meet the remaining phases given the current issues, while ABC insists that their practices will ensure improved performance based on feedback provided. Omega is contemplating terminating the contract, which ABC opposes, fearing it would affect their reputation and financial stability.
+
+**Conclusion:**
+Overall, the primary points of contention revolve around the clarity and sufficiency of acceptance criteria, the implications of project delays, and the required payment for completed work. The parties are currently seeking mediation to resolve the disputes amicably before considering litigation.

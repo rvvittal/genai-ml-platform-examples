@@ -1,0 +1,34 @@
+Theme: Warranty Claims
+Case Number: 12
+--------------------------------------------------
+
+**Contract Dispute Scenario: Warranty Claims**
+
+**Parties Involved:**
+1. **Echo Electronics Inc.** (Manufacturer)
+   - A mid-sized electronics manufacturer based in California, specializing in consumer electronics such as laptops and tablets.
+   
+2. **Tech Haven Retail Ltd.** (Retailer)
+   - A popular electronics retailer operating in multiple states, well-known for its competitive pricing and customer service.
+
+**Background:**
+In January 2022, Tech Haven Retail Ltd. purchased 2,000 laptops from Echo Electronics Inc. under a wholesale agreement. The agreed-upon warranty provided that all laptops would be repaired or replaced free of charge for defects for a period of two years from the date of purchase. In March 2023, Tech Haven received a series of complaints from customers regarding persistent hardware failures in some of the laptops, particularly involving the keyboards and battery malfunctions. 
+
+**Key Issues:**
+1. **Warranty Coverage Discrepancies:**
+   - Echo Electronics claims that the damaged laptops fall outside of standard warranty coverage because the retailer did not follow proper protocol during customer use, alleging usage outside of intended specifications (e.g., exposing laptops to extreme temperatures). Tech Haven argues that customers used the laptops as intended and believe the warranty should cover these defects as they might be inherent design flaws.
+
+2. **Response Time and Repair Logistics:**
+   - Echo Electronics has not provided timely repairs or replacements, citing supply chain issues and a backlog of warranty claims. Tech Haven contends that this delay violates the warranty agreement's stipulation of a 30-day turnaround for repairs, damaging Tech Haven's reputation and costing them sales.
+
+3. **Communication Failures:**
+   - There have been multiple instances where Tech Haven has attempted to contact Echo Electronics to resolve the situation, but response times have been exceedingly slow. Echo Electronics attributes this to miscommunications within its customer service department. Tech Haven is frustrated by the lack of proactive communication and feels it has not been adequately supported in handling customer complaints.
+
+4. **Financial Implications:**
+   - Tech Haven estimates that the ongoing issue and associated fallout have led to a 15% decrease in sales over the last quarter. They are seeking compensation from Echo Electronics for the lost revenue and have provided documentation to support their claim. Echo Electronics, on the other hand, maintains that they are not liable for lost profits, as the warranty does not contain terms that guarantee sales performance.
+
+5. **Reputation Damage:**
+   - Both parties recognize that customer trust is critical in the electronics market. Tech Haven asserts that widespread dissatisfaction could lead to long-term harm to their business, and they hold Echo Electronics responsible for any potential reputational damage resulting from the product failures and the handling of warranty claims.
+
+**Current Status:**
+In October 2023, Tech Haven has sent a formal notice of dispute to Echo Electronics, seeking resolution through negotiation. The case may escalate to legal proceedings if an agreement cannot be reached regarding the warranty coverage and associated damages from the defective products, communication delays, and financial impacts.

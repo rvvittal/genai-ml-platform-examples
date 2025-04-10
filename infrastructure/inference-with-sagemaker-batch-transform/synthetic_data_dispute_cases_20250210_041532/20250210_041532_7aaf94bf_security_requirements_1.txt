@@ -1,0 +1,31 @@
+Theme: Security Requirements
+Case Number: 1
+--------------------------------------------------
+
+**Contract Dispute Scenario: Security Requirements in Software Development**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** (Client) - A mid-sized financial services company developing a new online banking platform seeking to enhance its digital security.
+2. **DevMasters LLC** (Contractor) - A software development firm contracted to build the platform, specializing in fintech solutions.
+
+**Background:**
+In January 2023, TechSolutions Inc. entered a contract with DevMasters LLC to design and implement an online banking platform with a completion deadline of July 2023. The contract explicitly outlined specific security requirements that were to be adhered to, including compliance with the Payment Card Industry Data Security Standard (PCI DSS), encryption protocols for data at rest and in transit, and regular security audits.
+
+**The Dispute:**
+As the deadline approached in June 2023, TechSolutions expressed concerns regarding the adequacy of the security measures implemented by DevMasters. The two main points of contention included:
+
+1. **Implementation of Security Protocols:**
+   - **TechSolutions’ Position:** TechSolutions argues that DevMasters did not fully adhere to the agreed-upon security requirements. Specifically, they claimed that the encryption protocols used were outdated and failed to meet PCI DSS compliance. They provided evidence of test results showing data breaches during security assessments conducted by an independent third party.
+   - **DevMasters’ Position:** Conversely, DevMasters contended that they implemented the latest available encryption technologies at the time of development and that the security tests conducted by TechSolutions were flawed. They maintained that their processes were in line with industry standards and claimed that some specifications set forth by TechSolutions were unrealistic for the project's timeline.
+
+2. **Security Audit Responsibility:**
+   - **TechSolutions’ Position:** The contract stated that DevMasters would conduct a security audit prior to the launch of the platform. TechSolutions asserts that DevMasters rushed through the audit process, leading to critical vulnerabilities being overlooked. TechSolutions is demanding that DevMasters address these vulnerabilities before the launch.
+   - **DevMasters’ Position:** DevMasters argues that they fulfilled their obligation by conducting a thorough audit as required and that the vulnerabilities identified by TechSolutions were not a result of their work, but rather due to misconceptions regarding the security features. They also claim that TechSolutions failed to provide necessary input during the audit process, which hindered the thoroughness of the audit.
+
+**Current Situation:**
+As of July 1, 2023, the platform remains undelivered. TechSolutions has withheld payment to DevMasters, claiming breach of contract due to inadequate security measures. DevMasters has filed a claim for breach of contract over non-payment. Both parties have engaged legal counsel, and the dispute is at risk of escalating into litigation. Mediation is being considered to resolve the differing interpretations of the contract obligations and address the pressing security concerns before moving forward with the project. 
+
+**Key Issues for Resolution:**
+1. Affirmation of compliance with specific security protocols.
+2. Clarity on the adequacy and thoroughness of the security audits conducted.
+3. The implications of withholding payment and potential damages incurred by both parties.

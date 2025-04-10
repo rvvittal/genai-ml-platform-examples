@@ -1,0 +1,29 @@
+Theme: Acceptance Criteria
+Case Number: 19
+--------------------------------------------------
+
+**Contract Dispute Scenario: Acceptance Criteria in Software Development**
+
+**Parties Involved:**
+1. **InnovateTech Solutions** (Client) - A medium-sized software development company seeking to develop a custom project management tool.
+2. **CodeCrafters Inc.** (Vendor) - A software development agency contracted to design and build the application.
+
+**Background:**
+In February 2023, InnovateTech Solutions entered into a contract with CodeCrafters Inc. to develop a custom project management tool with a detailed timeline for deliverables and a budget of $150,000. The contract included specific sections outlining acceptance criteria for various project phases, which both parties signed off on after several rounds of revisions.
+
+**Key Issues:**
+
+1. **Ambiguity in Acceptance Criteria:**
+   The primary point of contention arises from the acceptance criteria defined for the first phase of the project. InnovateTech insists that the criteria for ‘user interface usability’ and ‘integration with existing systems’ were explicitly discussed during contract negotiations. However, CodeCrafters claims that the criteria listed in the contract were vague and lacked quantifiable measures, leading to differing interpretations of what constitutes acceptable deliverables.
+
+2. **Failure to Meet Deadlines:**
+   CodeCrafters initially delivered a prototype by the agreed-upon deadline; however, InnovateTech identified numerous issues regarding usability and integration. Although InnovateTech provided detailed feedback, CodeCrafters attempted to pencil in more time for fixes, arguing that the feedback did not align with the acceptance criteria set forth. InnovateTech argues that the delays were unreasonable and they were entitled to a penalty as outlined in the contract for late delivery.
+
+3. **Inadequate Communication:**
+   InnovateTech claims that CodeCrafters failed to implement a structured feedback loop, which contributed to the growing misunderstanding about what constitutes acceptable progress. CodeCrafters counters this claim, stating they attempted to have weekly updates, but InnovateTech often postponed meetings, delaying the review process.
+
+4. **Cost Overruns:**
+   As the project progressed, CodeCrafters requested additional funding, citing unforeseen complexities regarding integration with InnovateTech’s existing software infrastructure. InnovateTech contends that such issues should have been anticipated and that the project has expanded beyond the original scope. CodeCrafters argue that they conducted due diligence and that the original acceptance criteria did not adequately cover the complexity of the integration.
+
+**Conclusion:**
+As of October 2023, both parties have agreed to enter into mediation to resolve the dispute amicably. InnovateTech seeks a reduction in the project cost and compensation for delays, while CodeCrafters aims to clarify the existing acceptance criteria and secure the additional funds needed to complete the project. The outcome of the mediation could have significant implications for future collaborations and the reputation of both parties within the software development industry.

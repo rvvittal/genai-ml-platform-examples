@@ -1,0 +1,32 @@
+Theme: Liability Limits
+Case Number: 5
+--------------------------------------------------
+
+**Contract Dispute Scenario: Liability Limits**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - A software development company based in San Francisco, California.
+2. **GreenTech LLC** - An eco-friendly product manufacturer based in Portland, Oregon.
+
+**Context:**
+In January 2022, TechSolutions Inc. and GreenTech LLC entered into a contract for the development of a custom inventory management software. The contract stipulated a completion timeline of six months and included a liability clause that limited TechSolutions’ liability to the amount paid under the contract, totaling $150,000. The contract also included a warranty period of 90 days post-delivery for any software defects.
+
+**Dispute Background:**
+In July 2022, after TechSolutions completed the software, GreenTech reported several major bugs that caused incorrect inventory tracking. The issues led to a significant disruption in GreenTech's operations and loss of sales, amounting to an estimated $500,000. GreenTech demanded that TechSolutions rectify the software issues at no additional cost and sought further compensation beyond the liability limit.
+
+**Key Issues:**
+
+1. **Liability Limits:**
+   - **GreenTech's Position:** They argue that the limitations of liability in the contract are unfair and do not adequately protect them against losses stemming from significant software failures. They assert that the software was central to their operations, and TechSolutions should be responsible for consequential damages due to their negligence in delivering a functioning product.
+   - **TechSolutions’ Position:** TechSolutions counters that the liability limit is a standard industry practice and was clearly outlined in the contract. They believe this clause protects them from excessive claims and that GreenTech willingly accepted these terms when signing the contract. 
+
+2. **Nature of the Defects:**
+   - **GreenTech's Argument:** GreenTech contends that TechSolutions delivered the software with known defects, thus breaching their obligation to provide a functional product. They further claim that the defects were not merely bugs but fundamental flaws that compromised their business operations.
+   - **TechSolutions’ Argument:** TechSolutions maintains that all software undergoes normal testing phases and that the bugs identified by GreenTech emerged after the warranty period. They assert that any operational issues are the result of GreenTech’s failure to implement the software properly or to provide adequate training to their staff.
+
+3. **Remedies Sought:**
+   - **GreenTech’s Demand:** They seek not only the immediate fixes for the software issues but also compensation for their lost revenue due to the software’s malfunction.
+   - **TechSolutions’ Offer:** They proposed a free update to address the bugs but reiterated that they are not liable for any lost revenue, only committed to fixing the software within the terms of the original agreement.
+
+**Conclusion:**
+The dispute escalated, leading GreenTech to threaten legal action, claiming that TechSolutions’ refusal to acknowledge the breaches and offer compensation violated both the spirit and the terms of the contract. The parties are now considering mediation to resolve the ongoing conflict without resorting to litigation, which would strain resources for both companies.

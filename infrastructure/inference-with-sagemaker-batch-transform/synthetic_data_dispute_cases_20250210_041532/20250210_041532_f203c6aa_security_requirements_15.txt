@@ -1,0 +1,39 @@
+Theme: Security Requirements
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: Security Requirements between TechCorp and SecureData Inc.**
+
+**Background:**
+TechCorp, a mid-sized software development company, entered into a contract with SecureData Inc., a cybersecurity firm, for the development of a secure software application intended for financial transactions. The agreement stipulated strict security requirements to protect sensitive user data, aligning with industry standards such as the Payment Card Industry Data Security Standard (PCI DSS) and the General Data Protection Regulation (GDPR).
+
+**Parties Involved:**
+1. **TechCorp** - The client seeking to develop a secure financial application.
+2. **SecureData Inc.** - The contractor responsible for implementing security measures and ensuring compliance.
+
+**Key Issues:**
+
+1. **Failure to Meet Security Specifications:**
+   After the completion of the project, TechCorp conducted a series of audits and discovered several significant security violations. Key areas of concern included:
+   - Inadequate encryption protocols for data transmission.
+   - Insufficient access controls, allowing unauthorized personnel to view sensitive information.
+   - Non-compliance with GDPR guidelines, particularly regarding user data retention policies.
+
+   TechCorp claims that these breaches directly violate the terms of the contract, which explicitly required the implementation of industry-standard security measures.
+
+2. **Liability and Indemnification:**
+The contract includes a liability clause stating SecureData Inc. is responsible for any breaches resulting from their failure to implement required security measures. SecureData seeks to contest this, arguing that some security failures were the result of TechCorp's own negligence in not maintaining an updated network infrastructure. This raises questions about the extent of liability for each party based on perceived contributions to the security failures.
+
+3. **Change Orders and Scope Creep:**
+TechCorp argues that during the project’s execution, they requested several enhancements to application features that may have impacted the original security parameters. SecureData Inc. contends that these changes were not formally documented as required by the contract’s amendment process, leading to confusion about whether updated security protocols were necessary.
+
+4. **Dispute Over Final Deliverables:**
+TechCorp has refused to approve the final deliverables, citing the aforementioned security issues. SecureData asserts that they delivered all functionalities as per the original specifications and that TechCorp's demands for additional security measures came after the completion deadline, thus falling outside the contract's obligations.
+
+5. **Remedies and Damages:**
+TechCorp seeks damages for the potential loss of clients due to compromised data security and the financial impact of rectifying the security breaches. They are also pursuing a refund of a portion of the contracted amount paid to SecureData for failing to meet agreed-upon security requirements. SecureData, on the other hand, insists that further enhancements and regular audits were outside the project's scope, and thus, they should not be held financially liable.
+
+**Resolution Steps:**
+The parties have entered mediation to address these issues, seeking a resolution that may involve renegotiation of security measures, determination of liability percentages, and possible compensation arrangements.
+
+This scenario encapsulates the complexities surrounding contractual security requirements and highlights the necessity for clear communication and documentation throughout collaborative projects.

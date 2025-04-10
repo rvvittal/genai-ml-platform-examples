@@ -1,0 +1,32 @@
+Theme: Maintenance Obligations
+Case Number: 9
+--------------------------------------------------
+
+**Contract Dispute Scenario: Maintenance Obligations**
+
+**Parties Involved:**
+- **Landlord:** Greenway Realty Group, LLC (Landlord)
+- **Tenant:** Spectrum Technology Solutions (Tenant)
+
+**Background:**
+Greenway Realty Group, LLC owns a commercial office building at 120 Oak Avenue, which it leased to Spectrum Technology Solutions under a five-year agreement effective January 1, 2021. The lease included provisions regarding maintenance obligations, specifying that the Tenant was responsible for maintaining the interior of the premises, while the Landlord was responsible for the exterior, including the roof and structural repairs.
+
+**Dispute Overview:**
+In February 2023, the Tenant reported water leaks originating from the ceiling in several offices, citing damp ceilings and visible growth of mold. Spectrum claimed that the issue stemmed from failures in the building's roof, which the Landlord was obligated to maintain. After an initial inspection, the Landlord acknowledged that the roof required repairs but attributed the water damage to the Tenant’s failure to properly maintain the HVAC system, which was also part of the Tenant's responsibilities according to the lease agreement.
+
+**Key Issues:**
+
+1. **Responsibility for Damage:**
+   - The Tenant asserts the damage is primarily due to the Landlord's negligence in roof maintenance. They argue that the lease is clear about the Landlord's obligation to ensure the exterior was watertight, and the leaks are directly traceable to faults in the roof.
+   - The Landlord contends that the Tenant's malfunctioning HVAC system caused condensation build-up, leading to the mold and structural concerns. They argue that such overuse or improper maintenance falls under the Tenant's responsibilities.
+
+2. **Repair Timeliness:**
+   - The Lease Agreement specified a timeframe of 30 days for the Landlord to address any reported maintenance issues. The Tenant contends that the Landlord failed to act in a reasonable time frame, leading to further damage, disruption of business, and loss of productivity. The Tenant formally requested repairs in March 2023, but the Landlord did not commence repairs until June 2023.
+   - The Landlord, conversely, claims they acted as quickly as possible under the circumstances and that they are not liable for the additional damage incurred during the Tenant's delay in notifying them about the HVAC issues.
+
+3. **Financial Implications:**
+   - Spectrum Technology Solutions is seeking a reduction in rent for the months during which the building was uninhabitable due to water damage and mold, arguing that the Landlord’s negligence directly caused the disruptions. The estimated loss from business disruptions amounts to approximately $50,000.
+   - The Landlord is adamant that the Tenant's claims for rent reduction are unfounded, arguing that the Tenant should share the responsibility for the costs related to the HVAC repairs, which they believe were a significant factor in the problem.
+
+**Conclusion:**
+The situation has escalated to the point where both parties are considering formal mediation to resolve the ongoing disputes regarding maintenance obligations, financial responsibility for repairs, breach of contract claims, and potential rent reductions. The outcome of the mediation could set a precedent for how maintenance responsibilities are interpreted in commercial leases, especially concerning the allocation of duties and timeliness of repairs.

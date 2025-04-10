@@ -1,0 +1,28 @@
+Theme: Interpretation Disagreements
+Case Number: 6
+--------------------------------------------------
+
+**Scenario: Contract Dispute between Axiom Construction and GreenSpace Landscaping**
+
+**Background:**
+Axiom Construction, a regional construction firm, entered into a contract with GreenSpace Landscaping to design and develop a public park in Springfield. The agreement, valued at $750,000, outlined the scope of work, timelines, payment schedules, and specific landscaping features to be incorporated into the park. The contract explicitly mentioned “native plant species” to highlight sustainability. It included a detailed appendix listing various plants the parties had agreed upon.
+
+**Parties Involved:**
+1. **Axiom Construction:** The general contractor responsible for overseeing the project’s construction phase and ensuring timely completion.
+2. **GreenSpace Landscaping:** The subcontractor tasked with planting, maintaining, and enhancing the landscaping elements of the park.
+
+**Key Issues:**
+1. **Interpretation of “Native Plant Species”:**
+   The contract states that GreenSpace must use “native plant species.” Upon review, Axiom insists that this expressly refers to plants indigenous to the local region, with a specific focus on those that thrive in Springfield's climate. However, GreenSpace presented several non-indigenous plants that they qualified as “native” based on a broader interpretation, arguing that these plants are adapted to similar climates and thus fulfill the contract's spirit of sustainability.
+
+2. **Timeline for Completion:**
+   The original contract specifies that the landscaping must be completed within 12 weeks from the date of the project start. However, Axiom claims that several delays were caused by GreenSpace, including late arrival of plants and insufficient workforce deployment. GreenSpace counters that the delays were due to unforeseen weather conditions and supply chain issues — circumstances they assert were not explicitly addressed in the contract, which does not include provisions for “force majeure” scenarios.
+
+3. **Payment Schedule Discrepancies:**
+   The contract stipulates a payment plan tied to milestones that include completion of plant installation and final inspections. Axiom claims GreenSpace is now requesting payment for substantial portions of work that they believe are incomplete due to the ongoing dispute over the types of plants used. GreenSpace argues that the completion of installation works and preparation should merit partial payment regardless of the contested plant types.
+
+4. **Quality of Workmanship:**
+   Another contention point arises regarding the quality of the work completed by GreenSpace. Axiom has expressed concerns over the health of some of the plants installed, claiming that some appear to be wilting or are not sited properly, which they interpret as a failure to meet the agreed-upon standards of workmanship laid out in the contract. GreenSpace defends their work, citing potential environmental factors beyond their control and asserting that the plants planted are indeed the ones identified in the agreement.
+
+**Resolution Attempts:**
+Both parties have attempted to resolve the dispute amicably through meetings and mediation sessions, but differing interpretations of the contract's language and terms continue to hinder progress. Legal counsel has been engaged on both sides, and they are potentially moving towards arbitration in hopes of arriving at a binding resolution.

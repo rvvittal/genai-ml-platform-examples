@@ -1,0 +1,34 @@
+Theme: Force Majeure Claims
+Case Number: 20
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Force Majeure Claims**
+
+**Parties Involved:**
+1. **GreenTech Solutions, Inc.** - A renewable energy company specializing in solar panel manufacturing and installation.
+2. **SkyView Development LLC** - A real estate development firm that has contracted with GreenTech for the installation of solar panels on its new housing development project.
+
+**Background:**
+In January 2023, GreenTech and SkyView entered into a contract for the installation of solar panels on a new residential development project scheduled for completion by June 30, 2023. The total value of the contract was $1.2 million, with a payment schedule tied to project milestones. The contract contained a Force Majeure clause, outlining conditions under which obligations could be suspended without penalty due to unforeseen circumstances beyond the control of either party.
+
+**Key Events Leading to Dispute:**
+In March 2023, a severe winter storm affected much of the northeastern United States, causing significant disruptions in supply chains and logistics. GreenTech experienced an unexpected delay in receiving critical components for solar panel production. The company invoked the Force Majeure clause, informing SkyView that it would be unable to meet the installation deadline due to the storm’s impact on its suppliers.
+
+On April 5, 2023, SkyView sent a letter disputing GreenTech’s claim, citing that the storm was a common occurrence in the region during winter, and GreenTech should have anticipated the impact on its supply chain. SkyView argued that cramming the delays into a single event of Force Majeure was unjustified and that GreenTech failed to take adequate preemptive measures.
+
+**Core Issues of Contention:**
+
+1. **Definition of Force Majeure:**
+   SkyView contends that the Force Majeure claim is invalid because the winter storm, while severe, is part of normal winter weather patterns, and thus not unforeseen. GreenTech argues that the historical data indicated that the intensity and duration of the storm were unprecedented for the region and constituted a legitimate Force Majeure event.
+
+2. **Mitigation Efforts:**
+   SkyView claims GreenTech did not make sufficient efforts to mitigate delays, including alternative sourcing for components or notifying SkyView of potential delays early enough. GreenTech counters that they actively sought alternative suppliers but were also hampered by the storm, which affected multiple suppliers simultaneously.
+
+3. **Impact on Contractual Deadlines:**
+   The delay has caused a ripple effect, with SkyView’s housing project now facing potential penalties for late completion imposed by local authorities. SkyView demands compensation for the delays and asserts that GreenTech should have absorbed the penalties due to their Force Majeure claim.
+
+4. **Future Relationship:**
+   The dispute has strained their relationship and could potentially jeopardize future contracts. SkyView is considering bringing in another contractor to complete the installation, while GreenTech fears reputational damage in the industry.
+
+**Conclusion:**
+As of July 2023, both parties are at an impasse, with GreenTech insisting on the validity of the Force Majeure claim and SkyView prepared to escalate the matter through legal channels. Mediation has been proposed but not yet agreed upon, highlighting the complex nature of the contractual interpretation and the consequences of unforeseen events.

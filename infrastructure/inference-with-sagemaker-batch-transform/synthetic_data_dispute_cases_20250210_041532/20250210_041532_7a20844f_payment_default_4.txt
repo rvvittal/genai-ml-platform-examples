@@ -1,0 +1,37 @@
+Theme: Payment Default
+Case Number: 4
+--------------------------------------------------
+
+### Contract Dispute Scenario: Payment Default
+
+**Parties Involved:**
+1. **BrightTech Solutions** - A mid-sized software development firm based in Austin, Texas. 
+2. **RetailPlus Inc.** - A nationwide retail chain specializing in e-commerce platforms, headquartered in San Francisco, California.
+
+**Background:**
+In January 2023, BrightTech Solutions entered into a contractual agreement with RetailPlus Inc. to develop a custom e-commerce software platform. The total contract value was $750,000, structured into three phases: 
+- **Phase 1 (Design)**: $250,000 due upon completion.
+- **Phase 2 (Development)**: $300,000 due upon delivery of a working prototype.
+- **Phase 3 (Deployment and Support)**: $200,000 due after successful deployment and a one-month support period.
+
+**Key Events Leading to Dispute:**
+1. **Completion of Phase 1**: The design phase was completed by the agreed timeline in March 2023, and BrightTech submitted the invoice for $250,000. RetailPlus paid within the stipulated 30 days.
+
+2. **Phase 2 Challenges**: By May 2023, delays in deliverables occurred due to RetailPlus’s failure to provide necessary feedback on the design. Despite this, BrightTech proceeded with development, incurring additional costs.
+
+3. **Working Prototype Delivered**: In July 2023, BrightTech submitted the working prototype for Phase 2. Following extensive testing, some issues were identified, leading to further revisions requested by RetailPlus.
+
+4. **Payment Default**: According to contract terms, upon the acceptance of the prototype by RetailPlus, the $300,000 for Phase 2 was due. However, despite BrightTech's compliance in addressing the issues, RetailPlus delayed payment, citing dissatisfaction with the final product and claiming that many features were not implemented as per specification.
+
+**Main Points of Contention:**
+
+1. **Quality of Deliverables**: RetailPlus asserts that BrightTech failed to meet the technical specifications outlined in the contract, particularly in areas related to user interface and payment integration. BrightTech argues that the feedback loop was inadequate and that RetailPlus’s delays contributed to the development issues.
+
+2. **Failure to Pay for Completed Work**: BrightTech contends that they fulfilled their contractual obligations regarding Phase 2 and completed the prototype within industry standards. They argue that the payment default for their work is unjustifiable and constitutes a breach of contract.
+
+3. **Communication Breakdown**: Both parties highlight a lack of effective communication throughout the project. BrightTech maintains that they conducted regular check-ins and updates, while RetailPlus claims they offered pertinent feedback, which BrightTech failed to implement promptly.
+
+4. **Potential Damages**: BrightTech is seeking the owed $300,000 from RetailPlus, as well as additional compensation for delays and project-related costs incurred due to RetailPlus's late feedback. RetailPlus, on the other hand, hints at possible counterclaims for the alleged failure to deliver a quality product.
+
+**Conclusion:**
+The parties are currently at an impasse, with BrightTech preparing to escalate the matter to mediation. Both companies recognize the need to resolve the dispute amicably to protect their reputations and maintain long-term relationships, yet they remain firm on their positions regarding contractual obligations and performance expectations.

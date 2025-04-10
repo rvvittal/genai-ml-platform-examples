@@ -1,0 +1,32 @@
+Theme: Service Level Agreement Violations
+Case Number: 11
+--------------------------------------------------
+
+**Contract Dispute Scenario: Service Level Agreement Violations**
+
+**Parties Involved:**
+1. **Tech Solutions Inc. (TSI)** - A software development company providing IT solutions, including cloud hosting and maintenance services.
+2. **GreenCrest Retail Ltd. (GCR)** - An online retail company that relies on TSI for its e-commerce platform and related IT services.
+
+**Background:**
+In January 2022, TSI and GCR signed a three-year Service Level Agreement (SLA) to govern the IT services provided to GCR. The SLA stipulated that TSI would ensure 99.9% uptime for GCR's e-commerce platform, provide 24/7 technical support, and respond to critical support tickets within one hour. The agreement also included a penalty clause where GCR would receive credits for any downtime exceeding the agreed threshold.
+
+**Key Issues and Points of Contention:**
+
+1. **Uptime Violations:**
+   From March 2023 to August 2023, GCR experienced several significant outages, including a major incident on July 15, 2023, where the platform was offline for over five hours due to a server malfunction. Logs indicated that the uptime during this period fell to approximately 97%, breaching the 99.9% SLA requirement. GCR claims that these outages led to lost sales estimated at $150,000.
+
+2. **Technical Support Response Times:**
+   GCR has raised issues regarding TSI's adherence to response times, arguing that on multiple occasions, critical support tickets were not addressed within the stipulated one-hour timeframe. For instance, on June 1, 2023, a critical bug affecting payment processing was logged at 2:00 AM, but TSI did not respond until 6:00 AM, causing further revenue loss and customer dissatisfaction. GCR alleges that this pattern of delayed support constituted a material breach of the SLA.
+
+3. **Credit Penalty Implementation:**
+   According to the SLA, TSI was obligated to provide service credits for downtime exceeding the agreed limits. TSI responded to GCR’s complaints by issuing a credit of $5,000 for the July outage; however, GCR contends that this credit is insufficient given the magnitude of the downtime and the associated losses. GCR argues for additional compensation based on the revenue impact caused by the service interruptions.
+
+4. **Communication Practices:**
+   GCR has also criticized TSI's communication strategy during outages, claiming that TSI often failed to provide timely updates regarding issues in progress, leading to escalated anxiety among GCR stakeholders. This lack of proactive communication contrasts with the SLA's stipulation that TSI must inform GCR of significant service outages within 30 minutes.
+
+5. **Renewal and Future Obligations:**
+   With the SLA set to expire in January 2025, GCR is hesitant to renew due to the service issues, despite previously satisfactory performance in earlier years. TSI, on the other hand, contends that recent problems were isolated incidents exacerbated by unexpected circumstances and warranties their commitment to improved service if the contract is renewed.
+
+**Conclusion:**
+Both parties are now engaged in negotiations to settle their disputes, with GCR demanding additional credits and assurances regarding future performance, while TSI seeks to clarify the causes of outages and remedy communication issues. If unresolved, the dispute may escalate to arbitration as outlined in the SLA.

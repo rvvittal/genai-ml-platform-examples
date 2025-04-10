@@ -1,0 +1,35 @@
+Theme: Quality Control
+Case Number: 11
+--------------------------------------------------
+
+**Contract Dispute Scenario: Quality Control in Manufacturing**
+
+**Parties Involved:**
+
+1. **Alpha Manufacturing LLC** - A mid-sized company based in Indiana that specializes in the production of high-precision automotive components.
+2. **Beta Automotive Inc.** - A major automotive manufacturer in Michigan that purchases components from Alpha for assembly in their vehicles.
+
+**Background:**
+
+In January 2023, Alpha Manufacturing LLC entered into a two-year contract with Beta Automotive Inc. for the supply of a specific component known as the Precision Gear Assembly. The contract stipulated that the components must meet rigorous quality control standards, including a failure rate of no more than 0.5% during the testing phase. 
+
+**Key Issues:**
+
+1. **Quality Non-Compliance:**
+   In May 2023, Beta Automotive noticed an unusually high failure rate of 2% during its first round of testing on the batches of Precision Gear Assemblies received from Alpha. This failure included issues such as dimensional inaccuracies and material defects, which directly compromised the safety and performance of their vehicle models.
+
+2. **Inspection and Reporting Procedures:**
+   Alpha maintains that stringent quality control measures were adhered to before shipping. They argue that internal inspections passed all components and that any defects could stem from Beta's manufacturing processes after delivery. The contract specifies that both parties are responsible for quality assurance, yet it lacks clarity on the respective procedures for inspections.
+
+3. **Dispute on Remedial Actions:**
+   Following the identification of defects, Beta Automotive demanded that Alpha replace the faulty components at no cost. Alpha, however, contends that they should only replace the components that failed during Beta's testing, as per the terms of the contract which only provides coverage for defective items reported within 30 days of receipt. Moreover, Alpha insists that Beta must disclose the method of testing to determine the defect and allow their representatives to observe the process.
+
+4. **Impact on Production Schedules:**
+   The disruption caused by the defective gear assemblies has severely impacted Beta’s production schedule, leading to delays of several weeks and potential financial losses. Beta asserts that additional costs incurred due to the halt in production and expedited shipping of replacement parts from a different supplier should be compensated by Alpha.
+
+5. **Potential Breach of Contract:**
+   Beta Automotive is considering filing for breach of contract, claiming that Alpha's components did not meet the agreed-upon specifications. Conversely, Alpha argues that they fulfilled their obligations, and the failure rates presented by Beta could be attributed to factors outside their control.
+
+**Conclusion:**
+
+The dispute between Alpha Manufacturing LLC and Beta Automotive Inc. centers on the quality compliance of the supplied components, inspection protocols, responsibilities regarding defect management, and the financial impact of these issues. Both parties remain at an impasse, negotiating potential solutions through mediation while preparing for possible litigation.

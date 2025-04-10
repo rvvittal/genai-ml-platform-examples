@@ -1,0 +1,27 @@
+Theme: Delivery Delays
+Case Number: 6
+--------------------------------------------------
+
+**Scenario: Contract Dispute over Delivery Delays between GreenTech Supplies and BrightWave Solar**
+
+**Parties Involved:**
+1. **GreenTech Supplies (Plaintiff)** - A supplier of renewable energy equipment based in San Diego, California, specializing in solar panels and accessories. 
+2. **BrightWave Solar (Defendant)** - A solar installation company based in Phoenix, Arizona, that focuses on residential and commercial solar panel installations.
+
+**Background:**
+In January 2023, GreenTech Supplies and BrightWave Solar entered into a contract for the supply of 2,000 solar panels and associated installation equipment valued at $500,000. The agreement stipulated that GreenTech would deliver the panels by March 15, 2023, in order to align with BrightWave’s scheduled installations starting April 1, 2023. The contract included a penalty clause of $10,000 for each week of delay beyond the delivery due date, capping at $50,000.
+
+**Dispute Overview:**
+On March 1, 2023, GreenTech informed BrightWave of delays due to unexpected supply chain disruptions caused by severe weather impacts at its manufacturing plant in Texas. The company communicated that it would not meet the March 15 deadline but promised to deliver all items by March 30, 2023. Despite their assurances, the panels did not arrive until April 15, 2023, four weeks later than the promised revised date.
+
+**Key Issues:**
+1. **Delay Justification**: GreenTech claims that the delivery delay was due to "acts of God" or force majeure, specifically the severe weather, which they argue absolves them of liability under the penalty clause. BrightWave counters that GreenTech failed to take adequate measures to mitigate the impacts of known supply chain vulnerabilities, calling into question the legitimacy of their force majeure claim.
+
+2. **Communication Failures**: BrightWave alleges that GreenTech did not communicate in a timely manner, which impacted their operational planning. They assert that GreenTech’s initial communication regarding the delay came too late to adjust their project schedules, resulting in lost contracts and unhappy clients for BrightWave.
+
+3. **Financial Impact**: The delay caused BrightWave to lose approximately $150,000 in potential revenue due to canceled contracts and fees. BrightWave is pursuing the full penalty of $50,000 as outlined in the contract, arguing that GreenTech should be held accountable for the breach and resulting financial losses.
+
+4. **Contract Interpretation**: The interpretation of the penalty clause is central to the dispute. BrightWave asserts that the clause is enforceable, while GreenTech argues that the force majeure event nullifies the penalties. Both parties are seeking a legal resolution to determine the validity of these claims.
+
+**Current Status:**
+BrightWave has filed a lawsuit for breach of contract, seeking the agreed-upon penalties as well as compensation for lost business opportunities. Mediations have begun, but both parties remain significantly divided on their positions. Each party has expressed a willingness to reach a settlement but only if their financial interests are sufficiently addressed.

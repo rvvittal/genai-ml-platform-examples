@@ -1,0 +1,32 @@
+Theme: License Agreement
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: License Agreement between TechDesign Inc. and InnovateSoft LLC**
+
+**Background:**
+In January 2022, TechDesign Inc., a software development firm specializing in user interface design, entered into a licensing agreement with InnovateSoft LLC, a startup focusing on app development. The agreement granted InnovateSoft the exclusive rights to use TechDesign's proprietary user interface (UI) toolkit, known as "UIPro," which included a library of customizable design elements and coding templates.
+
+**Parties Involved:**
+1. **TechDesign Inc.:** The licensor, an established company with a strong portfolio of design tools.
+2. **InnovateSoft LLC:** The licensee, a new player in the app development space, seeking to differentiate its products in a competitive market.
+
+**Key Issues:**
+
+1. **Scope of Use:**
+   The primary contention arose over the interpretation of the “exclusive rights” granted to InnovateSoft. TechDesign claims that InnovateSoft has exceeded the authorized usage of UIPro by incorporating components into applications designed for unauthorized third-party customers, specifically targeting a competitor in the health and wellness space. InnovateSoft argues that the license permits them to create applications for any client, believing that their agreement encompasses broad usage rights.
+
+2. **Royalty Payments:**
+   The contract stipulated that InnovateSoft would pay a royalty of 10% on all profits derived from apps utilizing UIPro, due quarterly. In July 2023, TechDesign accused InnovateSoft of underreporting profits and failing to pay the full amount. InnovateSoft contends that its profit calculations are accurate, arguing that significant expenses associated with development and marketing have not been appropriately considered as offsets. This has led to claims of a breach of contract regarding payment terms.
+
+3. **Product Updates and Support:**
+   Another area of disagreement concerns the level of support provided by TechDesign. The contract stated that TechDesign would provide updates and maintenance for the toolkit on a semi-annual basis. InnovateSoft alleges that TechDesign has not delivered on these updates for over a year, hindering their ability to utilize UIPro effectively. TechDesign asserts that they were only obligated to provide updates for major releases and that InnovateSoft has been requesting features that go beyond the original specifications.
+
+4. **Termination Clause:**
+   InnovateSoft believes that TechDesign’s failure to provide timely updates constitutes grounds for contract termination. TechDesign, however, insists that InnovateSoft has also violated the agreement by not being transparent about their client projects involving UIPro and that they reserve the right to terminate the agreement due to these breaches as well.
+
+5. **Consequential Damages:**
+   InnovateSoft is claiming that TechDesign's actions have led to significant revenue loss due to delays in launching applications reliant on UIPro. They are seeking damages for these losses, while TechDesign seeks to counter these claims, arguing that any financial impact is the result of InnovateSoft’s own mismanagement and not TechDesign's fault.
+
+**Summary:**
+The dispute between TechDesign Inc. and InnovateSoft LLC revolves around the interpretation of exclusive use rights, royalty reporting and payments, product support obligations, and the legitimacy of termination grounds. Both parties are now considering mediation to resolve the issues and avoid protracted litigation, while each has prepared evidence to support their positions.

@@ -1,0 +1,37 @@
+Theme: Term Extension
+Case Number: 4
+--------------------------------------------------
+
+**Contract Dispute Scenario: Term Extension in Software Development Agreement**
+
+**Background:**
+TechSolutions Inc. (hereafter referred to as "TechSolutions") is a software development company based in San Francisco, California. They entered into a contract with Retail Innovations LLC (hereafter referred to as "Retail Innovations"), a retail technology provider based in Austin, Texas, for the creation of an integrated point-of-sale (POS) system. The contract, dated January 15, 2022, stipulated a project timeline of 12 months, with the final delivery scheduled for January 15, 2023. 
+
+**Parties Involved:**
+1. **TechSolutions Inc.**
+   - Role: Developer of the software system
+   - Key Personnel: James Carter (Project Manager)
+
+2. **Retail Innovations LLC**
+   - Role: Client and end-user of the software system
+   - Key Personnel: Sarah Lee (Chief Technology Officer)
+
+**Dispute Overview:**
+As the project reached its delivery date, TechSolutions submitted the initial version of the POS system for user acceptance testing (UAT) on December 1, 2022. During the testing phase, Retail Innovations identified several critical bugs and functionalities that were either not delivered as specified or were not working as intended. Consequently, instead of the anticipated feedback and approval, Retail Innovations requested a significant list of changes and improvements, which they argued were essential for the system's market readiness.
+
+**Key Issues of Contention:**
+1. **Scope of Work and Change Requests:**
+   - Retail Innovations contends that the requested changes fall under the scope of work defined in the original contract, emphasizing that the issues identified were either omissions or deficiencies that TechSolutions was contractually obligated to address.
+   - In contrast, TechSolutions argues that the changes requested by Retail Innovations are substantial and constitute a change order, thereby warranting a contract revision and potentially additional fees. They maintain that the initial deliverables honored the terms of the contract.
+
+2. **Projected Timeline Overruns:**
+   - TechSolutions is concerned that if the additional functionalities require more time to implement, the project timeline should be extended, which Retail Innovations opposes. Retail Innovations insists that TechSolutions should address the issues within the original project timetable, given that they believe the problems were a result of TechSolutions' shortcomings.
+
+3. **Consequences of Delays:**
+   - Retail Innovations fears that further delays will have financial repercussions, as they planned to launch the new POS system in time for the holiday shopping season of 2023. They assert that a delay in the project would lead to lost business opportunities. 
+   - TechSolutions, however, maintains that the holistic nature of the changes requested means that they cannot guarantee a launch by the originally intended date without risking quality.
+
+**Resolution Attempts:**
+Both parties have attempted to negotiate a resolution through scheduled meetings, but discussions have stalled due to diverging views on the contractual obligations and the definition of a reasonable timeline for implementing the required changes. To avoid litigation, they are currently considering mediation to resolve issues around the extent of the changes required, the timeline for deliveries, and any potential costs associated with these modifications. 
+
+This dispute emphasizes the critical importance of clearly defined scopes in contracts and the necessity of robust change management processes in project-based agreements.

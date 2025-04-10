@@ -1,0 +1,38 @@
+Theme: Training Requirements
+Case Number: 15
+--------------------------------------------------
+
+**Scenario: Contract Dispute over Training Requirements between TechCo and ServicePro**
+
+**Parties Involved:**
+1. **TechCo** - A mid-sized technology firm that specializes in software development.
+2. **ServicePro** - A training consultancy firm contracted to provide professional development and compliance training.
+
+**Background:**
+In January 2023, TechCo entered into a contract with ServicePro for the delivery of mandatory compliance training for its team. This training was essential due to recent changes in industry regulations. The contract specified the training modules, completion deadlines, and payment terms, totaling $100,000 for a comprehensive training program to be delivered over three months.
+
+**Key Details of the Dispute:**
+By the end of April 2023, ServicePro delivered several training modules. However, TechCo raised concerns over the content and the delivery method. Specifically, they argued that:
+
+1. **Inadequate Content Delivery**: 
+   - TechCo claimed that ServicePro's training materials were outdated and did not align with the current industry regulations. They pointed out discrepancies between ServicePro’s outlined training objectives and the actual content provided, fundamentally questioning the effectiveness of the training.
+
+2. **Training Format**: 
+   - The contract stipulated that sessions would be conducted in a hybrid format (in-person and online). However, ServicePro delivered the majority of the content exclusively online, which TechCo argued did not facilitate adequate interaction or hands-on experience for their technical teams.
+
+3. **Failure to Meet Deadlines**: 
+   - TechCo alleged that ServicePro missed crucial delivery deadlines on several key modules, leading to a backlog and jeopardizing TechCo's compliance status. The deadlines were established in the contract and were critical for regulatory adherence, with penalties for delayed completion.
+
+4. **Unmet Pre-Training Requirements**: 
+   - TechCo indicated that ServicePro did not conduct the necessary preliminary assessments before creating the training modules. The absence of a needs analysis meant the training was less relevant to TechCo's specific operational context, rendering parts of the training essentially ineffective.
+
+5. **Payment Disputes**: 
+   - In light of these issues, TechCo refused to pay the final invoice of $40,000 due at the conclusion of the training program, arguing that the incomplete and substandard delivery was a breach of contract. ServicePro contended that the training was completed as per their interpretation of the contract and demanded the outstanding payment.
+
+**Key Issues:**
+1. Did ServicePro meet the agreed-upon training requirements as outlined in the contract?
+2. Was ServicePro's delivery method (online only) compliant with the contractual obligation for a hybrid training format?
+3. How should payment disputes be reconciled given the alleged breach of contract regarding the quality and relevancy of training?
+4. What recourse does TechCo have if ServicePro's training was determined to be inadequate or non-compliant with regulations?
+
+The dispute reached a legal impasse, with both parties indicating a willingness to negotiate but struggling to agree on the parameters of resolution, while the looming compliance and training deadlines further exacerbated the urgency of the situation.

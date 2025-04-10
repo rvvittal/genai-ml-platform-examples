@@ -1,0 +1,32 @@
+Theme: Maintenance Obligations
+Case Number: 3
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Maintenance Obligations**
+
+**Parties Involved:**
+1. **GreenTech Property Management (GTPM)** - A property management company responsible for overseeing a commercial office building located in downtown Denver, Colorado.
+2. **BrightSpark Innovations (BSI)** - A tenant in the building, leasing the 5th floor for their tech startup operations, with a lease agreement in effect for a five-year term beginning January 2022.
+
+**Background:**
+The lease agreement between GTPM and BSI includes specific clauses outlining the maintenance obligations of both parties. According to Section 7 of the lease, GTPM is responsible for maintaining common areas, including the lobby, elevators, and HVAC systems, while BSI is required to maintain their leased space, ensuring that all installations, fixtures, and systems within the premises are in proper working order.
+
+**Key Issues of Dispute:**
+
+1. **HVAC System Malfunctions:**
+   In July 2023, BSI reported that the HVAC system on the 5th floor was malfunctioning, causing uncomfortable temperatures and disruptions to their work environment. BSI has claimed that the HVAC system, which is part of the common areas covered by GTPM's maintenance responsibilities, has not been functioning properly since June 2023. 
+
+2. **Response and Repairs:**
+   While GTPM acknowledged the report, they did not respond to the maintenance request until late July, citing supply chain delays for the necessary parts. BSI insists that GTPM failed to act in a timely manner, violating the maintenance obligations outlined in the lease. BSI argues that this delay has caused financial losses due to decreased employee productivity and potential client dissatisfaction.
+
+3. **Scope of Repairs:**
+   GTPM contends that the maintenance issue falls within BSI’s responsibility as it pertains to the individual HVAC unit serving their floor rather than the common HVAC systems. They argue that the lease agreement specifies that tenants must take care of any issues that are confined to their leased space. BSI disputes this interpretation, stating that the unit’s failure directly impacts the entire HVAC system, which in turn affects the common areas.
+
+4. **Financial Compensation:**
+   With the ongoing HVAC issues contributing to a significant decrease in BSI’s operational efficiency, they have requested financial compensation and a rent reduction for the months affected by the failure. GTPM has rejected these requests, maintaining that there has been no formal decrease in their services and that BSI has not provided documentation of the alleged financial losses.
+
+5. **Termination Clause:**
+   BSI has raised concerns about the potential to terminate the lease, citing GTPM's failure to uphold its maintenance obligations. They are considering this option if the HVAC issue is not resolved within a specified time frame. 
+
+**Conclusion:**
+The primary points of contention in this dispute center around the interpretation of maintenance obligations, timeliness of repairs, and accountability for operational disruptions and financial losses. Both parties are seeking a resolution through negotiation, but if an agreement cannot be reached, they may need to consider mediation or legal action to address the ongoing disagreements.

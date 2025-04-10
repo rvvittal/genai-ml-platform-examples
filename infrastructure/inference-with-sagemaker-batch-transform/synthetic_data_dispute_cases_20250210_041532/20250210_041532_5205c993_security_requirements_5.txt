@@ -1,0 +1,36 @@
+Theme: Security Requirements
+Case Number: 5
+--------------------------------------------------
+
+**Contract Dispute Scenario: Security Requirements**
+
+**Parties Involved:**
+
+1. **TechSecure Solutions, Inc. (TSSI)** - A cybersecurity firm contracted to upgrade the security protocols for the client.
+2. **Global Tech Industries, LLC (GTI)** - A large electronics manufacturing company engaged in sensitive R&D projects.
+
+**Background:**
+
+In January 2023, GTI entered into a contract with TSSI to implement new cybersecurity measures across its facilities. The contract stipulated that TSSI would assess the existing security infrastructure, identify vulnerabilities, and implement appropriate solutions to meet the latest industry standards, specifically the NIST Cybersecurity Framework. The project was set to be completed by June 2023 and included clauses related to penalties for non-compliance and confidentiality.
+
+**Dispute Overview:**
+
+In July 2023, GTI raised concerns regarding TSSI’s compliance with the agreed-upon security requirements. The key issues identified included inadequate documentation of risk assessments, failure to conduct regular security drills, and a significant delay in implementing an approved intrusion detection system (IDS).
+
+**Main Points of Contention:**
+
+1. **Inadequate Documentation:**
+   GTI claims that TSSI did not provide thorough documentation of the security assessments conducted. The contract specified that TSSI would deliver detailed reports, including identified threats and proposed mitigation strategies, which GTI argues were either missing or incomplete. TSSI contends that the documentation provided met the contract requirements but acknowledges that some interim reports had not been formally submitted due to internal delays.
+
+2. **Failure to Conduct Security Drills:**
+   The contract stipulated that TSSI would conduct biannual security drills to train GTI employees on incident response and security best practices. GTI asserts that no such drills occurred by the agreed deadline. TSSI argues that the security environment was still compliant and that the drills were scheduled for implementation after the completion of the IDS installation, emphasizing that logistics caused the delay.
+
+3. **Delay in Implementation of the Intrusion Detection System (IDS):**
+   The contract included a timeline for deploying the IDS, which was supposed to be operational by May 2023. However, TSSI failed to meet this deadline, excusing it by citing issues with equipment supply chains exacerbated by global shortages. GTI claims that TSSI’s failure to meet this critical deadline left their systems vulnerable during a crucial phase of R&D, which directly impacted their operations and led to potential loss of sensitive data.
+
+4. **Penalties for Non-Compliance:**
+   The contract contained a clause that stated penalties would apply if TSSI failed to meet any of the security requirements, including late fees and compensation for incurred damages. GTI asserts that due to the breaches, they are entitled to restitution, while TSSI argues that the force majeure clause due to supply chain issues should negate the penalties.
+
+**Resolution Attempts:**
+
+The parties have attempted mediation but have yet to reach an agreement. GTI is seeking full compliance or compensation to cover the losses incurred from the security gaps, while TSSI is proposing a timeline extension for the IDS implementation and offering a small discount on contract fees as a goodwill gesture. The dispute remains unresolved, and both parties are considering legal action to settle the conflicting interpretations of the contract terms.

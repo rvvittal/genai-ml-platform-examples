@@ -1,0 +1,28 @@
+Theme: Integration Issues
+Case Number: 17
+--------------------------------------------------
+
+**Contract Dispute Scenario: Integration Issues Between Tech Solutions Inc. and FinServe Corp.**
+
+**Parties Involved:**
+- **Tech Solutions Inc.**: A software development company specializing in enterprise resource planning (ERP) systems.
+- **FinServe Corp.**: A financial services provider focused on investment management and financial advisory services.
+
+**Background:**
+In January 2023, Tech Solutions Inc. entered into a contract with FinServe Corp. to develop and integrate a customized ERP system. The project titled “Project Seamless Integration” aimed to enhance FinServe’s operational efficiency by integrating their financial services software with Tech Solutions’ ERP system. The contract was valued at $2 million, with a timeline of 12 months for completion.
+
+**Key Issues in Dispute:**
+1. **Scope of Work Discrepancies**: 
+   After the initial implementation phase in June 2023, FinServe Corp. claimed that Tech Solutions had failed to adhere to the agreed scope of work. FinServe believed the contract included specific modules for real-time data analytics and compliance tracking that were necessary for their operations. However, Tech Solutions argued that the integration of these modules was contingent upon additional requirements being provided by FinServe, which were only delivered after the initial implementation phase started.
+
+2. **Integration Failures**: 
+   By September 2023, FinServe reported significant issues with the integration of their existing financial software with the newly developed ERP system. These issues resulted in data mismatches and processing errors, causing delays in financial reporting and compliance obligations. FinServe contended that the ERP system was delivered in a non-functional state, while Tech Solutions maintained that their system was fully operational and that proper specifications and access were not provided by FinServe prior to the integration phase.
+
+3. **Timeline Delays**: 
+   The project has already exceeded its original timeline, with Tech Solutions attributing delays to FinServe’s inconsistent inputs and decision-making, particularly concerning changes in financial regulation which necessitated last-minute adjustments. FinServe, on the other hand, claimed that Tech Solutions failed to communicate effectively and manage expectations throughout the project, leading to unnecessary hold-ups in providing critical data.
+
+4. **Performance Metrics and Penalties**: 
+   The contract included specific performance metrics tied to payment milestones, which were structured to incentivize timely delivery and functional integrations. With the ongoing issues, FinServe has withheld the final payment of $500,000. Tech Solutions is now seeking full payment for completed work, arguing that they met all contractual obligations up until the identified integration issues arose.
+
+**Next Steps:**
+Both parties are at an impasse. FinServe is considering seeking damages for non-performance, while Tech Solutions believes it may need to pursue legal action to recover the outstanding payments. Mediation has been suggested by both parties as a potential resolution pathway to avoid costly litigation, focusing on clarifying expectations and rectifying the integration issues to meet the original contract terms.

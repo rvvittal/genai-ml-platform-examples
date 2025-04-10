@@ -1,0 +1,26 @@
+Theme: Payment Default
+Case Number: 7
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Default between Albright Construction and Greenfield Landscaping**
+
+**Background:**
+Albright Construction, a mid-sized general contractor, entered into a contractual agreement with Greenfield Landscaping, a specialized landscaping service, for the design and execution of outdoor landscaping at a new residential development in Maplewood Estates. The contract, signed on June 1, 2023, stipulated that Greenfield would complete the landscaping work by August 15, 2023, for a total payment of $250,000, to be made in three installments: 30% upon signing, 50% upon halfway completion, and the final 20% upon project completion.
+
+**Parties Involved:**
+1. **Albright Construction (Plaintiff):** Owner and general contractor responsible for managing various contractors for the development project.
+2. **Greenfield Landscaping (Defendant):** Landscaping service contracted to execute the landscaping design and implementation.
+
+**Key Issues:**
+1. **Payment Defaults:** Albright Construction made the initial payment of $75,000 upon signing and a second payment of $125,000 once Greenfield reached the halfway completion mark on July 15, 2023. However, a dispute arose regarding the final payment of $50,000 due on completion. Albright delayed this payment, claiming that Greenfield had not completed the work to the agreed-upon specifications and standards.
+
+2. **Quality of Work:** Albright raised concerns about several aspects of Greenfield’s work, including improper installation of irrigation systems, a lack of required plant species as per the landscaping design, and delays in finalizing the hardscaping elements (patios and walkways). Albright argued that these deficiencies constituted a substantial breach of contract, justifying withholding the final payment.
+
+3. **Response and Counterclaims:** Greenfield countered, arguing that the project scope had evolved due to changes requested by Albright during the landscaping process, which were verbally approved but not formally documented. Greenfield contended that these changes impacted their ability to complete the project on schedule. Moreover, they asserted that Albright's reluctance to pay the final installment was in bad faith, aiming to leverage the contract terms to renegotiate the project cost downward.
+
+4. **Additional Costs:** Greenfield claimed additional expenses incurred due to delays attributed to Albright, including increased labor costs and hiring subcontractors to meet the new specifications. They sought damages for these costs, arguing they were a direct result of Albright’s failure to adhere to the original contract scope.
+
+5. **Lack of Communication:** Albright alleged that Greenfield failed to communicate effectively about the evolving project scope and did not provide timely updates about the work done. They required better transparency and adherence to project timelines, which they felt warranted withholding the final payment.
+
+**Conclusion:**
+The dispute centers on the allegations of inadequate workmanship, compliance with contract specifications, and the impact of project changes instigated by Albright Construction. With both parties firmly entrenched in their positions, they face the possibility of litigation unless a resolution through mediation can be achieved, focusing on the final payment and subsequent claims for additional damages.

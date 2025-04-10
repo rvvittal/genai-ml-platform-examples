@@ -1,0 +1,30 @@
+Theme: License Agreement
+Case Number: 8
+--------------------------------------------------
+
+**Contract Dispute Scenario: License Agreement**
+
+**Parties Involved:**
+
+1. **TechSolutions Inc.** - A software development company based in Austin, Texas, specializing in enterprise resource planning (ERP) software.
+   
+2. **RetailMax Corp.** - A nationwide retail chain based in Dallas, Texas, looking to streamline its inventory and sales processes through licensed software.
+
+**Background:**
+
+In January 2022, TechSolutions Inc. and RetailMax Corp. entered into a License Agreement for the use of TechSolutions’ ERP software package. The agreement permitted RetailMax to use the software for an initial term of three years, with options for renewal. The license fee was set at $250,000 per year, payable in quarterly installments, with an agreed-upon support and maintenance package included.
+
+**Key Issues:**
+
+1. **Scope of License:**
+   - A primary point of contention arose when RetailMax Corp. expanded its operations into e-commerce, prompting the need for additional features in the software. RetailMax claimed that the original agreement implicitly allowed them to use the software across any new platforms without incurring additional costs. TechSolutions, however, contended that RetailMax required a separate license for any expansion beyond the original retail scope and that using the software in new environments constituted a breach of contract.
+
+2. **Software Performance and Maintenance:**
+   - RetailMax alleges that TechSolutions failed to provide adequate support and maintenance as stipulated in the agreement. They claim that numerous bugs in the software led to lost sales during critical holiday seasons, significantly affecting their revenue. RetailMax argues that the maintenance service was subpar and slow, contradicting the terms outlined in the License Agreement. In contrast, TechSolutions insists that they responded to all support requests within the timeframe specified in the agreement and that the reported issues were minor and did not impact overall functionality.
+
+3. **Renewal Clause Vague Interpretation:**
+   - As the end of the initial term approached in January 2025, RetailMax intended to renew the License Agreement; however, a disagreement emerged over the terms of renewal. RetailMax believed they had a right to renew under the same terms, while TechSolutions sought to revise the fees to reflect market rates, which had increased significantly since the initial agreement. This divergence raised questions about whether the original renewal terms were sufficient or if a renegotiation was warranted.
+
+**Conclusion:**
+
+In July 2025, after several rounds of negotiations failed to resolve these disputes, TechSolutions and RetailMax reached an impasse. RetailMax threatened to terminate the agreement and seek alternative software solutions, while TechSolutions warned of legal action for breach of contract due to RetailMax’s unauthorized usage of the software beyond its intended scope. Both parties are now considering mediation as the next step to navigate these complex issues concerning the License Agreement.

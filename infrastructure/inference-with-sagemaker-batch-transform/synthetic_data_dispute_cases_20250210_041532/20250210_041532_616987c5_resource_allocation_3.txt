@@ -1,0 +1,31 @@
+Theme: Resource Allocation
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Resource Allocation**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - a software development company based in San Francisco, California.
+2. **Project Management Group (PMG)** - a consulting firm based in Austin, Texas.
+
+**Background:**
+In January 2023, TechSolutions Inc. and PMG entered into a contractual agreement for a large-scale software implementation project for a mutual client, GreenEarth Corp. The contract stipulated that TechSolutions would develop a custom software solution while PMG would provide project oversight and resource management.
+
+**Key Issues at Hand:**
+1. **Resource Allocation Discrepancies:**
+   TechSolutions claims that PMG has not allocated sufficient resources, particularly in terms of project managers and specialists, according to the specifications outlined in the contract. Specifically, the agreement stated that PMG would provide a team of three project managers and two subject matter experts (SMEs) at all times during the project phases. However, PMG only deployed one project manager and one SME on a rotating basis, causing delays in the project timeline.
+
+2. **Impact on Timelines:**
+   As a result of inadequate resource allocation, TechSolutions argues that they have faced multiple delays in delivering software components. The original delivery timeline of six months has now extended to eight months, leading to potential financial penalties from the client. PMG contends that TechSolutions has underestimated the project scope and complexity, which has necessitated a reevaluation of resource needs and timelines.
+
+3. **Communication Breakdown:**
+   Communication has become a significant issue between TechSolutions and PMG. TechSolutions alleges that PMG has been unresponsive to urgent queries regarding project status updates and changes to resource allocation. This lack of communication has exacerbated the timeline delays, as decisions are not being made in a timely manner. On the other hand, PMG accuses TechSolutions of not clearly communicating their expectations regarding resource needs, leading to misalignment in project execution.
+
+4. **Financial Implications:**
+   Both parties are facing financial implications due to the delays. TechSolutions is at risk of receiving decreased compensation from GreenEarth Corp. for failing to meet project deadlines, while PMG may face penalties due to non-compliance with contractual obligations to ensure sufficient resources are allocated. Discussions about potential contractual renegotiation or mediation to resolve these issues have not yielded satisfactory outcomes.
+
+5. **Liability and Damages:**
+   TechSolutions has suggested that they are entitled to damages for the losses incurred due to PMG's failure to provide adequate resources. PMG strongly disputes this claim, arguing that TechSolutions must share the responsibility for managing project expectations and deliverables.
+
+**Conclusion:**
+The ongoing conflict centers around insufficient resource allocation by PMG, inadequate communication, and the resulting impact on project timelines and financial outcomes. Both parties are now considering mediation to resolve these disputes and avoid prolonged litigation, which could jeopardize their reputations and future business opportunities.

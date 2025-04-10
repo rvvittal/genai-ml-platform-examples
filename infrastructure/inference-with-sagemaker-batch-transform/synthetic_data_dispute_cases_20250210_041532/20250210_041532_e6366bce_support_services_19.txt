@@ -1,0 +1,32 @@
+Theme: Support Services
+Case Number: 19
+--------------------------------------------------
+
+**Contract Dispute Scenario: Support Services Program**
+
+**Parties Involved:**
+1. **TechSolution Inc.** (Client) - A mid-sized software development company.
+2. **AssistTeam LLC** (Service Provider) - An IT support services firm contracted to provide technical support and training for the client’s internal software suite.
+
+**Background:**
+In January 2023, TechSolution Inc. entered into a one-year service agreement with AssistTeam LLC for comprehensive IT support services, including 24/7 helpdesk support, on-site technical assistance, and employee training sessions. The contract stipulates a monthly retainer fee of $10,000, with additional charges for on-site visits and specialized training beyond the agreed scope.
+
+**Key Issues:**
+
+1. **Quality of Service:**
+   TechSolution has expressed dissatisfaction with the quality of the support provided by AssistTeam. Specifically, the client has noted prolonged response times, which reportedly exceed the promised maximum of four hours for urgent support tickets. In April 2023, out of 50 support requests, 18 were responded to beyond the stipulated timeframe. This has caused project delays and frustration among TechSolution's employees, leading to decreased productivity.
+
+2. **Failure to Provide Training:**
+   The contract outlines that AssistTeam would conduct quarterly training sessions on the software systems, but only one session was completed by June 2023. TechSolution claims this has hindered their employees' ability to utilize the software effectively, further exacerbating their reliance on technical support. AssistTeam contends that the training sessions were postponed due to TechSolution’s unavailability and improper scheduling.
+
+3. **Invoicing Discrepancies:**
+   AssistTeam has invoiced TechSolution for additional training and on-site visits that TechSolution claims were neither requested nor preapproved, leading to extra charges totaling $15,000. TechSolution argues that these additional costs contradict the terms as they believed the standard retainer covered all necessary support unless stated otherwise.
+
+4. **Communication Breakdown:**
+   A significant point of contention has arisen regarding communication practices between the two parties. TechSolution alleges that AssitTeam has been unresponsive to feedback regarding service quality and training schedules, citing a lack of proactive updates and insufficient engagement. AssistTeam counters that they have provided regular reports and that TechSolution did not communicate the issues in a timely manner.
+
+5. **Breach of Contract:**
+   Due to the cumulative issues mentioned, TechSolution has threatened to terminate the contract on grounds of breach, claiming AssistTeam has failed to fulfill critical obligations as laid out in the agreement. They seek compensation for losses incurred and additional training needed to bring their teams up to speed, which they estimate at around $30,000.
+
+**Conclusion:**
+The dispute has escalated, with both parties unable to reach a resolution through informal discussions. TechSolution is considering legal action for breach of contract if the issues are not addressed within the next 30 days, while AssistTeam is preparing to defend its service provision and the additional costs incurred during the support period. Both parties are now seeking mediation to resolve their grievances amicably before proceeding to litigation.

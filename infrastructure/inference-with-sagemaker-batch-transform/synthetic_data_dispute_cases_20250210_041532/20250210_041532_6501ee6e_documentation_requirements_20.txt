@@ -1,0 +1,32 @@
+Theme: Documentation Requirements
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Documentation Requirements**
+
+**Parties Involved:**
+1. **ABC Construction Co.** (Contractor) - A mid-sized construction firm specializing in commercial projects.
+2. **XYZ Development Group** (Client) - A real estate development company overseeing the construction of a new office building.
+
+**Background:**
+In May 2022, ABC Construction Co. entered into a contract with XYZ Development Group for the construction of a new office building valued at $2 million. The contract included a section detailing documentation requirements, including the submission of progress reports, invoices, safety certifications, and compliance documents.
+
+**Key Issues:**
+The dispute arises primarily from disagreements over the interpretation of the documentation requirements outlined in the contract, particularly regarding the timelines and completeness of the submitted documents.
+
+1. **Missing Progress Reports:**
+   The contract stipulated that ABC Construction Co. must submit bi-weekly progress reports detailing work completed, materials used, and any delays encountered. By July 2023, XYZ Development Group noted several instances where these reports were either late or incomplete, with the last four submissions lacking critical information, such as updated project timelines and clarifications on change orders. XYZ asserts that this has hindered their ability to monitor the project effectively.
+
+2. **Inadequate Invoicing:**
+   According to the contract, ABC Construction Co. is required to provide detailed invoices along with supporting documentation for each payment request. XYZ claims that the invoices submitted were often accompanied by insufficient documentation, such as missing receipts for materials and lack of signatures from subcontractors, which raised questions about the legitimacy of the expenses. Without satisfactory documentation, XYZ has withheld payment for the last two invoices, totaling $300,000.
+
+3. **Compliance Certifications:**
+   The contract also mandated submission of safety compliance certifications from on-site personnel. ABC Construction Co. failed to submit the required safety documents, citing delays in acquiring third-party certifications. XYZ claims that this lapse not only violates the contractual obligations but also poses potential safety risks, thus jeopardizing the project's compliance with local safety regulations.
+
+4. **Change Orders:**
+   Disagreements also arose regarding documented change orders. As the project progressed, several changes were proposed and agreed upon. However, XYZ Development Group maintains that ABC Construction Co. failed to formalize these changes through written change orders as required by the contract. As a result, XYZ believes they should not be responsible for additional costs associated with incomplete documentation of the agreed changes.
+
+**Resolution Attempts:**
+In July 2023, both parties held a mediation session to address the documentation discrepancies, but no resolution was reached. XYZ alleges that ABC’s persistent documentation failures are jeopardizing the project timeline and increasing costs. Meanwhile, ABC Construction Co. contends that they have provided sufficient documentation and that any delays in submission were due to unforeseen circumstances.
+
+As the dispute escalates, both parties are considering litigation to seek remedies, with XYZ demanding compliance with the contract and potential damages for delays, while ABC Construction Co. defends its performance and seeks payment for work completed.

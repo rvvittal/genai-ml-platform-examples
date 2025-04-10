@@ -1,0 +1,31 @@
+Theme: Term Extension
+Case Number: 12
+--------------------------------------------------
+
+**Contract Dispute Scenario: Term Extension**
+
+**Parties Involved:**
+1. **GreenTech Innovations, Inc.** (hereafter referred to as "GreenTech"), a renewable energy startup specializing in solar panel technology.
+2. **Eagle Construction Services, LLC** (hereafter referred to as "Eagle Construction"), a construction firm contracted to install solar panel systems across various municipal buildings.
+
+**Background:**
+In January 2021, GreenTech and Eagle Construction entered into a contract for the installation of solar panels in ten municipal buildings in the city of Riverside. The original contract stipulated a project completion deadline of December 31, 2022, with a total project value of $2 million. Both parties agreed to a penalty clause for delays, where 1% of the contract amount would be deducted per week beyond the deadline, up to a maximum of 10%. The project had an initial timeline of 12 months for planning, permitting, and installation.
+
+**Dispute Overview:**
+As of November 2022, Eagle Construction informed GreenTech that unforeseen delays caused by supply chain disruptions in acquiring solar panels and permits from the city made it impossible to meet the December deadline. Eagle Construction requested a term extension of six months, arguing that the pandemic-related delays fell under a force majeure clause that was implicitly recognized in the contract.
+
+**Key Issues:**
+1. **Force Majeure Clause:**
+   - GreenTech contends that while the contract did not explicitly include a force majeure clause, Eagle Construction's repeated assurances throughout 2021 and 2022 of timely project delivery created an implied expectation that timelines would be adhered to, barring extraordinary circumstances explicitly stated in writing.
+   - GreenTech argues that supply chain disruptions were predictable given the industry-wide challenges and Eagle Construction should have foreseen this issue and adjusted their operations accordingly.
+
+2. **Responsibility for Delays:**
+   - Eagle Construction maintains that they made every reasonable effort to expedite the procurement of materials and navigate the permitting process, and therefore should not be penalized for external delays. They argue that the contract should allow for a reasonable extension without penalties.
+   - GreenTech counters that, based on their conversations and progress assessments, Eagle Construction failed to initiate timely procurement and mismanaged the timeline by not adjusting their project plan in light of growing delays.
+
+3. **Financial Implications:**
+   - If Eagle Construction's request for a six-month extension is granted, this would enable them to avoid penalties, costing GreenTech up to $200,000 by way of the 10% penalty clause. GreenTech argues that such a concession would set a dangerous precedent for future projects and undermine contractual integrity.
+   - GreenTech has initiated discussions to potentially renegotiate the terms, proposing a lesser extension of three months with a partial financial penalty to mitigate losses, but Eagle Construction has rejected this proposal, insisting on a full six-month extension.
+
+**Conclusion:**
+The dispute centers on the interpretation of contract terms regarding delays, the validity of a force majeure argument, and the financial repercussions of extending the project timeline. Both parties now face the prospect of litigation or mediation to resolve the escalating conflict, with significant implications for their future business relationships.

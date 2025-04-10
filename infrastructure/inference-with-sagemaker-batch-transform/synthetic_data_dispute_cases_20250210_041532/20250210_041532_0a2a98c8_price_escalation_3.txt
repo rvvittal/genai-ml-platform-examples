@@ -1,0 +1,35 @@
+Theme: Price Escalation
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Price Escalation in Construction Project**
+
+**Parties Involved:**
+
+1. **XYZ Construction Co. (Contractor)** - A mid-sized construction firm based in Ohio specializing in commercial projects.
+   
+2. **ABC Development Corp. (Client)** - A real estate development firm based in Michigan, responsible for a large mixed-use development in downtown Cleveland.
+
+**Background:**
+
+In January 2022, XYZ Construction Co. entered into a fixed-price contract with ABC Development Corp. for the construction of a new 200-unit luxury apartment complex, to be completed in 18 months. The contract price was set at $30 million, with an agreed timeline extending from February 2022 to August 2023.
+
+**Dispute Details:**
+
+As the project progressed, unforeseen circumstances arose, particularly related to the supply chain disruptions stemming from a global pandemic and subsequent geopolitical tensions. Prices for essential materials such as steel, lumber, and concrete surged sharply, resulting in substantial cost increases for XYZ Construction.
+
+In April 2023, after several months of negotiations about material prices and project timelines, XYZ Construction formally requested a contract modification to account for these escalated costs. Their request outlined a proposed increase in the contract price by 15%, citing the specific increase in material costs and labor shortages as key factors.
+
+**Key Issues:**
+
+1. **Price Escalation Clause:** The underlying issue revolves around whether the original contract included a price escalation clause that would allow adjustments due to increased material costs. XYZ Construction argues that a specific clause exists that covers unforeseen material price increases, while ABC Development Corp. contends it is vague and applicable only under particular conditions, namely natural disasters or government regulations.
+
+2. **Documentation and Transparency:** ABC Development Corp. questions the documentation provided by XYZ Construction to justify the proposed 15% increase. They assert that the cost increases were not communicated in a timely manner and that the contractor failed to provide adequate evidence of actual costs incurred, including adequate invoices or vendor quotes. Conversely, XYZ Construction maintains that they communicated pricing changes throughout the project and that the documentation submitted is in line with industry standards.
+
+3. **Impact on Project Timeline:** The dispute is compounded by the fact that delays resulting from supply shortages have pushed the project completion date back by an additional three months, further complicating financial timelines for ABC Development. They fear that granting the price increase could set a precedent for future projects and inflate overall project budgets, leading to potential increases in rental prices for tenants.
+
+4. **Negotiation Failure:** After multiple meetings to address the escalating costs and project delays, both parties have reached a standstill. ABC Development refuses to accept any increase beyond 5%, while XYZ Construction asserts that without the proposed adjustment, they will face financial losses.
+
+**Conclusion:**
+
+The dispute has escalated to the point where both parties are considering legal action, with XYZ Construction contemplating a lawsuit based on the alleged breach of contract for failing to address material cost increases, while ABC Development is seeking to enforce the original contract terms. Mediation is being suggested as a potential avenue to reach an amicable resolution before further legal proceedings.

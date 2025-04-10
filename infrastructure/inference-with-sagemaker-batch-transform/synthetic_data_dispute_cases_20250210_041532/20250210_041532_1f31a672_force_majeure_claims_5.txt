@@ -1,0 +1,29 @@
+Theme: Force Majeure Claims
+Case Number: 5
+--------------------------------------------------
+
+### Scenario: Force Majeure Dispute Between A Tech Company and a Supplier
+
+**Parties Involved:**
+1. **Tech Innovations Inc.** (TII): A mid-sized tech company specializing in the development of consumer electronics, headquartered in San Francisco, California.
+2. **Global Parts Supply Co.** (GPS): A parts supplier based in Shenzhen, China, providing critical electronic components to TII.
+
+**Background:**
+In March 2022, TII entered into a contract with GPS for the supply of semiconductors required for its new line of smart home devices. The contract, valued at $2 million, stipulated that GPS would deliver the components within specific timelines, with penalties for delays. Both parties included a Force Majeure clause protecting them against extraordinary events beyond their control, such as natural disasters, wars, and pandemics.
+
+**Dispute Overview:**
+In December 2022, GPS notified TII that it would not be able to fulfill a substantial order due in January 2023 due to severe disruptions caused by ongoing COVID-19 restrictions and factory shutdowns in China. GPS claimed these circumstances constituted a Force Majeure event, justifying their inability to perform under the contract.
+
+TII responded with skepticism, arguing that GPS had a history of supplying parts under similar circumstances in the past without issue and that the pandemic-related disruptions had been foreseeable. TII accused GPS of using the Force Majeure clause as a pretext to avoid fulfilling their contractual obligations.
+
+**Key Issues:**
+1. **Definition of Force Majeure:** The key point of contention lies in whether the current COVID-19 situation constitutes a legitimate Force Majeure event under the contract's definition. TII argues that GPS should have prepared better for ongoing global supply chain issues and that they have not exhausted all available means to fulfill the order.
+
+2. **Communication and Notification:** TII claims that GPS did not provide timely and appropriate notice of the Force Majeure claim as outlined in their contract. TII asserts that GPS communicated the issue only weeks before the deadline, preventing TII from sourcing alternative suppliers.
+
+3. **Mitigation Efforts:** TII challenges GPS's efforts to mitigate the impact of the Force Majeure event. They argue that GPS had options to shift production to other facilities not affected by COVID-19 restrictions but failed to do so, thus exacerbating their supply issues.
+
+4. **Consequences of Non-Delivery:** TII emphasizes the financial damages incurred from GPS's failure to deliver the components on time, including lost sales opportunities and damage to TII’s reputation. TII is seeking compensation for these losses, arguing that GPS should bear the financial responsibility for failing to fulfill the contract.
+
+**Conclusion:**
+This dispute has escalated to potential legal arbitration, with both parties preparing to present their arguments. TII is determined to recover damages while GPS insists that the ongoing global crisis absolves them of liability under the Force Majeure claim. The case emphasizes the fine line in interpreting Force Majeure clauses and the importance of communication and preparedness in contract fulfillment.

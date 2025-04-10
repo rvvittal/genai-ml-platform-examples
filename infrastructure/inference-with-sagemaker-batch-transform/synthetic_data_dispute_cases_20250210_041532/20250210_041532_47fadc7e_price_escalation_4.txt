@@ -1,0 +1,33 @@
+Theme: Price Escalation
+Case Number: 4
+--------------------------------------------------
+
+**Contract Dispute Scenario: Price Escalation in Construction Contract**
+
+**Parties Involved:**
+- **Titan Construction, Inc.** (Contractor)
+- **Greenfield Development Corp.** (Client)
+
+**Background:**
+In January 2022, Titan Construction, Inc. entered into a contract with Greenfield Development Corp. to construct a state-of-the-art commercial office building in downtown Baltimore. The total value of the contract was $5 million with a completion deadline set for December 2022. The contract included a clause on price escalation due to rising material costs, specifically mentioning price adjustments for steel and concrete.
+
+**Key Issues:**
+1. **Material Cost Increases:**
+   - Initially, the contract specified that Titan would use steel priced at $800 per ton and concrete at $100 per cubic yard. However, global supply chain disruptions in 2022 led to a sudden increase in raw material prices.
+   - By June 2022, the price of steel rose to $1,200 per ton, and concrete increased to $150 per cubic yard, resulting in an additional cost burden on Titan Construction.
+
+2. **Notice Requirement:**
+   - The contract stipulated that Titan must submit a formal notice for price escalation claims within 30 days of realizing cost increases. Titan asserts that it provided timely notice; however, Greenfield contends that the notice was submitted late and therefore invalid.
+
+3. **Scope of Price Adjustment:**
+   - Titan seeks to pass on the increased costs to Greenfield, citing the price escalation clause. The contractor claims an additional $300,000 is required to complete the project, which includes cost discrepancies for materials procured after the notice period.
+   - Greenfield Development argues that the escalation clause only accounts for a 10% increase in material costs and that Titan has exceeded this limit.
+
+4. **Performance Delays:**
+   - Due to the rising costs and delays in material procurement, Titan has also been unable to meet the original project timeline. Greenfield holds Titan responsible for the delay and claims that the additional costs incurred during this period should not be passed onto them. Titan, however, argues that the delays were directly caused by the escalation of material prices.
+
+5. **Contractual Ambiguities:**
+   - Both parties reference conflicting interpretations of the escalation clause. Greenfield insists that the clause is capped at a specified increase, while Titan argues that the contract allows for adjustments according to prevailing market conditions without a cap.
+
+**Conclusion:**
+As of November 2022, the dispute remains unresolved. Titan Construction has ceased work on-site, holding out for a resolution regarding the financial adjustments and timelines. Greenfield Development has threatened to terminate the contract, citing delays and the failure to control costs. Both parties are now considering mediation to reach an amicable agreement, though litigation looms if a settlement cannot be reached. Key points of contention revolve around the validity of Titan's notice, the interpretation of the price escalation clause, and responsibilities regarding delays in project completion.

@@ -1,0 +1,34 @@
+Theme: Price Escalation
+Case Number: 19
+--------------------------------------------------
+
+**Scenario: Price Escalation Dispute in Construction Contract**
+
+**Parties Involved:**
+1. **Alpha Construction Inc.** (Contractor)
+2. **Omega Developments LLC** (Client)
+
+**Background:**
+In March 2022, Omega Developments LLC engaged Alpha Construction Inc. to build a commercial office complex in downtown Metropolis. The total contract value was $5 million, with an agreed completion date of December 2023. The contract included a price escalation clause intended to mitigate risk for both parties due to material cost fluctuations.
+
+**Key Details:**
+The price escalation clause specified that if the cost of materials increased by more than 10% from the time of contract signing, Alpha Construction had the right to request an adjustment in the contract price. This clause also required Alpha Construction to provide documented proof of the increased costs, which Omega Developments would review and accept or contest.
+
+**Dispute Overview:**
+In April 2023, Alpha Construction notified Omega Developments that the cost of steel and concrete—crucial materials for the project—had risen dramatically due to global supply chain issues and inflation. They provided documentation showing a 15% increase over the contracted prices. As a result, Alpha requested a price adjustment of $750,000, bringing the total contract value to $5.75 million.
+
+**Points of Contention:**
+1. **Material Cost Documentation:**
+   Omega Developments contested the documentation provided by Alpha Construction, arguing that the contractor did not sufficiently detail the origin of the price increases. They claimed that the supplied invoices and purchase orders could not be correctly aligned with the contract terms, making it difficult to verify the legitimacy of the increased costs.
+
+2. **Timeliness of Request:**
+Omega argued that Alpha Construction delayed in submitting the request for a price adjustment. They posited that the contractor should have anticipated rising costs earlier and taken preventive measures, such as negotiating fixed prices with suppliers. Omega insisted that it was unfair to burden them with unexpected costs due to Alpha's poor project management.
+
+3. **Scope of Price Escalation Clause:**
+The two parties disagreed on the interpretation of the escalation clause. Omega Developments argued that the clause was meant primarily for situations of acute economic distress rather than general inflation. They contended that the contractor's request was excessive given the overall market conditions and prior project budgets.
+
+**Current Situation:**
+As of October 2023, Alpha Construction has halted work, refusing to proceed without the cost adjustment. Meanwhile, Omega Developments is exploring legal options to either enforce the original contract price or seek damages for delay. The dispute has led to strained relationships between both parties, increased project costs, and concerns about compliance with the agreed completion timeline.
+
+**Potential Resolution:**
+Mediation has been proposed to resolve the disagreement over documentation and the applicability of the price escalation clause. Both parties hope to avoid litigation, which could lead to further delays and financial strain.

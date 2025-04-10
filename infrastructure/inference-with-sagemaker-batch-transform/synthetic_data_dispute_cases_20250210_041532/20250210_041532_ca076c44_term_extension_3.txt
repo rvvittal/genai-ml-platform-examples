@@ -1,0 +1,34 @@
+Theme: Term Extension
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Term Extension**
+
+**Parties Involved:**
+1. **ABC Construction Company (ABC)** – A regional construction firm contracted to build a commercial office complex.
+2. **XYZ Development Group (XYZ)** – The property developer hiring ABC to complete the construction project.
+
+**Background:**
+ABC and XYZ entered into a contract on January 5, 2022, for the design and construction of a 10-story office building in downtown. The original contract stipulated a completion date of December 31, 2022, with significant financial penalties for delays. As the project progressed, unforeseen site conditions, including undiscovered underground contamination and supply chain issues exacerbated by the global pandemic, were identified, causing delays.
+
+**Key Issues:**
+
+1. **Request for Term Extension:** 
+   On October 15, 2022, ABC submitted a formal request to XYZ for a 90-day extension due to the aforementioned challenges. ABC cited a detailed report of site assessments and logs of supply chain disruptions as evidence to support the extension request.
+
+2. **XYZ’s Rejection of the Request:** 
+   XYZ rejected the extension on November 1, 2022, arguing that the delays were not substantial enough to warrant an extension. They maintained that ABC had been slow to respond to issues and should have implemented contingency plans to mitigate the delays.
+
+3. **Lack of Clear Communication:**
+   ABC claims that XYZ failed to communicate effectively regarding the timeline expectations and did not provide timely feedback on submitted change orders that would have alleviated some delays. XYZ, on the other hand, asserts that ABC was inconsistent in reporting progress and did not provide weekly updates outlined in the contract.
+
+4. **Allegations of Poor Project Management:** 
+   In response to the extension request, XYZ accused ABC of poor project management, stating that the delays were primarily due to internal mismanagement rather than external factors. XYZ pointed to multiple instances where work was halted or slowed due to unqualified subcontractors hired by ABC.
+
+5. **Financial Implications:**
+   With the original completion date slipping further, XYZ is now facing significant financial losses due to pre-sold spaces that cannot be occupied. The penalties imposed by the contract for delays are also increasing, further complicating the financial calculus. ABC argues that they should not face these penalties if the delays are acknowledged as caused by unavoidable circumstances.
+
+6. **Contractual Clauses in Question:**
+   The primary contention centers around the contract’s force majeure clause, arguing whether the underground conditions and supply chain issues fall under this provision, thereby qualifying for an extension of the contract term without penalties. XYZ's legal team contends that ABC should have anticipated such risks.
+
+Through mediation, both parties are now grappling with whether to amend the contract terms, negotiate a compromise on penalties, or potentially escalate the matter to arbitration. Each party’s interpretation of the contract and the implications of unforeseen site conditions forms the crux of the dispute.

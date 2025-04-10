@@ -1,0 +1,32 @@
+Theme: Dispute Resolution Process
+Case Number: 4
+--------------------------------------------------
+
+**Scenario: Contract Dispute between GreenTech Innovations and EcoBuild Contractors**
+
+**Parties Involved:**
+1. **GreenTech Innovations (GTI)** - A technology firm specializing in renewable energy solutions, based in San Francisco, California.
+2. **EcoBuild Contractors (EBC)** - A construction company based in Los Angeles, specializing in environmentally friendly building materials and practices.
+
+**Background:**
+In January 2023, GTI and EBC entered into a contractual agreement for the construction of a state-of-the-art solar panel manufacturing facility in San Diego. The contract, valued at $5 million, included detailed specifications, timelines, and performance requirements. The contract stipulated that project completion was to occur within six months, with progressive payments contingent upon reaching specific milestones.
+
+**Key Issues:**
+
+1. **Delay in Completion:**
+   By July 2023, the project was only 70% complete, significantly behind schedule. EBC cited unforeseen delays due to supply chain issues exacerbated by a shipping strike, which they alleged was an external factor beyond their control. However, GTI contends that EBC did not handle the situation appropriately, failing to provide timely communication regarding the delay and not taking proactive measures to mitigate the impact on the project timeline.
+
+2. **Quality of Work:**
+   GTI has raised concerns about the poor quality of work in certain areas of the construction, particularly regarding the energy-efficient windows and insulation installation. GTI claims that these shortcomings do not meet industry standards as outlined in the contract specifications. EBC counters that the materials provided by GTI were subpar, contributing to the installation issues and that they had raised these concerns in previous meetings.
+
+3. **Payment Disputes:**
+   As a result of the delays and quality issues, GTI has withheld the completion payment of $1 million that was due upon reaching the final milestone. EBC argues that withholding payments violates the contract terms, as they maintain that they have met the agreed-upon criteria for the phases completed and that GTI’s claims of deficiencies are subjective or exaggerated.
+
+4. **Dispute Resolution Process:**
+   The contract included a dispute resolution clause requiring mediation before pursuing any arbitration or litigation. GTI claims that they attempted to initiate mediation in September 2023 but allege that EBC has been unresponsive, hindering the process. EBC asserts that they were never officially notified of the mediation request and has demanded that all issues be discussed in a face-to-face meeting before any mediation occurs.
+
+5. **Future Business Relationship:**
+   The ongoing dispute threatens to sour the long-term relationship between GTI and EBC, as both companies had anticipated future collaborative projects in sustainable construction and technology. The reputational risk involved in this dispute is significant, as both companies are well-respected in their sectors and have publicly committed to environmentally responsible practices.
+
+**Conclusion:**
+The dispute between GreenTech Innovations and EcoBuild Contractors revolves around delays, quality disputes, and payment withholding. Both parties are currently at an impasse, with escalating tensions on how to proceed with the mandated dispute resolution process outlined in their contract.

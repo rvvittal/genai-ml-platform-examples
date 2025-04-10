@@ -1,0 +1,33 @@
+Theme: Renewal Terms
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Renewal Terms**
+
+**Parties Involved:**  
+1. **Tech Innovations Inc.** (the "Client") - a midsize technology firm specializing in software development.  
+2. **ServTech Solutions LLC** (the "Provider") - a software service provider responsible for delivering cloud-based infrastructure services to the Client.
+
+**Background:**  
+In January 2020, Tech Innovations Inc. entered a two-year service agreement with ServTech Solutions LLC for software hosting and technical support. The contract included specific renewal terms allowing for automatic renewal unless either party provided written notice of intent not to renew at least 90 days prior to the contract's expiration. The agreement specified that the renewal rate would increase by 5% annually, adjusted for inflation if applicable.
+
+As the contract's end approached in December 2021, Tech Innovations Inc. experienced internal restructuring, which led to uncertainty about their ongoing technology needs. In early November 2021, the Client's management decided to seek alternative solutions and thus did not send the required written notice to ServTech Solutions for non-renewal.
+
+**Dispute Details:**  
+On December 1, 2021, the Client inadvertently received a renewal invoice from the Provider, which included the new terms no longer reflecting the original pricing structure due to the added annual increase. Tech Innovations, already in discussions with other service providers, promptly raised concerns regarding the invoice.
+
+**Key Issues:**  
+1. **Automatic Renewal Notification:**  
+   The Client argues that due to the internal restructuring, they were unable to provide the 90-day notice required to prevent the automatic renewal. They assert that the Provider did not sufficiently communicate the significance of the renewal terms and deadlines.
+
+2. **Disputed Rate Increase:**  
+Tech Innovations challenges the 5% price increase in the renewal invoice, contending that the inflation clause was not justifiable given the current economic climate. They argue that the Provider's costs have not reflected this increase due to changes in service availability and market competition.
+
+3. **Quality of Services Rendered:**  
+The client raises concerns about the level of service they received during the initial contract term. They claim there were several instances of inadequate technical support leading to downtime, which they argue should be factored into the discussions about the renewal and pricing.
+
+4. **Good Faith Negotiation:**  
+Tech Innovations feels that ServTech Solutions has not acted in good faith by issuing a renewal invoice even after the Client expressed their desire to consider alternative options. The Client demands discussions for a potential renegotiation or waiver of the renewal terms based on historical service quality and their efforts to seek alternative vendors.
+
+**Resolution Efforts:**  
+As both parties engage in discussions, Tech Innovations seeks to terminate the agreement at no additional cost, whereas ServTech Solutions insists on enforcing the renewal terms due to the lack of formal notice. Mediation has been proposed to resolve these conflicting positions, focusing on equitable solutions that address both the renewal terms and the concerns about service quality.

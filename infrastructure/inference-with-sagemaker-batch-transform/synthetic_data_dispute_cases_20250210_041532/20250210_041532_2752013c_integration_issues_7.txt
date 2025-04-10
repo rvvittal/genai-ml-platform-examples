@@ -1,0 +1,34 @@
+Theme: Integration Issues
+Case Number: 7
+--------------------------------------------------
+
+**Contract Dispute Scenario: Integration Issues Between Tech Corp and FinServ Solutions**
+
+**Background:**
+Tech Corp, a leading software development company, entered into a contract with FinServ Solutions, a financial services firm, to integrate a new mobile payment system into FinServ's existing platforms. The contract, valued at $1 million, was signed in January 2023, with a projected completion date of June 2023.
+
+**Parties Involved:**
+1. **Tech Corp**, represented by its Project Manager, Laura Channing.
+2. **FinServ Solutions**, represented by its Chief Technology Officer, Mark Needham.
+
+**Key Issues:**
+The contract stipulated that Tech Corp would deliver a fully functional mobile payment system that seamlessly integrates with FinServ’s legacy systems known as "FinTech 2.0." This integration was critical to the successful deployment of the payment system and was expected to improve transaction speeds and user experience for FinServ’s customers.
+
+However, by April 2023, several critical issues arose that led to a significant dispute:
+
+1. **Integration Compatibility:**
+   - Tech Corp claimed that FinServ’s existing systems were not updated according to the specifications outlined in the Scope of Work (SoW) portion of their contract. Specifically, they argued that the legacy systems used proprietary code that limited the integration capabilities.
+   - Conversely, FinServ contended that Tech Corp had not adequately researched their systems prior to the contract signing and thus failed to account for the necessary adjustments in their proposal. They argued that this oversight was Tech Corp's responsibility, according to the terms of the agreement.
+
+2. **Delayed Timelines:**
+   - Tech Corp notified FinServ in late March that the project would be delayed beyond the June deadline due to unforeseen technical challenges, causing a ripple effect on FinServ’s planned launch of its mobile payment services.
+   - FinServ insisted that Tech Corp had committed to dedicated resources and a project timeline that negated such delays. They argued that these changes breached the contract, and demanded compensation for lost business opportunities stemming from the launch delay.
+
+3. **Change Orders and Scope Creep:**
+   - Tech Corp proposed several change orders to address the integration issues, which included additional development and testing phases. However, FinServ argued that these change orders were being presented too late in the process and were not pre-approved, leading to increased costs and pushing the budget over the originally agreed-upon amount.
+   - FinServ was particularly frustrated by the fact that Tech Corp did not consult with them before initiating these changes, which they viewed as a unilateral decision that further complicated the integration process.
+
+**Resolution Efforts:**
+Both parties have attempted mediation to resolve these issues without litigation, though progress has stalled as they struggle to agree on the terms of the integration and the financial implications of the delays and scope changes. FinServ has retained legal counsel to prepare for potential litigation, while Tech Corp is considering their own options, including a counterclaim for breach of contract based on implementation specs. 
+
+The contract dispute currently looms over both companies, leaving their respective projects in jeopardy and relationships strained. Further discussions are necessary to avoid escalation into costly legal battles.

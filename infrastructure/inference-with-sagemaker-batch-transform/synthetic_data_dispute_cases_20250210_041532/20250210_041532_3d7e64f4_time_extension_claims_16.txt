@@ -1,0 +1,37 @@
+Theme: Time Extension Claims
+Case Number: 16
+--------------------------------------------------
+
+**Contract Dispute Scenario: Time Extension Claims**
+
+**Parties Involved:**
+1. **ABC Construction, Inc. (Contractor)**: A mid-sized construction firm based in Houston, Texas, specializing in commercial building projects.
+2. **XYZ Development Group (Owner)**: A real estate development firm based in Dallas, Texas, responsible for a major mixed-use development project called “Riverwalk Towers.”
+
+**Project Overview:**
+The Riverwalk Towers project is a complex that includes residential apartments, retail spaces, and a parking garage. The project was awarded to ABC Construction through a bid process, with a stipulated completion date of December 31, 2023. The total contract value is $10 million, with provisions for liquidated damages of $5,000 per day for delays beyond the deadline.
+
+**Dispute Background:**
+As the project progressed, ABC Construction encountered significant delays due to several factors. Primarily, they attributed the delays to unforeseen site conditions related to underground utilities that were not fully disclosed in the contract documentation. Additionally, adverse weather conditions resulting from an unusually severe storm in early August 2023 further impacted construction schedules by causing temporary site shutdowns and damage to initial work.
+
+In September 2023, ABC Construction submitted a formal request for a time extension of 45 days, citing both the unforeseen site conditions and the weather as key reasons for the delays. They provided supporting documentation, including photographs, weather reports, and correspondence with subcontractors.
+
+**Key Issues:**
+1. **Basis for Time Extension**: 
+   - ABC Construction argues that the undisclosed site conditions qualify as a valid reason for a time extension under the contract’s force majeure clause and industry standards.
+   - XYZ Development Group contends that the contractor should have anticipated these issues based on the project’s geographical context and should have factored them into their bid.
+
+2. **Documentation and Communication**: 
+   - ABC Construction insists that all appropriate documentation was submitted in a timely manner and that they maintained open lines of communication regarding the challenges faced.
+   - XYZ counters that the contractor failed to notify them of the issues promptly, thereby not adhering to the contract’s requirement for immediate notification of delays.
+
+3. **Calculation of Delay**: 
+   - There is a dispute over the actual amount of delay caused by the various issues presented. ABC Construction requests a total of 45 additional days; however, XYZ claims that only 20 days of delay were attributable to valid causes.
+   - The parties disagree on the interpretation of the contract clauses relating to concurrent delays, as XYZ Development Group believes the contractor's scheduling failures contributed to the overall delay.
+
+4. **Liquidated Damages**: 
+   - With the current completion timeline projecting an additional 30 days beyond the original contract date due to the disagreement on the time extension, XYZ Development Group is preparing to enforce liquidated damages, which could amount to $150,000.
+   - Conversely, ABC Construction argues that if their claim for a 45-day extension is justified, exposing them to liquidated damages would be unfair and punitive.
+
+**Next Steps:**
+The dispute remains unresolved, and the parties are currently considering mediation to negotiate a potential solution. The threat of litigation looms if consensus cannot be reached, particularly concerning the financial implications of the disputed delays.

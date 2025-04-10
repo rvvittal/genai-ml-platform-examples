@@ -1,0 +1,33 @@
+Theme: Exit Clauses
+Case Number: 18
+--------------------------------------------------
+
+### Contract Dispute Scenario: Exit Clauses in a Software Development Agreement
+
+**Parties Involved**:  
+1. **Tech Innovations Inc.** (hereafter referred to as "Tech Innovations") - a software development firm based in Austin, Texas.  
+2. **Global Retail Corp.** (hereafter referred to as "Global Retail") - a multinational retail company headquartered in New York City.  
+
+**Background**:  
+In January 2022, Tech Innovations and Global Retail entered into a comprehensive software development agreement to create a custom inventory management system, with an estimated project timeline of 12 months and a total contract value of $600,000. The agreement included specific performance benchmarks, payment schedules, and crucially, an exit clause allowing either party to terminate the contract under defined conditions.
+
+**Exit Clause Details**:  
+The exit clause specified that either party could terminate the contract by providing 30 days' written notice if the other party failed to meet performance milestones set forth in the agreement. Furthermore, it delineated that if Global Retail terminated the contract without cause, Tech Innovations would be entitled to payment for work completed up to the termination date, as well as a termination fee of 10% of the remaining balance.
+
+**Dispute Overview**:  
+After 8 months of development, the project fell behind schedule due to various reasons, including ambiguous requirements and frequent changes introduced by Global Retail. In September 2022, Tech Innovations reported that it was facing difficulties in meeting the third milestone due in October. Global Retail expressed frustration over the delays and attributed them primarily to Tech Innovations’ lack of adherence to the timeline.
+
+In October, amidst continued dissatisfaction over progress, Global Retail issued a termination notice asserting that Tech Innovations had violated the performance milestones laid out in the contract. Global Retail cited the exit clause as justification for their decision. However, Tech Innovations contended that the delays were primarily caused by Global Retail’s changes to the project scope and inadequate feedback on deliverables.
+
+**Key Issues**:
+
+1. **Performance Milestones**: Was Tech Innovations truly in breach of the performance milestones? Tech Innovations argues the change requests and lack of timely feedback from Global Retail hindered their ability to meet the agreed-upon timelines.
+
+2. **Notice of Termination**: Did Global Retail follow the proper procedure in executing the exit clause? Tech Innovations claims that the termination notice was sent without fulfilling the stipulation of providing a 30-day notice after a conference to discuss the performance issues.
+
+3. **Termination Fees**: Should Global Retail be required to pay the termination fee stipulated in the contract? Tech Innovations maintains that they are entitled to the fee because the termination was executed without proper cause, given that they were actively working to resolve the project delays at the time.
+
+4. **Future Liabilities**: What are the potential future liabilities arising from the termination? Tech Innovations is concerned about the impact on their reputation and whether they might face additional claims for damages due to the abrupt termination.
+
+**Resolution Possibilities**:  
+Both parties could seek mediation to clarify the definitions of “performance milestones” and assess each party’s responsibilities before arriving at a resolution. Alternatively, if no agreement can be reached, litigation could ensue, further complicating each party's financial and reputational standing in the industry.

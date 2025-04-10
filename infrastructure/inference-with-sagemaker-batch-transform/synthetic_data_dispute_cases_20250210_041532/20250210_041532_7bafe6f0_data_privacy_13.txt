@@ -1,0 +1,35 @@
+Theme: Data Privacy
+Case Number: 13
+--------------------------------------------------
+
+**Contract Dispute Scenario: Data Privacy Between TechCorp and DataSecure**
+
+**Background:**
+
+TechCorp, a mid-sized software development company specializing in customer relationship management (CRM) solutions, entered into a contract with DataSecure, a third-party data hosting and protection service, in January 2022. The contract stipulated that DataSecure would store and manage TechCorp’s customer data, ensuring compliance with the General Data Protection Regulation (GDPR) and other relevant data privacy laws. 
+
+**Parties Involved:**
+
+- **TechCorp:** A technology company that collects personal data from its clients for CRM purposes.
+- **DataSecure:** A data hosting service provider responsible for protecting and managing TechCorp's sensitive customer information.
+
+**Key Issues:**
+
+1. **Data Breach Notification:**
+   In May 2023, TechCorp faced a significant data breach where sensitive customer information, including names, email addresses, and payment details, were exposed. DataSecure notified TechCorp eight days post-breach, contrary to the contract clause requiring immediate notification within 72 hours of becoming aware of a breach. TechCorp claims that this delay hindered their ability to mitigate damage and comply with regulatory obligations.
+
+2. **Lack of Security Measures:**
+   TechCorp alleges that DataSecure failed to implement adequate security measures as outlined in their agreement. The contract specified that DataSecure would use industry-standard encryption protocols and regular vulnerability assessments. However, TechCorp claims that data was stored in an unencrypted format, making it more susceptible to unauthorized access. This breach of contract raises doubts about DataSecure's ability to fulfill its obligations.
+
+3. **Third-Party Access:**
+   Post-breach investigations revealed that DataSecure had subcontracted some data management functions to a lesser-known vendor without informing TechCorp. In the contract, it was explicitly stated that all subcontractors must be disclosed and approved in advance by TechCorp. The unauthorized access to TechCorp's customer data through this third vendor has raised concerns regarding overall data integrity and security.
+
+4. **Regulatory Penalties:**
+   Following the breach, TechCorp faced heavy scrutiny from regulatory bodies, resulting in fines amounting to €500,000. TechCorp holds DataSecure liable for these financial implications, arguing that had they adhered to their contractual responsibilities, the breach could have been prevented, thus avoiding the penalties.
+
+5. **Scope of Liability:**
+   The contract contains a liability clause that limits DataSecure’s responsibility to direct damages, excluding any consequential losses or fines incurred by TechCorp due to breaches of data protection laws. TechCorp is contesting this clause, arguing that it is unreasonable and disproportionately favors DataSecure, given the sensitive nature of the data being handled.
+
+**Conclusion:**
+
+The dispute has led to TechCorp seeking legal redress from DataSecure for damages incurred as a result of the breach. The key points of contention revolve around DataSecure’s breach notification timeline, failure to uphold security protocols, unauthorized subcontracting, and the restrictive liability terms in the contract. Both parties are currently engaged in negotiations, but with tensions rising, the likelihood of a legal battle looms.

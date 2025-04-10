@@ -1,0 +1,31 @@
+Theme: Documentation Requirements
+Case Number: 10
+--------------------------------------------------
+
+**Scenario: Contract Dispute Between Apex Engineering and BuildRight Construction**
+
+**Background:**
+Apex Engineering, a civil engineering firm, entered into a contract with BuildRight Construction, a general contracting firm, for the development of a new office building in downtown Metropolis. The contract, valued at $2 million, included various stipulated timelines, project milestones, and documentation requirements. 
+
+**Parties Involved:**
+1. **Apex Engineering** (Client) - Responsible for project design and oversight.
+2. **BuildRight Construction** (Contractor) - Responsible for the execution of construction work.
+
+**Details of the Dispute:**
+The dispute arose when BuildRight Construction submitted an invoice for a series of completed project milestones, amounting to $1 million. Apex Engineering refused to process the payment, citing insufficient documentation provided by BuildRight, as mandated by their executed contract.
+
+**Key Issues:**
+1. **Inadequate Progress Reports:**
+   Apex Engineering contended that BuildRight had failed to provide the required weekly progress reports. The contract specified that progress reports must be submitted every Friday addressing completed tasks, anticipated challenges, and updated project timelines. BuildRight, however, argued that they provided verbal updates during weekly meetings and were not aware that written reports were mandatory.
+
+2. **Missing Compliance Certificates:**
+The contract outlined the requirement for various compliance certificates, including safety inspections and environmental regulations, as key prerequisites for invoice approval. Apex noted that BuildRight did not submit the necessary compliance certificates for critical phases of construction, hindering their ability to verify that work had been completed to standards. BuildRight responded that they had assumed the certificates would be submitted later in the project phase and that their construction was compliant.
+
+3. **Contract Interpretation:**
+Apex claimed that the documentation requirements were expressly detailed in Schedule B of the contract, while BuildRight contended that the language was ambiguous and did not clearly stipulate the penalties for non-compliance. This led to each party interpreting the contract differently, raising questions about the intent behind the documentation requirements.
+
+4. **Delay in Payment:**
+As a result of the documentation dispute, BuildRight argued that Apex’s refusal to process the payment constituted a breach of contract, leading to operational cash flow issues. They claimed that their inability to receive timely payments jeopardized their ability to continue work on the project and fulfill other commitments.
+
+**Conclusion:**
+As discussions stalled, both parties recognized the potential for litigation, the financial and reputational risks involved, and the need for a resolution. A mediation session was proposed to clarify the documentation requirements and establish a pathway for compliance that could allow BuildRight to receive payment while also satisfying Apex’s contractual obligations. However, lingering questions about the clarity of the contract and the responsibilities of each party remained contentious points needing resolution.

@@ -1,0 +1,33 @@
+Theme: Change Order Conflicts
+Case Number: 14
+--------------------------------------------------
+
+**Contract Dispute Scenario: Change Order Conflicts**
+
+**Parties Involved:**
+1. **ABC Construction Inc.** - A mid-sized general contractor responsible for the construction of a new commercial office building for the City of Elkridge.
+2. **Elkridge Municipal Authority (EMA)** - The client and project owner overseeing the construction of the new office building.
+
+**Background:**
+In January 2023, ABC Construction Inc. entered into a fixed-price contract with the EMA for the completion of the office building, valued at $3 million and scheduled for completion by December 2023. As with many large construction projects, adjustments in scope and unforeseen issues arose, leading to various change order requests.
+
+**Key Issues of the Dispute:**
+
+1. **Scope of Work Changes:**
+   In March 2023, the EMA requested changes to the original plans, including the addition of a green roof and enhanced landscaping features. ABC Construction submitted a change order request—identified as Change Order #1—reflecting a cost increase of $150,000 and an extension of the project timeline by six weeks.
+
+   The EMA expressed approval for the change but later reassessed the necessity and budget impact, causing a significant delay in the process of formalizing Change Order #1. By the time the EMA formally accepted the change three months later, material prices had escalated, leading ABC Construction to file for an additional cost increase.
+
+2. **Disputed Costs:**
+   ABC Construction contends that due to the delay in approval and subsequent price hikes in materials, the company's increased expenses for the green roof and landscaping should be reflected in the contract. The contractor argues that the EMA’s delay in formal acceptance constitutes a breach of contract, which should cover indemnification for any additional costs incurred.
+
+   Conversely, EMA maintains that the initial change order request was accepted with a clear understanding that costs would remain fixed based on an earlier quote. EMA insists that any additional adjustments in costs due to market fluctuation should not be passed on to them as they were unaware of the urgent timeline necessitating immediate purchasing decisions.
+
+3. **Delayed Project Timeline:**
+   The change requests—coupled with the delay in formalizing the modifications—pushed back the overall project completion schedule, now projected to finish in March 2024. ABC Construction believes they should be compensated for this delay, whereas EMA argues that project timelines had built-in contingencies for such adjustments.
+
+4. **Communication Breakdowns:**
+   Both parties accuse each other of poor communication throughout the change order process. ABC Construction alleges that EMA’s project manager failed to respond promptly to inquiries about the status of the change order requests. Conversely, EMA claims that ABC Construction did not provide adequate backup documentation to support claims for increased costs, leading to unresolved conflicts and further project delays.
+
+**Conclusion:**
+The dispute has escalated to a formal negotiation phase. ABC Construction is threatening to file a mechanics lien against the office building for unpaid change order costs, while EMA is considering legal action for breach of contract due to the claimed delays. The resolution hinges on reconciling the differing interpretations of timelines, cost responsibilities, and communication expectations as laid out in their original agreement.

@@ -1,0 +1,35 @@
+Theme: Scope Changes
+Case Number: 8
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes in a Construction Project**
+
+**Parties Involved:**
+1. **ABC Construction Inc.** (Contractor) - A mid-sized general contractor specializing in residential and commercial building projects.
+2. **XYZ Development LLC** (Client) - A property development company overseeing a $3 million mixed-use development project comprising retail and residential units.
+
+**Project Overview:**
+ABC Construction Inc. was awarded a contract to construct the mixed-use development on a 1-acre lot. The initial project scope included the construction of two retail spaces and eight residential units, with a completion date set for December 2023.
+
+**Dispute Details:**
+As the project commenced in March 2023, XYZ Development LLC unexpectedly proposed a series of design changes, citing evolving market needs and tenant requirements. The proposed changes included expanding the residential units from eight to twelve and adding additional outdoor common spaces, which would alter the initial landscaping and structural specifications.
+
+**Key Issues:**
+
+1. **Scope of Work:**
+   ABC Construction argues that the requested changes represent a significant expansion of the project scope beyond what was detailed in the original contract. The contractor believes that these changes not only affect the physical elements of the construction but also lead to increased labor, material costs, and project timelines, invoking a ‘change order’ clause.
+
+2. **Cost Implications:**
+   XYZ Development contests that the changes should be covered under the original contract, alleging that the contractor should have anticipated the need for design alterations. They assert that only minimal cost adjustments should apply, citing industry standards where contractors accommodate minor modifications without substantial cost implications.
+
+3. **Schedule Impact:**
+   ABC Construction indicates that the changes will delay the completion by approximately three months, pushing the new completion date to March 2024. This impacts not only the contractor’s workflow but also the client’s leasing schedules for retail tenants who are awaiting completion to move in. ABC Construction demands an extension and additional compensation for the delay caused by these changes.
+
+4. **Communication Breakdown:**
+   Both parties dispute the nature and timing of communication regarding the proposed changes. ABC Construction insists that formal meetings were held discussing project scope and timelines and that any changes should have been documented through official change orders. Meanwhile, XYZ Development argues that verbal discussions were sufficient under the contract terms, which ABC Construction failed to acknowledge in time.
+
+5. **Resolution Attempts:**
+   Mediation attempts have been unsuccessful, with both parties maintaining firm positions on the extent of the changes and their contractual obligations. ABC Construction has threatened to halt work until a new agreement is reached, while XYZ Development contemplates pursuing legal action to enforce project completion as per their original interpretation of the contract's terms.
+
+**Conclusion:**
+The dispute centers around the interpretation of project scope changes, cost adjustments, schedule delays, miscommunication, and the proper mechanisms for initiating contract modifications. Both parties are at an impasse, requiring legal intervention or formal arbitration to resolve these contentious issues and continue with the project.

@@ -1,0 +1,31 @@
+Theme: Testing Requirements
+Case Number: 18
+--------------------------------------------------
+
+**Contract Dispute Scenario: Testing Requirements between TechSoft Corp and BuildRight Construction**
+
+**Parties Involved:**
+1. **TechSoft Corp**: A software development company specializing in building applications for the construction industry.
+2. **BuildRight Construction**: A general contractor responsible for various large-scale construction projects, including the recent development of a commercial office complex.
+
+**Background:**
+In January 2023, TechSoft Corp entered into a contract with BuildRight Construction to provide a project management software tailored to the needs of the construction firm, specifically for the construction of a new office complex in downtown. The contract stipulated that TechSoft would deliver the software by June 30, 2023, and that comprehensive testing would be conducted by both parties before final acceptance of the software. Key requirements for testing were outlined in the contract, which stated that testing would involve three phases: Unit Testing, Integration Testing, and User Acceptance Testing (UAT).
+
+**The Dispute:**
+As the delivery date approached, TechSoft submitted a version of the software to BuildRight for testing on June 1, 2023. BuildRight's project manager, Sarah Lawson, reviewed the submission and found that many critical functionalities, particularly those related to project scheduling and real-time budget tracking, were either not functioning as promised or were missing altogether. 
+
+BuildRight claimed that the software did not meet the specifications outlined in the contract, particularly regarding the usability of the project scheduling feature, which had a direct impact on their operational capabilities.
+
+In response, TechSoft argued that BuildRight had not adhered to the agreed-upon testing timeline. According to TechSoft, BuildRight had delayed essential feedback meetings and, in their view, failed to provide the necessary resources and personnel to participate in the testing process adequately. TechSoft contended that this lack of collaboration hindered their ability to address any issues promptly.
+
+**Key Issues:**
+1. **Incomplete Functionality**: BuildRight maintained that the software was insufficiently tested before delivery, particularly criticizing the absence of certain agreed-upon features essential for their operations.
+   
+2. **Testing Process**: TechSoft argued that BuildRight's failure to meet testing deadlines and schedule feedback sessions was a breach of the collaborative aspect outlined in the contract, making it more challenging for them to rectify any issues in a timely manner.
+
+3. **Acceptance Criteria**: The contract stipulated that the software would not be accepted until passing UAT, which was intended to confirm that all functionalities met BuildRight’s requirements. The disagreement over what constituted "pass" criteria became a central point of contention, with TechSoft asserting that the features delivered were sufficient and should be considered acceptable, while BuildRight refused acceptance due to unresolved issues.
+
+4. **Remedies and Damages**: BuildRight has threatened to seek damages for lost time and project delays, while TechSoft has suggested that any delays were due to BuildRight’s non-compliance with the contract terms regarding the testing process. 
+
+**Conclusion:**
+The dispute escalated to the point where both parties considered mediation to resolve their differences amicably, with each side presenting their viewpoint on the testing requirements and arguing over accountability for the delays and quality of deliverables. The outcome could not only impact the timeline of the construction project but also influence future contracts between both firms.

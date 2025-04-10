@@ -1,0 +1,32 @@
+Theme: Security Requirements
+Case Number: 14
+--------------------------------------------------
+
+**Contract Dispute Scenario: Security Requirements**
+
+**Parties Involved:**
+1. **TechSecure Inc.** - A cybersecurity firm contracted to provide security services for a government agency, the Department of National Services (DNS).
+2. **Department of National Services (DNS)** - A government agency responsible for national infrastructure and security oversight.
+
+**Background:**
+In January 2023, TechSecure Inc. entered into a contract with DNS to develop and implement a comprehensive cybersecurity framework for protecting sensitive data related to national projects. The contract stipulated specific security requirements, including adherence to the National Institute of Standards and Technology (NIST) cybersecurity framework, regular security audits, and the establishment of an incident response protocol.
+
+**Key Issues:**
+
+1. **Non-Compliance with Security Standards:**
+   In April 2023, during a scheduled audit, DNS found that TechSecure had failed to implement essential NIST security controls, specifically those concerning access management and data encryption measures. Rather than using recommended encryption algorithms, TechSecure opted for proprietary methods that DNS deemed insufficient. 
+
+2. **Delay in Deliverables:**
+   According to the contract, TechSecure was required to complete a vulnerability assessment by March 2023. However, TechSecure requested an extension, citing unforeseen technical challenges. The delay meant that DNS's operational capacity was jeopardized, leading to increased risks of data breaches and negative impacts on critical projects.
+
+3. **Incident Response Failures:**
+   In July 2023, a minor data breach occurred that exposed non-sensitive information. According to the contract, TechSecure was obliged to initiate an incident response plan to investigate and mitigate the breach within 24 hours. DNS alleged that TechSecure's response was delayed for over a week, raising concerns about their overall preparedness and commitment to the stipulations in the contract.
+
+4. **Communication Breakdown:**
+   Throughout the contract period, DNS experienced significant communication issues with TechSecure. Multiple attempts to arrange project update meetings were met with delays or cancellations from TechSecure. This lack of transparency hindered DNS's ability to assess the project's progress and effectiveness, leading to mistrust in TechSecure's compliance with security measures.
+
+5. **Remediation and Liability:**
+   DNS sought remediation measures and demanded financial penalties against TechSecure due to the breach of contract, particularly for the perceived negligence concerning the lack of adherence to security protocols. TechSecure argued that the chosen proprietary methods were justified, citing competitive advantage and industry standards at the time. They contended that the breach was minor and that penalties were disproportionate.
+
+**Conclusion:**
+The dispute between TechSecure Inc. and the Department of National Services centers around alleged non-compliance with contractually mandated security requirements, delays in deliverables, inadequate incident response, communication failures, and issues regarding remediation and liability. As both parties prepare for potential arbitration, negotiations are ongoing to resolve these contentious points and restore trust in their professional relationship.

@@ -1,0 +1,37 @@
+Theme: Liability Limits
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: Liability Limits**
+
+**Parties Involved:**
+
+1. **GreenTech Solutions Inc. (GTS)** - A mid-sized technology company specializing in the development and integration of renewable energy systems.
+2. **Falcon Construction LLC (FC)** - A general contractor responsible for the construction of commercial buildings, including the installation of GTS's solar power systems.
+
+**Background:**
+
+In January 2021, GTS and FC entered into a contract for a large-scale solar power installation for a new commercial building in downtown Metropolist. The contract specified that GTS would provide all necessary technology and support for the solar installation, while FC would handle the physical construction and installation.
+
+**Key Issues:**
+
+1. **Liability Limit Clause:**
+   - The contract included a liability limit clause stating that neither party would be liable for indirect, incidental, or consequential damages. Additionally, both parties agreed that liability for direct damages would be capped at the amount paid for the project, approximately $500,000.
+
+2. **Installation Defects:**
+   - After the project was completed, several defects were discovered in the installation, leading to significant power generation issues and causing the owner of the building to lose potential revenue estimated at $250,000 over a three-month period.
+
+3. **Claim for Consequential Damages:**
+   - The building owner's claims against FC for the lost revenue and incurred operational expenses led FC to seek indemnification from GTS, arguing that the defects originated from GTS’s faulty equipment and installation guidelines. FC claimed those losses fell outside of the liability cap and constituted consequential damages that should be compensated by GTS.
+
+4. **Dispute over Definitions:**
+   - The main contention arose from differing interpretations of what constituted "direct" versus "consequential" damages. GTS argued that the contract specifically limited their liability to the cap in place and that the revenue loss incurred by the building owner was a clear case of consequential damages, which the contract excluded.
+
+5. **Good Faith Negotiations:**
+   - In the wake of the dispute, there were attempts by both parties to negotiate a settlement. However, GTS maintained that any liability for costs beyond the agreed-upon cap was unjustified, while FC insisted that GTS’s equipment flaws resulted in the damages and that they should be accountable for the total incurred losses.
+
+6. **Legal Proceedings:**
+   - After unsuccessful negotiations, FC filed a claim in a local court, seeking compensation for the lost revenue amounting to $250,000, arguing for an interpretation of the contract that would allow for exceptions to the liability cap given the nature of the damages. 
+
+**Conclusion:**
+The dispute focuses on the enforceability of the liability limit clause, the definitions of direct versus consequential damages, and whether GTS should be held accountable for losses incurred as a result of their equipment. The outcome could set a precedent for similar contracts in the renewable energy sector, highlighting the importance of explicit terms regarding liability limitations.

@@ -1,0 +1,33 @@
+Theme: Compliance Issues
+Case Number: 5
+--------------------------------------------------
+
+**Contract Dispute Scenario: Compliance Issues**
+
+**Parties Involved:**
+1. **TechCo, Inc.** – A software development company based in San Francisco specializing in cloud solutions for financial institutions.
+2. **BankCorp** – A mid-sized bank based in New York, which has recently transitioned to digital banking services.
+
+**Background:**
+In June 2022, TechCo entered into a contract with BankCorp to develop a custom software platform aimed at enhancing the bank’s digital banking experience. The contract specified that TechCo would deliver the platform by December 2022 and that it would comply with all applicable regulatory requirements, including the Gramm-Leach-Bliley Act (GLBA) and the Payment Card Industry Data Security Standard (PCI DSS).
+
+**Key Issues:**
+As of March 2023, TechCo has yet to deliver the final product, and BankCorp has raised concerns over multiple compliance issues related to the project.
+
+1. **Delayed Delivery:**
+   The primary contention arises from the significant delays in the software development timeline. The contract explicitly required milestone progress reports, but TechCo failed to meet these deadlines. By February 2023, BankCorp had received only a portion of the software, which did not include essential features necessary for compliance with GLBA.
+
+2. **Compliance Violations:**
+   BankCorp discovered that the software prototype provided by TechCo did not meet critical compliance metrics. An internal audit revealed potential vulnerabilities in data encryption, a key requirement of the GLBA. Furthermore, TechCo's proposed solutions for data handling fell short of PCI DSS requirements, risking the security of sensitive customer payment information.
+
+3. **Lack of Communication:**
+   BankCorp alleges that TechCo did not provide adequate updates regarding the issues encountered during development. TechCo's sporadic communication about bug fixes and compliance challenges has left BankCorp in a precarious position, particularly as they are preparing for a regulatory inspection.
+
+4. **Contractual Remedies:**
+   BankCorp is demanding that TechCo rectify the compliance issues within 30 days or face penalties outlined in the contract, including possible termination of the agreement and reimbursement of costs incurred in reliance on TechCo's promises. Conversely, TechCo argues that unforeseen complexities in adapting the software to regulatory standards have contributed to the delays, and they claim that BankCorp’s lack of feedback on earlier prototypes exacerbated the situation.
+
+5. **Negotiation Stalemate:**
+   Attempts at renegotiating the terms of the contract have stalled. TechCo is seeking additional time and resources to address compliance gaps, while BankCorp views this as an unacceptable risk to their compliance standing and is unwilling to extend further accommodations without guarantees.
+
+**Outcome and Implications:**
+With mounting pressure from regulatory bodies, BankCorp is at a crossroads. They must decide whether to pursue legal action against TechCo or seek a new vendor to ensure compliance, all while navigating the potential reputational damage from the delays. TechCo, on the other hand, risks losing not only the contract but also its credibility in the financial sector if they cannot demonstrate compliance and effective communication moving forward.

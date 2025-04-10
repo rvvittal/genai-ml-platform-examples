@@ -1,0 +1,32 @@
+Theme: Scope Changes
+Case Number: 1
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes**
+
+**Parties Involved:**
+1. **GreenBuild Construction Inc.** - A mid-sized construction firm based in Denver, Colorado.
+2. **The Hartsfield Family** - Homeowners in Boulder, Colorado, who contracted GreenBuild to renovate their home.
+
+**Background:**
+In February 2023, the Hartsfield Family signed a contract with GreenBuild for a comprehensive renovation project that included a complete kitchen remodel, bathroom upgrades, and exterior landscaping. The contract, which totaled $150,000, explicitly outlined the scope of work, project timeline, and payment schedules. Construction commenced in March 2023, with a completion date projected for June 2023.
+
+**Key Issues:**
+
+1. **Initial Scope Description:**
+   The contract detailed specific materials, designs, and layouts approved by the Hartsfields, particularly noting custom cabinetry and high-end appliances for the kitchen. The expectation was that the kitchen would remain in its original layout. However, during the demolition phase, discrepancies were noted between the original plans and the Hartsfields' reminiscences of the project’s intent.
+
+2. **Scope Change Proposal:**
+In April 2023, the Hartsfields approached GreenBuild with a request to modify the kitchen layout to include an island and open shelving. GreenBuild prepared an estimate for the change, which included additional labor and material costs, totaling an additional $25,000. This was communicated in a formal Scope Change Proposal, stating that this would extend the project timeline by two weeks. The proposal required written approval, which the Hartsfields disputed, claiming the changes were minor and should not incur substantial costs or delays.
+
+3. **Communication Breakdown:**
+Communication between GreenBuild and the Hartsfields deteriorated as the project progressed. The Hartsfields felt that they had communicated their intent for an open kitchen during early discussions, although this was not documented in written form. GreenBuild maintained that without formal approval, they could not initiate changes without reconsidering the original contract terms.
+
+4. **Delay in Completion:**
+In May 2023, as the construction entered the final stages, the delays caused by the scope change request led to significant dissatisfaction from the Hartsfields, who were living in temporary accommodations. They contended that GreenBuild was responsible for additional costs incurred due to delays, including storage fees for their displaced appliances and furniture. Conversely, GreenBuild argued that the delay was a direct result of the requested changes, which they were not contractually obligated to accommodate without written approval.
+
+5. **Resolution Attempts:**
+By the end of May, after several heated discussions, both parties acknowledged the growing rift. The Hartsfields threatened legal action to recover costs associated with the delays. GreenBuild offered to split the additional costs related to the new kitchen installed but declined to formalize any further changes to the original payment structure.
+
+**Conclusion:**
+The dispute encapsulates a classic conflict over scope changes in construction contracts, underscoring the critical need for clear communication and formal documentation when alterations to a project are proposed. Both parties were unwilling to compromise, and the risk of escalation to legal proceedings loomed as they prepared to seek external mediation.

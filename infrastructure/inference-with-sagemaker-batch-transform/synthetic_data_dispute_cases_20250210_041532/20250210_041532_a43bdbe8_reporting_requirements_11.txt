@@ -1,0 +1,37 @@
+Theme: Reporting Requirements
+Case Number: 11
+--------------------------------------------------
+
+**Contract Dispute Scenario: Reporting Requirements Between TechSolve Inc. and DataSecure LLC**
+
+**Parties Involved:**
+
+1. **TechSolve Inc.** – A software development firm specializing in data analytics solutions for healthcare providers.
+2. **DataSecure LLC** – A data security company tasked with implementing security measures for TechSolve's products.
+
+**Background:**
+
+In January 2023, TechSolve Inc. entered into a contract with DataSecure LLC to provide end-to-end security for a new analytics software platform launched for healthcare clients. The contract, valued at $500,000, included a clause outlining specific reporting requirements for DataSecure regarding the security measures implemented and any breaches discovered during the testing and operational phases.
+
+**Key Issues of Dispute:**
+
+1. **Reporting Frequency and Format:**
+   - The contract stipulated that DataSecure would provide bi-monthly security reports to TechSolve. However, DataSecure has submitted reports only three times in the last six months, claiming that their internal assessment processes require more time than anticipated.
+   - TechSolve insists that these reports are critical for compliance with federal healthcare regulations and that the failure to meet the established frequency has left them vulnerable during audits.
+
+2. **Content of Reports:**
+   - TechSolve has raised concerns about the quality and detail of the reports received. The last two submissions lacked critical analysis, specific incident reports, and recommendations for improvements, which TechSolve had believed were part of the agreed format.
+   - DataSecure argues that the reporting framework should focus on significant incidents and that minor issues should not require documentation, challenging TechSolve's understanding of the contract terms.
+
+3. **Breach Detection Communication:**
+   - The contract indicated that any detected breaches should be communicated immediately to TechSolve, with a detailed follow-up report within 48 hours. However, DataSecure experienced two significant security breaches over the past four months, both of which were reported to TechSolve only after several days.
+   - DataSecure claims that initial investigations revealed no urgent threats, which justified the delay. TechSolve countered that this approach demonstrated a lack of urgency and transparency, potentially exposing them to regulatory fines and losing client trust.
+
+4. **Impact on Clients:**
+   - As a direct result of these reporting issues, TechSolve alleges that they have faced increased scrutiny from their healthcare clients and have incurred additional compliance costs due to the lack of timely and detailed reports.
+   - DataSecure responds by stating that the breaches were contained and did not impact clients directly, arguing that TechSolve's reaction was exaggerated.
+
+**Resolution Attempts:**
+- Initial discussions to resolve these issues through mediation were unsuccessful, with both parties remaining firm in their positions. TechSolve now contemplates either seeking damages for breach of contract or terminating the agreement entirely, while DataSecure may be open to renegotiating certain terms to clarify expectations.
+
+As of October 2023, the dispute remains unresolved, pending potential litigation or an out-of-court settlement.

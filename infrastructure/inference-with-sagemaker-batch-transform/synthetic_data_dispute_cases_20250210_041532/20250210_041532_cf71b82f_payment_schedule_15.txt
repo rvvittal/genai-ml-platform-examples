@@ -1,0 +1,32 @@
+Theme: Payment Schedule
+Case Number: 15
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Payment Schedule**  
+
+**Parties Involved**:  
+1. **Tech Innovations Inc.** (the Contracting Party) - A software development company based in San Francisco that specializes in custom software solutions for businesses.  
+2. **Greenfield Corp.** (the Client) - A mid-sized agriculture technology company based in San Jose that has engaged Tech Innovations for a comprehensive enterprise software system.
+
+**Contract Overview**:  
+On June 1, 2023, Tech Innovations Inc. and Greenfield Corp. entered into a contract for the development and implementation of an enterprise resource planning (ERP) system. The total contract amount was set at $240,000, with a payment schedule outlined in Section 4 of the contract:  
+- **20% upfront deposit** upon signing: $48,000  
+- **30% upon completion of the first phase** (Requirements Analysis): $72,000  
+- **30% upon completion of the second phase** (Development and Testing): $72,000  
+- **20% upon final delivery and acceptance**: $48,000
+
+**Dispute Details**:  
+By August 15, 2023, Tech Innovations submitted the Requirements Analysis to Greenfield. Despite Tech Innovations adhering to the timeline, Greenfield delayed the completion of its review, causing a bottleneck in the subsequent phases. Subsequently, Tech Innovations reached out regarding the second payment (due upon phase completion) on September 10, 2023.  
+
+**Key Issues**:  
+1. **Unilateral Delays by Greenfield**: Greenfield Corp. claims they couldn't move forward due to internal resource constraints and insufficient manpower for review, despite the software's completion. As a result, they have refused to pay the 30% installment, arguing that they have not accepted work not reviewed.  
+
+2. **Ambiguity in Acceptance Criteria**: The contract did not clearly define “acceptance” of completed work. Tech Innovations argues that Greenfield’s failure to review does not equate to non-completion because the deliverables were provided within the stipulated time. They contend that the client’s delay does not mitigate the obligation to pay for work rendered.  
+
+3. **Continued Work and Future Payments**: Tech Innovations reports it has already started working on the next phase without receiving the scheduled payments, putting additional strain on their resources. They assert that an ongoing project without compensation compromises the completion of the ERP system. Greenfield Corp. is worried that paying upfront will incentivize incomplete or defective work, thus asking for provisions to inspect and possibly repeat their critiques after internal assessment.  
+
+**Resolution Attempts**:  
+Tech Innovations has proposed an interim solution: a partial payment of 15% of the total contract to alleviate immediate financial pressures while Greenfield continues its review. However, Greenfield insists that until they complete their internal review and are satisfied with the first phase, they will withhold payment, arguing for fairer terms.  
+
+**Conclusion**:  
+This dispute centers around the interpretation of payment obligations tied to acceptance criteria, the implications of delays caused by the client, and the clarity of terms outlined in the contract. Both parties need to negotiate a resolution that maintains their business relationship while ensuring contractual obligations are upheld.

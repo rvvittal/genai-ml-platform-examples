@@ -1,0 +1,38 @@
+Theme: Payment Default
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Default between TechSolutions Inc. and WebDevelopers LLC**
+
+**Background**  
+TechSolutions Inc., a software development firm, entered into a contract with WebDevelopers LLC, a web design agency, on January 15, 2023. The agreement stipulated that WebDevelopers would design and launch an e-commerce website for TechSolutions, with a project deadline of March 31, 2023. The total contract value was $50,000, structured as a $20,000 upfront payment, with the remaining $30,000 due upon project completion and delivery.
+
+**Parties Involved**  
+- **TechSolutions Inc.**: A Seattle-based software development firm specializing in custom applications.
+- **WebDevelopers LLC**: A Portland-based web design agency known for creating user-friendly digital platforms.
+
+**Key Issues**  
+
+1. **Payment Default**  
+   In early April 2023, WebDevelopers submitted an invoice for the final $30,000, claiming that the project was completed on March 31, as stipulated in the contract. However, TechSolutions contested this, stating that the website had not met the agreed-upon specifications and was riddled with bugs, which rendered it non-functional for their purposes.
+
+2. **Discrepancies in Deliverables**  
+The main contention arose over the scope of work outlined in the original contract. TechSolutions pointed to specific deliverables that were either delayed or incomplete, such as:
+   - The website's integration with their existing customer relationship management system (CRM).
+   - Certain design features that were misaligned with the originally approved prototypes.
+   - Lack of mobile responsiveness, which was crucial for their customer base.
+
+WebDevelopers maintained that the site was operational and deemed “complete” according to industry standards. They claimed that TechSolutions had altered the project specifications midway without formal amendments to the contract, leaving them with additional work that was outside the initial scope.
+
+3. **Failure to Communicate**  
+TechSolutions accused WebDevelopers of failing to provide regular progress updates and ignoring their concerns expressed during the project timeline. They argued that WebDevelopers should have foreseen the issues and proactively communicated any challenges, prompting an earlier resolution before project completion.
+
+Conversely, WebDevelopers argued that TechSolutions had been vague in their feedback and had not formally documented their concerns, which made it difficult to address issues as they arose. They asserted that the lack of clear communication contributed significantly to the discrepancies between expected and delivered outcomes.
+
+4. **Remedies Sought**  
+TechSolutions seeks compensatory damages, asserting that the faulty website has caused them to lose prospective business and requires additional funds to hire a different developer to correct the issues. They refuse to pay the final installment until the problems are addressed.
+
+WebDevelopers, on the other hand, demand the remaining $30,000, arguing that they fulfilled their contractual obligations and that the delays were due to TechSolutions’ inconsistent feedback.
+
+**Conclusion**  
+The crux of the dispute revolves around whether WebDevelopers delivered according to the contract specifications and if TechSolutions’ claims of incomplete work are substantiated. Both parties have indicated a willingness to explore mediation as a means to resolve the conflict while minimizing the potential for extended litigation.

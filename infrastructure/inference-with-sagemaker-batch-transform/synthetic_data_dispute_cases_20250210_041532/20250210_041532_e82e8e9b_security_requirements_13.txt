@@ -1,0 +1,36 @@
+Theme: Security Requirements
+Case Number: 13
+--------------------------------------------------
+
+**Contract Dispute Scenario: Security Requirements Between TechSolutions Corp. and GlobalBank Ltd.**
+
+**Background:**
+TechSolutions Corp. (referred to as "TechSolutions") is a software development company specializing in cybersecurity solutions. GlobalBank Ltd. (referred to as "GlobalBank") is a large financial institution that recently contracted TechSolutions to develop a secure online banking platform. The contract was signed in May 2022, with specific clauses outlining security requirements, timelines, and deliverables.
+
+**Parties Involved:**
+1. **TechSolutions Corp.** - Represented by CEO {Name} and Legal Counsel {Name}.
+2. **GlobalBank Ltd.** - Represented by Chief Information Officer {Name} and Legal Counsel {Name}.
+
+**Contract Highlights:**
+- **Security Requirements Clauses:** The contract included stringent security provisions, requiring TechSolutions to adhere to standards such as encryption protocols, secure socket layer (SSL) connections, and data protection regulations (e.g., GDPR).
+- **Project Timeline:** The development was to be completed by December 2022.
+- **Liability Clause:** A clause stating TechSolutions would be liable for liquidated damages if the platform failed to meet agreed security standards upon deployment.
+
+**Key Issues in Dispute:**
+1. **Non-Compliance with Security Standards:**
+   GlobalBank alleges that TechSolutions delivered the platform without implementing the necessary security measures. The bank's internal audits indicated that the platform had vulnerabilities that could expose sensitive customer data. Specifically, they cited issues such as failure to implement multi-factor authentication and outdated encryption methods.
+
+2. **Delayed Deliverables:**
+   TechSolutions requested an extension of the delivery timeline in August 2022, citing unforeseen technical challenges. However, they proceeded to launch the platform in advanced beta testing mode in December 2022, which GlobalBank claims was still not compliant with the pre-agreed security standards.
+
+3. **Unilateral Change in Scope:**
+   During development, TechSolutions proposed changes to the project scope, which they argued were necessary for the "enhancement of security features." GlobalBank claims that these changes were not communicated effectively or agreed upon, constituting a breach of the original contract. 
+
+4. **Financial Implications:**
+   Following the platform's launch, GlobalBank faced regulatory scrutiny and potential fines due to identified security shortcomings. They seek damages from TechSolutions, arguing that the non-compliance directly resulted in financial losses and reputational harm.
+
+5. **Dispute Resolution Clause:**
+   The contract specified that disputes should be resolved through mediation before escalating to arbitration. GlobalBank claims that TechSolutions has refused to engage in the mediation process, exacerbating the situation and delaying resolution.
+
+**Conclusion:**
+TechSolutions and GlobalBank are at an impasse, with both parties blaming each other for the security failures and resulting financial implications. A mediator has been appointed to assist in negotiations, with potential arbitration looming if an agreement is not reached. The main contention centers around alleged security non-compliance, the unapproved scope changes, and the financial consequences stemming from these issues.

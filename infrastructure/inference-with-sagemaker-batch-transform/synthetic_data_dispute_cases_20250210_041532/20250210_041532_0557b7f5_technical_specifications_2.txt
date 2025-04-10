@@ -1,0 +1,36 @@
+Theme: Technical Specifications
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: Technical Specifications in Software Development**
+
+**Parties Involved:**
+
+1. **TechNova Solutions**: A software development firm contracted to create a customized project management tool for a mid-sized construction company, BuildWell, Inc.
+2. **BuildWell, Inc.**: The construction company that requires a project management tool to streamline its operations.
+
+**Background:**
+
+In January 2023, TechNova and BuildWell entered a contract valued at $500,000 for the development of the project management software. The contract included a detailed section outlining the technical specifications required for the software, including features like task tracking, resource allocation, and real-time collaboration tools. The project was slated for completion by July 2023.
+
+**Dispute Overview:**
+
+As TechNova approached the final stages of development in May 2023, BuildWell raised concerns regarding several key features that they argued were either missing or not aligned with the agreed-upon specifications outlined in the contract. This led to a formal dispute between the two parties regarding the interpretation of the technical specifications.
+
+**Key Issues in Dispute:**
+
+1. **Feature Omissions**:
+   BuildWell claimed that the software lacked essential features such as multi-user access for different projects and an integration capability with their existing accounting software. They argued that these features were explicitly stated in the technical specifications, which TechNova disputed by claiming that they were “implied functionalities” rather than explicitly outlined in the contract.
+
+2. **Performance Metrics**:
+   TechNova provided a demo version of the software that did not meet the expected load times or filtering options agreed upon during the contract negotiation phase. BuildWell cited that the software took over five seconds to load critical dashboards, contrary to the specifications claiming an average load time of under two seconds. TechNova contended that factors such as BuildWell’s existing infrastructure could affect performance and therefore, they were not liable for such discrepancies.
+
+3. **Change Orders**:
+   Midway through development, BuildWell initiated a request for additional features, including mobile compatibility and enhanced reporting capabilities, which TechNova argued were outside the original scope and would require a change order. BuildWell believed these features were essential and part of the original requirement set to ensure usability across various devices. The lack of clear communication around scope changes caused tension, as BuildWell felt TechNova should have anticipated their needs.
+
+4. **Cost Overruns**:
+   With the dispute over technical specifications and requested changes, TechNova indicated that the project would require an additional $100,000 to meet BuildWell’s requested features. BuildWell rejected this claim, asserting that the initial contract did not allow for such cost overruns without explicit mutual agreement. 
+
+**Conclusion:**
+
+As of June 2023, TechNova and BuildWell had not reached a resolution, with both sides seeking legal counsel to interpret contract obligations. The dispute highlighted the importance of clarity in technical specifications and the necessity for continual communication throughout project development to ensure mutual understanding. The project was now in jeopardy, potentially leading to a protracted legal conflict and significant delays.

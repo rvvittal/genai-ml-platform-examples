@@ -1,0 +1,34 @@
+Theme: Termination Disputes
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: Termination of Marketing Services Agreement**
+
+**Parties Involved:**
+- **WidgetCo, Inc.** (“WidgetCo”): A mid-sized manufacturing firm specializing in high-tech widgets.
+- **PromoPro Marketing Group** (“PromoPro”): A digital marketing agency contracted by WidgetCo to manage their online marketing efforts.
+
+**Background:**
+In January 2023, WidgetCo signed a one-year marketing services agreement with PromoPro, setting forth terms for SEO, social media management, and email marketing campaigns. The contract included a clause allowing termination for convenience with a 30-day written notice, as well as a provision for termination for cause if either party materially breached the agreement.
+
+In May 2023, WidgetCo began to experience dissatisfaction with PromoPro's performance. Key metrics, including website traffic and lead conversions, were stagnating despite the agency's promises. WidgetCo raised concerns during a quarterly review meeting, but the agency claimed that they were implementing their strategies effectively and expected improvement shortly.
+
+**Dispute Details:**
+By July 2023, WidgetCo decided to terminate the agreement, citing material breaches based on PromoPro's failure to deliver agreed-upon results, including:
+1. Inadequate campaign performance: WidgetCo outlined specific targets for lead generation that had not been met, specifically a 40% decline in lead generation compared to the previous year.
+2. Lack of communication: WidgetCo noted that the scheduled weekly updates had not been held consistently, causing confusion and misalignment on project goals.
+
+WidgetCo sent a written notice of termination to PromoPro on July 15, 2023, invoking the termination for cause clause and requesting an end to the services effective August 15, 2023, along with a full accounting of unpaid invoices.
+
+**PromoPro’s Position:**
+In response, PromoPro argued that:
+1. The performance metrics cited by WidgetCo were skewed. They claimed the overall market conditions were unfavorable and that competition had increased, which was beyond their control.
+2. They disputed the assertion of lack of communication, pointing out that they had frequently provided updates through emails and meetings. They argued that the expectations set by WidgetCo may have been unrealistic given the market context.
+3. PromoPro contended that WidgetCo’s decision to terminate was premature and that they had not been given a fair opportunity to rectify any issues. They indicated that they had been implementing improvements based on previous feedback.
+
+**Key Issues for Resolution:**
+1. **Existence of Material Breach**: Did PromoPro's failure to meet specific performance metrics constitute a material breach of the contract?
+2. **Validity of Termination**: Was WidgetCo justified in its termination under the cause clause, or should they have terminated for convenience with the stipulated notice period?
+3. **Potential Damages**: If PromoPro’s termination is found to be in breach of the contract, what damages could be claimed for lost revenue and the cost of services rendered?
+
+The resolution of this dispute may involve negotiations, mediation, or litigation, depending on the willingness of each party to settle the matter amicably or pursue their rights through legal channels.

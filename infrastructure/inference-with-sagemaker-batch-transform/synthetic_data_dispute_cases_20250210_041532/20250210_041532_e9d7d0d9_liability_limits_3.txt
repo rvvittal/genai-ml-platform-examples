@@ -1,0 +1,42 @@
+Theme: Liability Limits
+Case Number: 3
+--------------------------------------------------
+
+**Scenario Title: Dispute Over Liability Limits in a Construction Agreement**
+
+**Parties Involved:**
+
+1. **ABC Construction Corp. (ABC)** - A mid-sized construction firm responsible for building commercial properties.
+2. **XYZ Development Group (XYZ)** - A real estate development company hiring ABC for a new office complex.
+
+**Background:**
+
+In January 2022, ABC and XYZ entered into a contract for the construction of a new office building in downtown. The total contract value was $5 million. As part of the agreement, both parties negotiated specific liability limits to cover various risks, including property damage and bodily injury.
+
+The liability limit, mutually agreed upon, included the following clauses:
+
+- **General Liability Limit**: $1 million per occurrence, $2 million aggregate.
+- **Professional Liability Limit**: $500,000 for design errors and omissions.
+- **Indemnification Clause**: ABC agreed to indemnify XYZ for any claims arising from construction activities, but only up to the agreed-upon limits.
+
+**Incident Leading to Dispute:**
+
+In March 2023, a major incident occurred during construction. A structural failure led to a partial collapse of the building site, resulting in extensive property damage to neighboring buildings and injuries to two workers. The total damages estimated by XYZ and their insurers exceeded $3 million, including medical costs for the injured workers and repairs to surrounding properties.
+
+**Main Points of Contention:**
+
+1. **Interpretation of Liability Limits**:
+   - **ABC's Position**: ABC asserts that their liability is clearly limited to the $1 million per occurrence cap defined in the contract. They argue the overall project was substantially compliant with all safety regulations and that the collapse was a result of unforeseen soil conditions that were not disclosed by XYZ.
+   - **XYZ's Position**: Conversely, XYZ contends that, while the contract does stipulate liability limits, the extensive damages and injuries qualify as gross negligence on ABC's part, particularly due to reported unsafe practices and failure to adhere to safety protocols. XYZ believes that these actions void the liability limits stipulated in the contract.
+
+2. **Negligence Claims**:
+   - XYZ claims that there was a lack of proper oversight, inadequate preparation for site conditions, and negligent engineering practices. They argue that under construction law, liability cannot be limited when negligence causes severe harm or property damage.
+   - ABC counters that they employed qualified subcontractors and followed industry standard practices, asserting that any negligence claim is unfounded.
+
+3. **Indemnification**:
+   - The indemnification clause requires ABC to cover certain liabilities for claims made against XYZ. However, ABC argues that this clause should not apply to damages exceeding the stated liability limits, threatening that such an interpretation would lead to an inequitable burden of legal and repair costs on them.
+   - XYZ maintains that the indemnification clause should cover the entirety of the claim costs, especially given the claimed negligence.
+
+**Conclusion:**
+
+The dispute escalated, resulting in both parties seeking legal representation to resolve interpretations of the contract, assess liability for damages, and determine potential liabilities exceeding the agreed-upon limits. Mediation has been proposed to avoid protracted litigation, but both parties remain firm in their stances regarding liability.

@@ -1,0 +1,32 @@
+Theme: Liability Limits
+Case Number: 17
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Liability Limits in Construction Contract**
+
+**Parties Involved:**  
+**1. GreenBuild Construction Inc.** (Contractor)  
+**2. UrbanSpace Development LLC** (Client)
+
+**Background:**  
+In January 2023, GreenBuild Construction Inc. entered into a contract with UrbanSpace Development LLC for the construction of a new mixed-use development in downtown Springfield. The project included residential units and commercial spaces, with a total contract value of $5 million. The contract included a clause specifying liability limits, which stated that the contractor's liability for any claims arising out of the contract would be capped at $1 million.
+
+**Dispute Details:**  
+In August 2023, during the final stages of construction, a significant structural failure occurred due to a design flaw that GreenBuild allegedly failed to identify and rectify. A portion of the building's roof collapsed, leading to extensive damage, delays in project completion, and claims for personal injury from subcontractors who were present at the site.
+
+**Key Issues:**
+
+1. **Enforcement of Liability Limits:**  
+UrbanSpace Development LLC asserts that the $1 million liability limit is insufficient to cover the damages incurred from the roof collapse, which they estimate at over $3 million. They are also concerned about the potential for personal injury claims exceeding the liability cap. GreenBuild, on the other hand, insists that the liability limit is enforceable as per the original contract terms and that UrbanSpace was aware of and agreed to these limitations before signing.
+
+2. **Responsibility for Design Flaws:**  
+UrbanSpace contends that GreenBuild should be held responsible for the design flaw, arguing that as the general contractor, they had a duty to manage and oversee all aspects of the project, including the work of their subcontractors. GreenBuild retaliates by claiming that the design flaw originated from plans provided by UrbanSpace’s architect, thus shifting the blame back to the client.
+
+3. **Negligence and Breach of Contract:**  
+UrbanSpace is considering pursuing a negligence claim against GreenBuild, arguing that the contractor’s failure to conduct thorough inspections and follow safety protocols constituted a breach of their contractual obligations. GreenBuild maintains that they followed all industry standards, and any lapses were due to the unforeseen nature of the defect in the design.
+
+4. **Impact on Project Timeline and Costs:**  
+The collapse has already set back the project by six months, which UrbanSpace argues has resulted in lost revenues from prospective tenants and buyers. They are demanding compensation not only for repair costs but also for anticipated profits lost during the delay. GreenBuild argues that the delay falls within acceptable construction risks and that any claims for lost profits should be dismissed under the predetermined liability limits.
+
+**Conclusion:**  
+As negotiations begin to resolve the dispute, both parties face the challenge of navigating contractual obligations, liability limits, and the implications of the underlying design error. The outcome will hinge on interpretations of the contract language, the extent of liability for design flaws, and prevailing local laws regarding construction liability.

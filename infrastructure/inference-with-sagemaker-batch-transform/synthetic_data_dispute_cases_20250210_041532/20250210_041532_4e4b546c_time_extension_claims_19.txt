@@ -1,0 +1,34 @@
+Theme: Time Extension Claims
+Case Number: 19
+--------------------------------------------------
+
+**Scenario: Contract Dispute over Time Extension Claims in Construction Project**
+
+**Background:**
+In March 2023, ABC Construction Co. (the Contractor) was awarded a $5 million contract by XYZ Development Corp. (the Owner) to build a luxury residential complex in downtown Metropolis. The contract stipulated a completion date of March 15, 2024, with penalties for delays amounting to 1% of the total project cost per week. 
+
+**Parties Involved:**
+1. **ABC Construction Co.** – The Contractor responsible for the design and execution of the project.
+2. **XYZ Development Corp.** – The Owner and project developer, requiring timely delivery to meet marketing deadlines.
+
+**Key Issues:**
+As of February 2024, ABC Construction submitted a Time Extension Claim for an additional 12 weeks, citing multiple delays that they argue were beyond their control. This claim has resulted in significant contention between the Contractor and the Owner. 
+
+**Dispute Details:**
+
+1. **Weather Delays:**
+   The Contractor reported adverse weather conditions, including an unexpected snowstorm in December 2023 that halted construction for three weeks. They claim that this delay was documented and communicated promptly. However, the Owner contests the relevance and severity of the weather impact, stating that the Contractor should have accounted for potential winter disruptions in their initial schedule. 
+
+2. **Supply Chain Issues:**
+ABC Construction also points to significant delays in obtaining critical materials, particularly steel and plumbing fixtures, due to global supply chain disruptions. They believe these delays were unforeseen and properly notified in accordance with contract provisions. The Owner, however, argues that the Contractor failed to demonstrate due diligence in sourcing alternative suppliers, suggesting that the Contractor should have prepared for these risks given the known industry challenges.
+
+3. **Change Orders:**
+The Contractor has submitted several change orders related to modifications requested by the Owner for upgraded features in the project. ABC Construction claims that these changes led to increased complexity and therefore justified an extension of time. The Owner's position is that the submitted change orders were either not formally approved within the stipulated timeframe or were variations that should not extend the completion date.
+
+4. **Communication and Documentation:**
+A key point of contention is the communication between the parties and the adequacy of documentation submitted for the Time Extension Claim. ABC Construction asserts they provided timely notices and required documentation for the weather and supply chain delays. Conversely, XYZ Development points to a lack of comprehensive records concerning these delays and contends that crucial timelines and milestones were not met, thus nullifying the legitimacy of the extension request.
+
+**Current Status:**
+As of now, both parties have ceased all construction activities due to the dispute over the validity of the Time Extension Claim. The Owner is considering imposing financial penalties for the potential breach of contract, while the Contractor is preparing to escalate the matter to mediation to seek resolution and prevent further losses.
+
+In summary, the dispute centers around the legitimacy of time extension claims based on weather, supply chain issues, change orders, and the adequacy of communication and documentation, with both parties firmly entrenched in their positions.

@@ -1,0 +1,30 @@
+Theme: Intellectual Property Rights
+Case Number: 15
+--------------------------------------------------
+
+### Contract Dispute Scenario: Intellectual Property Rights
+
+#### Parties Involved:
+1. **TechInnovate LLC** - A software development company based in San Francisco, California, specializing in automation tools for small businesses.
+2. **NextGen Solutions** - A marketing consultancy firm located in Austin, Texas, known for developing branding strategies and digital campaigns.
+
+#### Background:
+In April 2022, TechInnovate LLC entered into a contract with NextGen Solutions to develop a proprietary software tool, named "BrandGuard," designed to help businesses enhance their online presence. Under the terms of the contract, TechInnovate would create the software, while NextGen would handle the marketing, distribution, and installation.
+
+The contract included a clause that stated all intellectual property rights (IPR) generated from the project would be jointly owned by both parties. This was intended to encourage collaboration and ensure both companies benefited from the software’s future success.
+
+#### Key Issues in Dispute:
+1. **Ownership of Software Modifications:**
+   After the initial version of BrandGuard was delivered in July 2023, NextGen Solutions proposed several modifications to improve the software’s usability and market appeal. However, TechInnovate claims that these changes constitute new intellectual property (IP), thereby granting them sole ownership of the modified software. NextGen argues that the modifications were developed collaboratively during regular meetings and should be recognized as jointly owned IP under the contract.
+
+2. **Revenue Sharing Discrepancies:**
+   BrandGuard was officially launched in August 2023, and within the first three months, it generated $500,000 in revenue. According to TechInnovate, the original contract did not explicitly address revenue sharing, and they assert that they are entitled to a larger portion of the profits due to the extensive coding and technical support they provided. NextGen contests this claim, believing they should receive a 50/50 split based on the partnership agreement.
+
+3. **Termination of Partnership:**
+   Tensions escalated when TechInnovate decided to terminate the partnership with NextGen in November 2023, citing communication breakdowns and unmet marketing obligations. NextGen responded by threatening legal action for breach of contract, stating that the termination constitutes an infringement of their jointly-held IP rights since they actively contributed to the software's development and market strategy.
+
+4. **Fair Use of Marketing Materials:**
+   Post-launch, NextGen began using certain promotional materials developed during the partnership without TechInnovate’s approval. TechInnovate claims this usage violates both the IPR clause and the non-disclosure agreement (NDA) signed by both parties. NextGen argues that the materials fall under fair use since they are promoting a product that both firms were involved in creating.
+
+### Conclusion:
+The disputes between TechInnovate LLC and NextGen Solutions revolve around critical issues of IP ownership, revenue sharing, the validity of partnership termination, and the fair use of marketing content. Both parties are now considering mediation to resolve their differences and avoid costly litigation, while also taking into account the future potential of the BrandGuard software.

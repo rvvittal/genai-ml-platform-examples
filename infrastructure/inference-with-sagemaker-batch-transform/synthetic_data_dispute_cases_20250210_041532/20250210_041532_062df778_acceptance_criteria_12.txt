@@ -1,0 +1,29 @@
+Theme: Acceptance Criteria
+Case Number: 12
+--------------------------------------------------
+
+**Contract Dispute Scenario: Software Development Project**
+
+**Parties Involved:**
+1. **Tech Innovations Co.** (Client) - A mid-sized company specializing in e-commerce solutions.
+2. **CodeCrafters LLC** (Vendor) - A software development firm contracted to build a customized e-commerce platform.
+
+**Project Overview:**
+In January 2023, Tech Innovations Co. and CodeCrafters LLC entered into a contract for the development of a new e-commerce platform, with an expected launch date of July 15, 2023. The contract outlined detailed acceptance criteria for various software components, including user interface design, payment processing functionality, and scalability.
+
+**Key Issues Leading to Dispute:**
+By June 2023, CodeCrafters provided a beta version of the platform. Tech Innovations reviewed the platform and identified several issues that they believed did not meet the defined acceptance criteria, particularly in two areas:
+
+1. **User Interface (UI) Design:**
+   The contract specified that the platform’s UI must mirror the design specifications provided in the initial proposal, including specific color schemes, font styles, and a mobile-responsive layout. Tech Innovations found that the UI delivered by CodeCrafters deviated significantly from the approved design mockups, stating that the aesthetic elements were inconsistent and not user-friendly. CodeCrafters argued that while aesthetic choices may differ slightly, they adhered to the overall design principles and user experience requirements.
+
+2. **Payment Processing Functionality:**
+   The contract required integration with three major payment gateways (PayPal, Stripe, and Square) and stated that users should be able to complete transactions with no more than two steps. Tech Innovations reported that while PayPal and Stripe were integrated, the Square integration was in beta and not functional at the time of review. Additionally, the checkout process involved three steps instead of the required two. CodeCrafters contended that the functionality was complex and that the two-step requirement was subject to interpretation based on the actual processing logic.
+
+**Contentions:**
+- **Tech Innovations Co.** argues that CodeCrafters failed to adhere to the acceptance criteria, which they contend is a breach of contract. They claim the deviations in UI lead to a substandard product that does not align with their brand image and that the incomplete payment processing feature hinders user transactions, causing potential revenue loss.
+  
+- **CodeCrafters LLC** maintains that they delivered a working product within the general parameters set by the contract and that slight design variations should be acceptable in a creative context. They assert that the functionality of the payment integration can be resolved in follow-up updates and that the delivery timeline prioritized primary functions over aesthetic details.
+
+**Current Status:**
+As of August 2023, Tech Innovations has withheld the final payment of $150,000, while CodeCrafters has threatened legal action for breach of contract due to non-payment. The parties are currently engaged in mediation to resolve the dispute, primarily focused on the interpretation of the acceptance criteria and the obligations of both parties moving forward.

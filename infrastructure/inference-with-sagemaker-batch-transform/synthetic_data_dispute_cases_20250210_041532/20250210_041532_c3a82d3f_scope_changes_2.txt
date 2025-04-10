@@ -1,0 +1,29 @@
+Theme: Scope Changes
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes in a Construction Project**
+
+**Parties Involved:**
+1. **XYZ Construction Ltd. (Contractor)** – A mid-sized contractor specializing in commercial building projects.
+2. **ABC Developments, Inc. (Client)** – A real estate development company planning to construct a multi-story office complex.
+
+**Background:**
+In April 2022, ABC Developments, Inc. entered into a contract with XYZ Construction Ltd. for the construction of a new office complex in downtown. The contract specified a fixed price of $2 million, with an agreed-upon project scope including site preparation, foundation work, framing, and basic utilities installation. The completion date was set for December 2022.
+
+**Key Issue: Scope Changes**
+In August 2022, two months into the project, Client representatives met with Contractor personnel to discuss design enhancements for the building’s façade and the addition of two conference rooms on the upper floors. These proposed changes were verbally agreed upon; however, no formal amendment to the contract was executed.
+
+As work progressed, it became clear that the changes would also necessitate alterations to the structural plans and the project timeline. In October 2022, the Contractor submitted a written request for an additional $300,000 to cover the costs associated with the new design and labor. The Contractor also requested an extension of the project timeline by two months.
+
+**Points of Contention:**
+1. **Lack of Formal Amendment:** ABC Developments claims that while they discussed the design changes, they believed those discussions were preliminary and that no final agreement was reached. They argue that the initial contract should remain as is, and refuse to pay the additional $300,000. The Contractor contends that the changes were necessary and that ABC's representatives approved the alterations during the meeting in August.
+
+2. **Scope of Work vs. Change Orders:** The Client insists that changes should have been documented through formal change orders as dictated by the contract. They argue that the Contractor's failure to follow proper protocol invalidates their claim for additional payment.
+
+3. **Project Timeline Delays:** The Contractor argues that the added design work and the need for structural adjustments have caused unavoidable delays, hence the two-month extension request. The Client contends that the Contractor's own mismanagement of the construction process has led to these delays, asserting that their initial plans were sufficient and should have accommodated the work without extensive rework.
+
+4. **Quality of Work and Additional Costs:** During the dispute, the Client raised concerns about the quality of the initial work based on their inspections. They believe that if they must pay for the additional costs associated with the changes, they should not be liable for any perceived deficiencies in the work that they deem should have been avoided.
+
+**Current Status:**
+As of November 2022, negotiations have stalled. Both parties agree to bring in a mediator to resolve the dispute. Meanwhile, construction has been put on hold, risking the completion timeline and incurring additional costs for both parties. The resolution of this dispute will hinge on the interpretation of the original contract, the extent of the initial scope change, and the documentary evidence of approval processes.

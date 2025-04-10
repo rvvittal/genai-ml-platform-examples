@@ -1,0 +1,31 @@
+Theme: Acceptance Criteria
+Case Number: 16
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Acceptance Criteria in a Software Development Project**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - A software development company contracted to build an inventory management system for a retail client.
+2. **BrightRetail Corp.** - A mid-sized retail chain that requires the new system to enhance its operations.
+
+**Background:**
+In March 2022, TechSolutions Inc. and BrightRetail Corp. entered into a contractual agreement for the development of a comprehensive inventory management system. The project included specifications around the functionality, design, and deployment of the software, with a critical focus on acceptance criteria that defined how the final product would be evaluated and accepted.
+
+**Specific Dispute:**
+As the project approached its delivery date in November 2022, BrightRetail Corp. reviewed the software delivery and identified multiple areas they believed did not meet the outlined acceptance criteria. One major contention arose around the functionality of the real-time inventory tracking feature. The acceptance criteria stipulated that the feature should provide updates every five minutes, but TechSolutions implemented a system that only updated every fifteen minutes.
+
+Additionally, BrightRetail alleged that the user interface was not user-friendly, contrary to the agreed-upon visual standards outlined in the contract. They argued the design did not include critical filtering options necessary for their operations and submitted that the software also contained several bugs, which impeded performance.
+
+In response, TechSolutions contended that the fifteen-minute update was a result of performance enhancements intended to prevent system overload during peak hours, thus justifying the adjustment to the criteria. They maintained that the visual standards were interpreted correctly and that filtering options were included under a different section of the contract, which BrightRetail misread. Furthermore, TechSolutions claimed that several bug issues raised by BrightRetail were either minor or previously acknowledged and scheduled for fixes in future updates.
+
+**Key Issues:**
+1. **Interpretation of Acceptance Criteria:** There is a significant disagreement regarding the interpretation of the acceptance criteria defined in the contract. BrightRetail believes TechSolutions failed to deliver a product that meets the outlined specifications, while TechSolutions argues that the changes were necessary and justified.
+
+2. **Functionality vs. Performance:** The conflict between BrightRetail's expectations of real-time updates and TechSolutions' performance-related modifications raises questions about what the acceptance criteria should prioritize—functionality or overall system performance and stability.
+
+3. **Quality Assurance Standards:** There is a differing view on what constitutes an acceptable level of quality and usability. BrightRetail references specific usability metrics that they claim further define acceptance, while TechSolutions focuses on broader usability standards.
+
+4. **Post-Delivery Support:** The contractual obligations regarding post-delivery support and how ongoing issues, such as bug fixes and updates, are to be managed remain points of contention. BrightRetail demands immediate correction of issues, whereas TechSolutions argues for a staggered approach through contractual provisions for future maintenance.
+
+**Conclusion:**
+This dispute highlights critical issues of interpretation, performance against expectations, and quality assurance in software development projects. Both parties are preparing for mediation, with potential implications for project timelines, costs, and business operations.

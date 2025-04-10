@@ -1,0 +1,30 @@
+Theme: Service Level Agreement Violations
+Case Number: 8
+--------------------------------------------------
+
+**Contract Dispute Scenario: Service Level Agreement Violations**
+
+**Parties Involved:**
+- **TechNova Solutions, Inc.** (Provider) - a cloud-based service provider specializing in enterprise software solutions.
+- **Global Finance Corp.** (Client) - a multinational corporation utilizing TechNova's software for financial analysis and reporting.
+
+**Background:**
+In January 2023, TechNova and Global Finance entered into a Service Level Agreement (SLA) that stipulates the expected performance levels of TechNova's cloud service, including uptime guarantees of 99.9%, response times for technical support requests within one hour, and resolutions within 24 hours for critical issues.
+
+**Key Details of the Dispute:**
+By mid-2023, Global Finance experienced several critical service disruptions, during which the promised service levels were not met. The company documented three significant outages: one in April that lasted eight hours, another in June that lasted six hours, and most critically, an incident in August that resulted in ten hours of downtime just before the end of the fiscal quarter when financial reporting was due.
+
+1. **Uptime Violations:**  
+   - TechNova’s SLA specifies a 99.9% uptime guarantee. However, the documented outages resulted in an uptime percentage of approximately 98.5% over the contract period. Global Finance contends that these violations represent a breach of contract and directly affected their operations, leading to delayed reporting to stakeholders.
+
+2. **Response and Resolution Times:**  
+   - During the outages, Global Finance alleges that TechNova failed to meet its SLA stipulation of one-hour response time for critical issues. For instance, during the August outage, Global Finance reported the issue at 2:00 PM but did not receive a substantive response until 4:15 PM, exacerbating the situation. Moreover, resolution for the critical August outage did not occur until 12:00 AM the next day, far exceeding the 24-hour window.
+
+3. **Compensation Clauses:**  
+   - The SLA contains a provision for compensation for service level violations, allowing Global Finance to request credits equivalent to 10% of the monthly service fee for each hour of downtime beyond the SLA limits. Global Finance claims this compensation was inadequately addressed by TechNova, as they received only a 5% credit for the August violation, citing discrepancies in the calculation of downtime from TechNova's side.
+
+4. **Dispute over Communication and Notifications:**  
+   - Global Finance argues that TechNova failed to provide timely notifications about scheduled maintenance that potentially impacted uptime, leading to further operational disruptions. They claim the communication protocol outlined in the SLA was not adhered to, resulting in a lack of information for contingency planning.
+
+**Current Status:**
+As of October 2023, the dispute has escalated, with Global Finance formally notifying TechNova of their intent to pursue legal action for breach of contract unless a satisfactory resolution is reached. TechNova maintains that the downtime was due to unforeseen circumstances and argues that they are entitled to a grace period under the SLA terms. Both parties are currently engaged in preliminary discussions, aiming to negotiate a settlement before engaging in litigation.

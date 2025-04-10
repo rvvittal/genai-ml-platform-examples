@@ -1,0 +1,40 @@
+Theme: Payment Schedule
+Case Number: 8
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Schedule**
+
+**Parties Involved:**
+
+1. **GreenTech Solutions LLC** (Contractor) - A company specializing in renewable energy installations.
+2. **City of Riverton** (Client) - A municipal authority that hired GreenTech Solutions to install solar panels on various public buildings.
+
+**Background:**
+
+In January 2023, GreenTech Solutions and the City of Riverton entered into a contract worth $250,000 for the installation of solar panels on five city-owned buildings. The contract specified a completion period of six months, with payments linked to specific project milestones. According to the terms, the payment schedule was as follows:
+
+- **Initial Payment**: 30% ($75,000) upon signing the contract.
+- **Milestone Payments**: 
+  - 40% ($100,000) after the installation of solar panels on the first two buildings.
+  - 20% ($50,000) after installations are completed on the remaining three buildings.
+  - **Final Payment**: 10% ($25,000) upon project completion, including inspection and approval by city officials.
+
+**Dispute Details:**
+
+As GreenTech commenced the project in February 2023, the weather caused delays which resulted in the first milestone being reached only by the end of May. By this point, the City of Riverton expressed dissatisfaction, stating the delays should have been mitigated and that they intended to withhold the next scheduled payment until the project's timeline was adhered to.
+
+**Key Issues:**
+
+1. **Payment Delays**: The City of Riverton withheld the $100,000 milestone payment, citing that the delay in completing the installations was unacceptable and a breach of contract. They argued that the contractor's planning and resource management were insufficient to meet the timeline, despite the weather-related excuses.
+
+2. **Penalties and Remedies**: GreenTech contended that the delays were beyond their control due to harsh weather conditions in early 2023 that they could not have anticipated. They argued that withholding payment was not supported by the contract, which did not include provisions for liquidated damages or penalties related to adverse weather events.
+
+3. **Quality of Work**: Additionally, the City of Riverton raised concerns about the quality of the installation on the first two buildings, asserting that certain panels were misaligned. GreenTech maintained that the city’s inspection staff had approved the work before they moved on to the remaining buildings, questioning the timing of the city's claims.
+
+4. **Communication and Coordination**: Tensions increased as both parties disagreed on the level of communication throughout the project. The city asserted that GreenTech failed to submit required progress reports on time, whereas GreenTech claimed they submitted updates, but communication fell through city channels.
+
+**Resolution Attempts:**
+
+Since May, attempts at mediation had been made but yielded no agreement. With the contract already extended by a month and the project still incomplete, both parties found themselves at an impasse. GreenTech is seeking legal recourse to enforce the payment and resume work, while the City of Riverton explores options to terminate the contract and seek alternative bidders.
+
+The dispute centers around the interpretation of contract clauses concerning delays, payment schedules, and quality assurance, raising questions about responsibility and accountability in performance under unforeseen circumstances.

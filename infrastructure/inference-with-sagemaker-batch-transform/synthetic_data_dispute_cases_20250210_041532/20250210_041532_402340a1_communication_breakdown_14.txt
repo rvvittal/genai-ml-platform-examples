@@ -1,0 +1,33 @@
+Theme: Communication Breakdown
+Case Number: 14
+--------------------------------------------------
+
+### Contract Dispute Scenario: Communication Breakdown
+
+**Parties Involved:**
+1. **GreenTech Solutions, Inc. (GreenTech)**: A sustainable technology company specializing in energy-efficient devices.
+2. **BuildRight Construction Co. (BuildRight)**: A construction firm hired by GreenTech to implement a new solar panel installation project for a commercial building.
+
+**Background:**
+In April 2023, GreenTech and BuildRight entered into a contract for the installation of solar panels at GreenTech’s headquarters in Springfield. The contract outlined specific timelines, project milestones, payment schedules, and communication protocols between the two parties. The total project cost was estimated at $500,000, with a completion deadline set for December 2023.
+
+**Key Issues:**
+
+1. **Project Timeline Discrepancies:**
+   - The contract stipulated that BuildRight would provide GreenTech with a detailed project timeline within two weeks of signing the contract. This timeline was reportedly not delivered until mid-July, causing an initial delay in the project’s commencement.
+   - BuildRight claims that delays were due to miscommunication regarding the project specifications and additional requirements that GreenTech allegedly failed to clarify in a timely fashion.
+
+2. **Change Orders and Approvals:**
+   - Throughout July and August, BuildRight submitted several change orders for additional materials and labor, citing unforeseen structural issues with the building. However, GreenTech contends that these issues were known and documented prior to signing the contract and argues that BuildRight should have anticipated these challenges.
+   - GreenTech also claims that communication surrounding these change orders was inconsistent, resulting in several months of back-and-forth with insufficient clarity about what was needed and when.
+
+3. **Payment Delays:**
+   - Payment was scheduled at various milestones as outlined in the contract. GreenTech has failed to make the third payment installment following disputes over the adequacy of work performed. They argue that the design modifications have led to work that does not meet the standards promised by BuildRight.
+   - Conversely, BuildRight contends that the delays in payment were disruptive and led to a cash flow crisis, resulting in further delays in project timelines. They allege that GreenTech’s communication delays on approving change orders prevented them from making timely updates to the project schedule.
+
+**Communication Protocol Failures:**
+   - The contract included a clause requiring bi-weekly meetings to review progress and address issues. However, these meetings often did not occur due to scheduling conflicts, with notes and follow-ups frequently lost or miscommunicated.
+   - As points of contention mounted, GreenTech expressed frustration over BuildRight's failure to provide timely updates on project status, while BuildRight accused GreenTech of being inaccessible for decision-making discussions.
+
+**Conclusion:**
+The relationship between GreenTech and BuildRight has soured, with both sides blaming each other for the breakdown in communication that has led to delays, cost overruns, and ultimately, a project that is far behind schedule. The parties are currently considering mediation to resolve the contract disputes and avoid further legal complications.

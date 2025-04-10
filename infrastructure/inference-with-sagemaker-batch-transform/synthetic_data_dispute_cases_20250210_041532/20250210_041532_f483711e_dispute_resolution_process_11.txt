@@ -1,0 +1,29 @@
+Theme: Dispute Resolution Process
+Case Number: 11
+--------------------------------------------------
+
+**Scenario: Contract Dispute Between TechSolutions Inc. and GreenBuild Corp.**
+
+**Background:**
+TechSolutions Inc., a software development firm, entered into a contract with GreenBuild Corp., a construction company, for the development of a custom project management software suite. The contract stipulated that the software would be delivered in three phases over six months, with payments contingent upon successful completion and client approval of each phase.
+
+**Parties Involved:**
+1. **TechSolutions Inc.:** Responsible for designing, developing, and delivering the software solutions according to the agreed timeline and specifications.
+2. **GreenBuild Corp.:** The client who requires the software to enhance its project management processes.
+
+**Key Issues:**
+1. **Project Delays:** TechSolutions failed to deliver Phase 1 of the software on the agreed timeline by two months. As a result, GreenBuild argued that this delay has caused project disruption, impacting their operational efficiency and leading to potential financial losses.
+
+2. **Software Specifications:** GreenBuild contends that the delivered software did not meet the original specifications outlined in the contract. For instance, key functionalities such as real-time progress tracking and budget management features were either missing or malfunctioning, leading GreenBuild to reject the software during the testing phase.
+
+3. **Payment Disputes:** Following the delays and issues with software quality, GreenBuild refused to release the next installment payment of $50,000 due for Phase 1, citing TechSolutions’ non-compliance with the contract terms. TechSolutions, in turn, claims that they are entitled to this payment regardless due to a clause in the contract that allows for partial payment based on completion percentages.
+
+4. **Dispute Resolution Process:** The contract includes a detailed dispute resolution clause requiring both parties to engage in mediation before pursuing legal action. However, negotiations have stalled; TechSolutions believes they are being unfairly treated and that GreenBuild's demands to alter the specifications and providing a full refund are unreasonable.
+
+**Resolution Attempts:**
+- **Mediation Stalemate:** In a formal mediation session mandated by the contract, both parties presented their cases. However, TechSolutions maintained that they should not be held liable for delays, arguing that GreenBuild's changing specifications and additional requests during development caused the holdups. GreenBuild insisted on receiving compensatory measures for the delay and non-functionality, further complicating negotiations.
+
+- **Potential Litigation:** After multiple unsuccessful mediation attempts, both parties are increasingly considering litigation to resolve the dispute. TechSolutions is prepared to assert its rights to payment for work performed, while GreenBuild may seek damages for delayed implementation and non-compliance.
+
+**Conclusion:**
+The dispute revolves primarily around delays in delivery, the scope of software functionalities, and the associated financial implications tied to payment obligations. The resolution hinges on both parties' willingness to compromise and adhere to the contractual framework established for dispute resolution, while the looming shadow of litigation serves as a constant reminder of the stakes involved.

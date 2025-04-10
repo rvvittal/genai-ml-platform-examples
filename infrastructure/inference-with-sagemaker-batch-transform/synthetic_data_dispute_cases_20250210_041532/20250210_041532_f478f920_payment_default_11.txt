@@ -1,0 +1,28 @@
+Theme: Payment Default
+Case Number: 11
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Payment Default Between TechCorp and Waverly Solutions**
+
+**Background:**
+TechCorp, a software development company based in San Francisco, and Waverly Solutions, a mid-sized IT consulting firm in Chicago, entered into a contract on March 1, 2023. The contract stipulated that TechCorp would provide a customized software platform to Waverly for $500,000, with payment scheduled in three installments: $200,000 upon signing, $150,000 upon completion of the initial software prototype, and the final $150,000 upon project delivery.
+
+**Parties Involved:**
+1. **TechCorp** (Plaintiff): Represented by John Harris, CEO.
+2. **Waverly Solutions** (Defendant): Represented by Sarah Thompson, CFO.
+
+**Key Issues:**
+1. **Payment Default**: Waverly Solutions has failed to make the second payment of $150,000 due on May 25, 2023, despite TechCorp delivering the software prototype on time on April 30, 2023.
+
+2. **Quality of Deliverables**: Waverly argues that the prototype delivered by TechCorp did not meet the agreed-upon specifications, claiming that numerous functionalities were either missing or did not work as intended. They assert that this failure materially breached the contract and justifies withholding the installment payment.
+
+3. **Breach of Contract Notification**: TechCorp contends that Waverly did not properly notify them of any deficiencies in the prototype within the timeframe outlined in the contract. Per the contract clause 4.b, Waverly was required to provide written notice of any defects within ten business days of delivery, and TechCorp insists that Waverly’s failure to do so means they have waived their right to withhold payment.
+
+4. **Communication Breakdown**: During the project, there were several points where TechCorp sought feedback from Waverly on the prototype. TechCorp claims they continuously communicated with Waverly through emails and scheduled meetings, and no significant issues were raised until the payment due date approached. Waverly, however, argues that they were waiting for more development iterations before formally addressing the issues, indicating that the collaborations continued to be fraught with misunderstandings.
+
+5. **Impact on Project Timeline**: In response to the payment default, TechCorp halted further development on the software platform, which Waverly argues is disproportionate and puts the entire project at risk. TechCorp, on the other hand, maintains that without the second payment, they cannot continue to allocate resources towards a project that is not financially secured.
+
+**Potential Resolutions:**
+Both parties appear open to mediation but have significant disagreements. TechCorp seeks immediate payment of the overdue amount with interest, while Waverly seeks a renegotiation of the contract terms to address the alleged quality issues before making any further payments. 
+
+This contract dispute exemplifies the complexities of project management in the tech industry, particularly regarding deliverables, communication, and payment obligations. The resolution of this dispute will hinge on contractual interpretations, the evidence of communication, and the validity of claimed defects.

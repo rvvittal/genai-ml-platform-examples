@@ -1,0 +1,39 @@
+Theme: Intellectual Property Rights
+Case Number: 1
+--------------------------------------------------
+
+**Contract Dispute Scenario: Intellectual Property Rights between Tech Innovates, Inc. and Creative Designs LLC**
+
+**Parties Involved:**
+
+- **Tech Innovates, Inc. (TI)**: A start-up technology firm based in Silicon Valley, specializing in developing cutting-edge software solutions for augmented reality (AR).
+  
+- **Creative Designs LLC (CD)**: A well-established design firm located in New York City, known for its innovative graphic designs and user interfaces.
+
+**Background:**
+
+In April 2022, TI and CD entered into a collaborative agreement to develop a new AR application that would integrate CI's proprietary design elements with TI's technology. The contract stipulated that TI would handle software development while CD would provide the visual designs and user experience architecture. 
+
+The agreement included a clause specifying that all intellectual property (IP) developed during the project would be jointly owned by both parties, with clear terms on how they would share profits from future sales.
+
+**Key Issues:**
+
+1. **Ownership of the Developed IP:**
+   
+   The central point of contention emerged when TI claimed ownership of the software code developed for the AR application. TI argued that because it had largely adapted existing code frameworks and utilized its in-house technology, it had the right to retain full ownership of the software IP developed exclusively by its team, despite the collaborative nature of the project.
+
+   In contrast, CD contended that the project explicitly called for shared ownership of all intellectual property, including software, as per the contract. CD asserted that many design elements created by their team were integral to the software's functionality and user experience, warranting joint ownership.
+
+2. **Profit Sharing Disagreements:**
+   
+   Following the application’s successful launch in January 2023, disputes arose over profit-sharing arrangements. TI reported that the AR application generated significantly higher revenue than anticipated, but TI withheld payment, claiming that the term "joint ownership" only pertained to intellectual property and did not necessarily extend to profit-sharing.
+
+   CD challenged this interpretation, asserting that the contract clearly indicated a profit-sharing model based on the jointly owned IP. CD demanded an accounting of all revenues generated and insisted on receiving its share, as specified in the agreement.
+
+3. **Scope of Work and Additional Features:**
+   
+   Another area of contention involved the development of additional features that were added midway through the project. TI incorporated new functionalities that TI argued were necessary for market competitiveness. CD claimed these features were not part of the original scope and that TI had unilaterally expanded the project without consulting CD, thus complicating the IP ownership further.
+
+**Conclusion:**
+
+The dispute escalated when CD filed a formal complaint seeking mediation, accusing TI of breaching the collaborative contract. TI countered by asserting that CD failed to deliver adequate design assets on time, contributing to its decision-making process. Both parties agreed to pursue mediation to resolve their differences over the ownership of the IP, profit-sharing, and the scope of the collaborative efforts, seeking a solution that protects their respective business interests while fostering future innovation.

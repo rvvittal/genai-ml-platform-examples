@@ -1,0 +1,33 @@
+Theme: Notice Requirements
+Case Number: 18
+--------------------------------------------------
+
+### Contract Dispute Scenario: Notice Requirements
+
+**Parties Involved:**
+
+1. **GreenTech Solutions, Inc.** - A renewable energy firm based in California that provides solar panel installation services.
+2. **SunRise Constructions LLC** - A general contractor specializing in commercial building projects, also located in California.
+
+**Background:**
+
+In January 2023, GreenTech Solutions entered into a contract with SunRise Constructions for the installation of solar panels on a newly constructed office building in San Jose. The contract stipulated a completion date of June 1, 2023, and included specific clauses regarding notice requirements for delays and change orders.
+
+**Key Issues:**
+
+**1. Notice of Delay:**
+   - On March 15, 2023, heavy rainfall halted construction activities, impacting the timeline for the solar panel installation. The contract specified that either party must provide written notice of delays within 48 hours of the event leading to the delay.
+   - GreenTech Solutions submitted an email to SunRise documenting the weather conditions and their potential impact on the schedule, but the email was sent 60 hours after the incident occurred. SunRise claimed that this late notification contravened the notice requirement outlined in the contract.
+
+**2. Change Orders:**
+   - On April 10, 2023, GreenTech requested a change order due to unexpected site conditions that required additional structural support for the solar panels. The contract required any change orders to be submitted formally and acknowledged by both parties within seven days of identifying the need for modifications.
+   - SunRise acknowledged receipt of the change order but failed to respond for two weeks. SunRise claimed that without proper notice of the delay caused by the weather, the original timelines still applied, and thus, they were not obliged to consider the change order until GreenTech provided a formal notice regarding the delay.
+
+**3. Dispute Over Damages:**
+   - GreenTech argued that SunRise's failure to respond to the change order delayed their progress significantly and caused financial losses due to increased material costs and labor overages. They claimed $75,000 in damages resulting from the delay in approval for the change order.
+   - SunRise contended that due to the lack of timely notice from GreenTech regarding the weather delay, they were within their rights to maintain the original project timeline and were not liable for any additional costs incurred by GreenTech.
+
+**Resolution Disputes:**
+The parties attempted mediation in September 2023, but the outcomes did not lead to a resolution. Both sides maintained that the other party had breached the contract, focusing particularly on the notice requirements crucial to safeguarding their respective interests in the agreement. GreenTech argued for an equitable understanding of timely notice considering the storm’s unpredictable nature, while SunRise emphasized the need for adherence to strict formalities to avoid ambiguity in contractual obligations.
+
+As of October 2023, both parties are preparing for potential litigation, focusing on the interpretation of notice requirements in the context of construction contracts.

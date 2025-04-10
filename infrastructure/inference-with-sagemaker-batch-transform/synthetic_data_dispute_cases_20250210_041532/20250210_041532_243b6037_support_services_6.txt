@@ -1,0 +1,36 @@
+Theme: Support Services
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: ABC Tech Support vs. XYZ Corporation**
+
+**Parties Involved:**
+- **ABC Tech Support (ABC)**: A company specializing in IT support services, contracted to provide technical assistance, software installation, and troubleshooting for client systems.
+- **XYZ Corporation (XYZ)**: A mid-sized manufacturing firm that relies heavily on their IT systems for operations and has a scheduled contract with ABC for ongoing support.
+
+**Contract Overview:**
+The contract between ABC and XYZ was signed on January 10, 2022. It stipulates that ABC will provide 24/7 technical support, as well as regular software updates and maintenance for all IT infrastructure owned by XYZ. The contract runs for 24 months with a monthly payment of $5,000 to ABC.
+
+**Dispute Overview:**
+The dispute arises from a failure to meet key performance indicators (KPIs) outlined in the contract, particularly regarding response times to urgent support requests and the timely installation of software updates.
+
+**Key Issues:**
+
+1. **Response Times to Support Requests**:
+   - XYZ alleges that ABC has consistently failed to meet the stipulated response time of 2 hours for critical support requests, regularly taking 4 to 6 hours to provide assistance. This has resulted in operational downtimes that XYZ claims have caused significant financial losses, estimated at $20,000 over six months.
+   - ABC acknowledges that challenges have occurred due to staffing shortages but argues that they communicated these issues and that the delays were not material breaches of the contract.
+
+2. **Software Updates**:
+   - According to the contract, ABC is required to implement software updates at least quarterly. XYZ claims that since the start of the contract, only one update has been implemented, with several critical updates being delayed. XYZ argues that this failure has exposed their systems to security vulnerabilities and regulatory compliance risks.
+   - ABC contends that some updates were non-essential and that the delays were caused by XYZ’s failure to provide necessary access to their systems and a lack of cooperation.
+
+3. **Contractual Penalties and Remedies**:
+   - XYZ is seeking to invoke a penalty clause within the contract that allows for a 25% reduction in fees for failure to meet service levels. XYZ feels this is justified based on their experiences, and they have formally requested a reduction for the past six months.
+   - ABC, on the other hand, argues that the penalties were not triggered due to the planned improvements in their service, claiming they have been working diligently to address any shortcomings and that a penalty is unwarranted.
+
+4. **Communication and Documentation**:
+   - The dispute also includes allegations regarding inadequate communication from ABC to XYZ regarding service issues and progress updates. XYZ claims there were missed meetings and unreturned emails, which compounded their frustrations.
+   - Meanwhile, ABC contends that they provided regular progress reports, and their records indicate that all meetings were held as scheduled.
+
+**Conclusion:**
+The ongoing dispute primarily centers around performance metrics and communication failures, with potential financial ramifications for both parties. With negotiations stalled, both companies are considering mediation to resolve the disagreement, which, if left unresolved, could lead to litigation.

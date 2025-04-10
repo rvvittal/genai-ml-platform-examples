@@ -1,0 +1,37 @@
+Theme: Documentation Requirements
+Case Number: 18
+--------------------------------------------------
+
+**Contract Dispute Scenario: Documentation Requirements**
+
+**Parties Involved:**
+
+1. **Tech Solutions Inc.** - A software development company contracted to deliver a custom project management tool for **BuildSmart Homes**, a residential construction company.
+   
+2. **BuildSmart Homes** - A medium-sized construction firm specializing in home building and renovations, committed to using modern software solutions for project management.
+
+**Background:**
+
+In January 2023, BuildSmart Homes and Tech Solutions Inc. signed a contract whereby Tech Solutions would develop a custom project management tool within six months. The contract specified that certain documentation, including project requirements, design specifications, testing protocols, and a user manual, must be provided at key milestones to ensure transparency and proper alignment with BuildSmart’s needs. The contract stipulated that failure to provide the required documentation would result in a 10% penalty on the final payment.
+
+**Issue:**
+
+By June 2023, Tech Solutions delivered a functional project management tool, but BuildSmart Homes raised concerns regarding the lack of comprehensive documentation. They claimed that the project requirements document was incomplete and that the user manual was poorly written, lacking clarity and essential details necessary for training their staff.
+
+**Key Points of Contention:**
+
+1. **Incompleteness of Documentation:**
+   - **Tech Solutions Inc.** argued that the documentation provided met the minimum contractual requirements. They contended that the project requirements document was approved after several revisions and that the user manual was developed based on the initial prototypes.
+   - **BuildSmart Homes**, on the other hand, maintained that the project requirements document missed critical elements unique to their operational needs, particularly related to reporting capabilities and integration with existing platforms. They insisted that the lack of adequate training materials hindered staff adoption and operational efficiency.
+
+2. **Timing and Communication:**
+   - Tech Solutions claimed that BuildSmart failed to communicate specific needs during the development process and that changes requested after the completion of the initial product were out of scope. They maintained that they followed the contract by requesting feedback at designated intervals.
+   - BuildSmart countered that they had raised concerns about documentation deficiencies during the project’s progress, but Tech Solutions did not address these issues adequately. They felt that Tech Solutions had failed to provide sufficient opportunities for feedback prior to the completion of the tool.
+
+3. **Financial Implications:**
+   - Given the alleged deficiencies in documentation and failure to meet contract terms, BuildSmart withheld 10% of the final payment in accordance with the penalty clause. They asserted that the penalty was justified due to insufficient documentation impacting their business operations.
+   - Tech Solutions countered that withholding payment constituted a breach of contract on BuildSmart’s part, claiming that the penalties should only apply if the documentation was found to be wholly non-compliant, which they argued it was not.
+
+**Resolution Attempts:**
+
+Both parties attempted mediation to resolve their differences, but initial discussions faltered as each held firm on their interpretations of the documentation obligations. The prospect of legal action loomed as the deadline for full payment approached, with each party prepared to defend their position in court should mediation fail.

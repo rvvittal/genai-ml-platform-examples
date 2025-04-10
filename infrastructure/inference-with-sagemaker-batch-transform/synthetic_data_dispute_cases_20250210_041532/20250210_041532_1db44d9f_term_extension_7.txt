@@ -1,0 +1,35 @@
+Theme: Term Extension
+Case Number: 7
+--------------------------------------------------
+
+**Contract Dispute Scenario: Term Extension**
+
+**Parties Involved:**  
+- **ABC Construction Ltd.** (Contractor)  
+- **XYZ Real Estate Group** (Owner)
+
+**Background:**  
+In October 2021, ABC Construction Ltd. (hereinafter referred to as "ABC") entered into a contract with XYZ Real Estate Group (hereinafter referred to as "XYZ") for the construction of a commercial office building located in downtown Metropolis. The original contract stipulated a completion date of December 15, 2022, with a total project budget of $2 million.
+
+**Dispute Details:**  
+In July 2022, unforeseen challenges arose regarding the foundation work when ABC encountered substantial geological issues that were not identified during the preliminary site evaluation. As a result, ABC formally requested a contract amendment to extend the project deadline by six months, citing the geological concerns and the need for additional testing. This extension request specifically aimed to move the projected completion date to June 15, 2023.
+
+After several meetings and discussions, XYZ agreed to a 6-month extension, contingent on a revised payment structure that included penalties for further delays. However, the amendment was never formalized due to miscommunications between the project managers and a lack of follow-up from both parties. 
+
+By December 2022, as the original completion date approached and significant foundation work was still pending, XYZ expressed dissatisfaction with ABC's progress and insisted that ABC would not be entitled to the proposed extension due to the lack of a signed amendment. The owner cited contractual language that required written consent for any changes to the terms, including timelines.
+
+**Key Issues of Contention:**  
+1. **Validity of the Extension Request:**  
+   ABC argues that because XYZ verbally agreed to the extension and acknowledged the circumstances affecting construction, they are entitled to an extension. XYZ contends that without a signed amendment, the original contract remains enforceable, and no extension is valid.
+
+2. **Impact of Unforeseen Circumstances:**  
+   ABC maintains that the geological issues constituted a force majeure event that clearly qualifies for contract extension, while XYZ insists that ABC was negligent in obtaining proper geological assessments before commencing work, thus eliminating their right to request an extension based on unforeseen circumstances.
+
+3. **Penalties for Delay:**  
+   As per the original contract, substantial penalties for delays can be imposed. XYZ threatens to impose these penalties as ABC has already surpassed the original timeline. ABC, on the other hand, argues that they should be exempt from penalties given the circumstances and the verbal agreement regarding extension.
+
+4. **Written Documentation Requirements:**  
+   The core of the dispute lies in the contractual obligations around written amendments. XYZ emphasizes the importance of this requirement, indicating that they cannot legally enforce the extended terms without written documentation. In contrast, ABC claims that the intent and agreements made during discussions should supersede this requirement given the circumstances.
+
+**Resolution Attempts:**  
+Both parties have since engaged in mediation sessions but have failed to reach a mutually agreeable resolution. As of now, ABC is considering legal action for breach of contract, while XYZ prepares to assert their claims for damages due to project delays and additional expenses incurred.

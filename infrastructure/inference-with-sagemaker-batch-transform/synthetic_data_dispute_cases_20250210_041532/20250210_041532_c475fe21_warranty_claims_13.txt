@@ -1,0 +1,34 @@
+Theme: Warranty Claims
+Case Number: 13
+--------------------------------------------------
+
+**Scenario: Contract Dispute Over Warranty Claims in Construction**
+
+**Parties Involved:**
+1. **ABC Construction, Inc.** (Contractor) – A general contractor hired for a commercial building project.
+2. **XYZ Real Estate Group** (Client) – The owner of the commercial property for which the construction was undertaken.
+
+**Background:**
+In January 2022, ABC Construction signed a contract with XYZ Real Estate Group to build a mid-rise office building in downtown. The contract stipulated a completion date of December 2022 and included a two-year warranty on all construction work, covering issues related to structural integrity, material defects, and workmanship. 
+
+The total contract value was $2.5 million, with a 10% retention to ensure final completion and quality assurance. Upon completion, XYZ Real Estate conducted a walk-through and found no visible concerns, leading to final payment in January 2023.
+
+**Key Issues:**
+In July 2023, six months after the warranty period began, XYZ Real Estate Group began experiencing significant water leakage in the ground-floor atrium. This issue prompted an inspection from a third-party building engineer, who attributed the leakage to improper waterproofing and drainage work performed by ABC Construction.
+
+**Dispute Points:**
+
+1. **Nature of the Defect:**
+   - **XYZ Real Estate Group's Position:** They claim that the leakage is a direct result of ABC Construction's failure to adhere to industry standards during the waterproofing process. The engineer's report highlights several areas of concern, suggesting negligence in the installation of the drainage system.
+   - **ABC Construction's Defense:** ABC argues that the leakage is a result of external factors, such as an unprecedented rainstorm that exceeded typical conditions for the area. They contend that the drainage system was compliant with all relevant codes at the time of installation and the subsequent weather conditions could not have been anticipated.
+
+2. **Warranty Interpretation:**
+   - **XYZ Real Estate Group's Claim:** They assert that the leaks fall under the two-year warranty explicitly provided for construction defects, thus requiring ABC to rectify the problem at no additional cost.
+   - **ABC Construction’s Counterclaim:** They argue that the warranty does not cover issues arising from "acts of God" or extraordinary weather events. ABC maintains that their responsibility is limited, and they are not liable for conditions beyond their control, casting doubt on the extent of the warranty coverage in this scenario.
+
+3. **Timeliness of the Claim:**
+   - **XYZ Real Estate Group's Timeline:** The client reported the issue promptly upon discovery, framing their request for warranty repair as timely and valid.
+   - **ABC Construction's Argument:** They contest that the delay in informing them of the problem and the time taken to initiate the engineering assessment constitutes a waiver of the warranty claim. ABC argues that their investigation was hampered by the delayed reporting and that timely notification was essential for a reasonable assessment and repair.
+
+**Conclusion:**
+Both parties are now entrenched in a dispute. XYZ Real Estate Group is demanding immediate remediation under the warranty, while ABC Construction is contesting both the nature of the defect and the applicability of the warranty. Negotiations have stalled, and both parties are considering arbitration to resolve the issues amicably. The outcome hinges on the interpretation of warranty obligations, the nature of the defect, and the implications of external events on construction liabilities.

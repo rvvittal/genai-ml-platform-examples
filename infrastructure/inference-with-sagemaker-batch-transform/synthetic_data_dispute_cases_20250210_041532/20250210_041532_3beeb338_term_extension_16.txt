@@ -1,0 +1,33 @@
+Theme: Term Extension
+Case Number: 16
+--------------------------------------------------
+
+**Scenario: Contract Dispute over Term Extension between ClearTech Solutions and EcoBuild Inc.**
+
+**Background:**
+ClearTech Solutions, a software development company, entered into a two-year contract with EcoBuild Inc., a construction firm specializing in sustainable building practices. The contract, signed in March 2021, focused on developing a project management software tailored for EcoBuild's operations. The contract outlined specific deliverables, timelines, and a fixed payment schedule totaling $200,000.
+
+**Parties Involved:**
+1. **ClearTech Solutions (Contractor)**: Responsible for delivering the project management software.
+2. **EcoBuild Inc. (Client)**: The end-user of the software, seeking to enhance operational efficiency.
+
+**Key Issues:**
+As the contract neared completion in March 2023, both parties experienced significant operational changes prompting a discussion about extending the contract term. The main points of contention surrounding the term extension are as follows:
+
+1. **Deliverable Delays**: 
+   EcoBuild claimed that ClearTech failed to deliver the software's final features on time, resulting in operational delays. The project's original go-live date was set for January 2023, but software bugs reported in December 2022 prompted EcoBuild to request more time for resolution. ClearTech maintained that these issues were communicated and documented, attributing them to EcoBuild's late feedback on initial software prototypes.
+
+2. **Mutual Agreement for Extension**:
+   ClearTech proposed a six-month term extension to the contract, suggesting that they needed more time to address the software's functionality based on EcoBuild's new operational requirements that had evolved over the course of the project. EcoBuild originally agreed to this extension but later rescinded it, citing dissatisfaction with the current product quality and expressing concerns regarding additional costs. 
+
+3. **Financial Implications**:
+   The financial resolution became a central issue when ClearTech insisted on receiving an additional $50,000 to cover the extended work and additional features. EcoBuild contended that the original payment should stand since they believed ClearTech had not met agreed-upon deliverables within the initial term.
+
+4. **Lack of Documentation**:
+   Both parties faced disputes over proper record-keeping. EcoBuild argued that ClearTech did not adequately document the development changes that led to delays, while ClearTech accused EcoBuild of neglecting to maintain records of their feedback cycles. This discrepancy hindered identifying accountability for project delays.
+
+5. **Scope Creep**:
+   EcoBuild raised concerns about what they described as "scope creep" — the continual addition of features outside the original project scope. They insisted that added requirements necessitated a renegotiation of terms, contrary to ClearTech's view that these changes were essential to meet EcoBuild’s evolving needs. ClearTech argued that adjustments to the software did not warrant a complete restructuring of the contract.
+
+**Conclusion:**
+The dispute escalated to involve legal counsel as both companies faced reputational risks; ClearTech feared financial losses while EcoBuild sought alternative software solutions. The lack of a mutually satisfactory resolution to the term extension and associated issues raised questions about future collaborations and potential litigation. Both parties aimed to preserve the relationship but recognized increasingly that a compromise would be necessary to navigate complex contractual expectations and the resulting financial implications.

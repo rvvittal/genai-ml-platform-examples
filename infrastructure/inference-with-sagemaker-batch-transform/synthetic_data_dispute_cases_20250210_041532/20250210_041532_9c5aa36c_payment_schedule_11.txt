@@ -1,0 +1,46 @@
+Theme: Payment Schedule
+Case Number: 11
+--------------------------------------------------
+
+**Contract Dispute Scenario: Payment Schedule Conflict between Tech Solutions Inc. and Alpha Development LLC**
+
+**Background:**
+
+Tech Solutions Inc. (hereafter referred to as "Tech Solutions"), a software development firm based in San Francisco, entered into a contract with Alpha Development LLC (hereafter referred to as "Alpha"), a real estate company in Los Angeles, for a custom property management software system. The contract was signed on May 1, 2023, with a total project cost of $150,000, broken down into five payment milestones.
+
+**Parties Involved:**
+
+1. **Tech Solutions Inc.**  
+   - **Representatives:** Sarah Mitchell (CEO) and Mark Chen (Project Manager)  
+   - **Location:** San Francisco, CA  
+
+2. **Alpha Development LLC**  
+   - **Representatives:** John Roberts (CFO) and Lisa Tran (Project Coordinator)  
+   - **Location:** Los Angeles, CA  
+
+**Payment Schedule:**
+The payment schedule outlined in the contract was as follows:
+
+1. **Initial Deposit (20%):** $30,000 upon contract signing
+2. **Milestone 1 (20%):** $30,000 after the completion of the project prototype
+3. **Milestone 2 (20%):** $30,000 upon delivery of the beta version
+4. **Milestone 3 (20%):** $30,000 after user acceptance testing
+5. **Final Payment (20%):** $30,000 upon completion and delivery of the final product
+
+**Key Issues of Dispute:**
+
+1. **Milestone Completion Claims:**  
+   The crux of the dispute arises from differing interpretations of what constitutes “completion” at various milestones. Tech Solutions claims to have completed the prototype on July 15, 2023, while Alpha argues that additional features and functionalities requested in subsequent meetings were not incorporated by the agreed completion date, making them unwilling to release the payment for Milestone 1.
+
+2. **Communications and Change Orders:**  
+   Tech Solutions asserts that the changes requested by Alpha were communicated informally and were considered enhancements rather than alterations to the scope of work. Alpha counters that major adjustments to the project should have been documented as change orders, thus affecting the timeline and payment schedule.
+
+3. **Payment Delay Impact:**  
+   Due to Alpha’s refusal to pay for Milestone 1, Tech Solutions faced cash flow issues, which they claim impeded their ability to progress effectively on the project. They argue that this delay in payment constitutes a breach of contract, leading to further complications in meeting future milestone deadlines.
+
+4. **Legal and Financial Ramifications:**  
+   Both parties have indicated a willingness to pursue legal remedies if the issue is not resolved amicably. Tech Solutions has threatened to halt work on the project until payment is received, whereas Alpha has considered withholding payment for failure to meet the initial contractual commitments.
+
+**Conclusion:**
+
+The dispute centers around the interpretation of completion criteria for milestones, the nature of requested changes, and the financial repercussions of payment delays. Both parties are encouraged to seek negotiation or mediation to resolve the conflict, as prolonged litigation could further hinder the project's success and dissolve the working relationship between Tech Solutions and Alpha.

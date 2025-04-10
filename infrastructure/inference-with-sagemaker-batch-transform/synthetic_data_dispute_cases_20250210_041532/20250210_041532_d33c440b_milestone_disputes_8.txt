@@ -1,0 +1,37 @@
+Theme: Milestone Disputes
+Case Number: 8
+--------------------------------------------------
+
+**Contract Dispute Scenario: Milestone Disputes in Construction Project**
+
+**Parties Involved:**
+1. **PrimeBuild Corp.** (Contractor) – A well-established construction company specializing in commercial buildings.
+2. **Greenfield Developments, LLC** (Client) – A property development firm that has contracted PrimeBuild for the construction of a new office complex.
+
+**Project Overview:**
+In January 2023, PrimeBuild Corp. signed a contract with Greenfield Developments to construct a five-story office building in downtown. The total contract value is $5 million, with payment structured around five milestones tied to the completion of various phases of the project.
+
+**Milestones Defined in the Contract:**
+1. **Milestone 1:** Completion of site preparation – $1 million.
+2. **Milestone 2:** Completion of the foundation – $1 million.
+3. **Milestone 3:** Framing completion – $1 million.
+4. **Milestone 4:** Exterior finishing – $1 million.
+5. **Milestone 5:** Final inspection and handover – $1 million.
+
+**Key Issues:**
+The root of the dispute emerged after PrimeBuild Corp. submitted a request for payment related to **Milestone 3** (Framing completion) on July 15, 2023, claiming that the framing work was completed ahead of schedule and met all specifications outlined in the contract. Greenfield Developments, however, withheld payment, citing issues related to quality and alleged incomplete work as justifications.
+
+**Main Points of Contention:**
+
+1. **Quality of Work:** Greenfield claimed that the framing was not finished to industry standards, highlighting specific areas that allegedly did not meet the architectural plans and structural integrity guidelines. In contrast, PrimeBuild asserted that all construction adhered to the required standards and passed all inspections conducted by third-party inspectors.
+
+2. **Documentation and Inspection:** Greenfield pointed out that PrimeBuild failed to submit adequate documentation, such as engineering certifications and inspection reports, before requesting payment for Milestone 3. PrimeBuild contended that they had fulfilled all required documentation obligations, providing necessary records per the project schedule.
+
+3. **Delays and Extensions:** Greenfield raised concerns about a delay in the project timeline due to the purported quality issues, which pushed subsequent milestones back by several weeks. PrimeBuild argued that the delays were caused by unanticipated weather events and design changes requested by Greenfield itself after the milestone had commenced.
+
+4. **Payment Conditions:** According to the contract, Greenfield was obligated to release payments within 14 days of completion and approval of each milestone. Greenfield's refusal to make payment for Milestone 3 has also delayed payment for Milestone 4, creating cash flow issues for PrimeBuild, which relies on a steady income stream for ongoing subcontractor payments.
+
+5. **Remediation:** Both parties have attempted to negotiate a resolution, with Greenfield proposing additional inspections and remedies at PrimeBuild’s cost, which the contractor disputes as being unnecessary and unwarranted.
+
+**Conclusion:**
+The ongoing dispute has escalated to potential legal action, with both parties seeking resolution through mediation before pursuing litigation. The heart of the conflict lies in differing interpretations of contract compliance, the adequacy of work, and the conditions surrounding milestone payments, creating a scenario fraught with complexity and potential ramifications for both companies’ operations.

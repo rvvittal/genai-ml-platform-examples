@@ -1,0 +1,34 @@
+Theme: Acceptance Criteria
+Case Number: 17
+--------------------------------------------------
+
+**Contract Dispute Scenario: Acceptance Criteria in Software Development**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - A software development firm contracted to create a custom project management tool for a mid-sized client, **BuildRight Corp.**.
+2. **BuildRight Corp.** - A construction company looking to streamline its project management processes.
+
+**Background:**
+In March 2023, TechSolutions Inc. entered into a contract with BuildRight Corp. for the development of a project management tool, which was to be completed over the course of six months. The contract included detailed specifications and acceptance criteria outlining the minimum functionality, performance metrics, usability standards, and specific user interface requirements.
+
+The acceptance criteria stipulated that the software must facilitate task assignment, progress tracking, and resource allocation, and that it should be free of critical bugs upon delivery. It also mandated that the application would support a minimum of 100 concurrent users and provide real-time data analytics on project status.
+
+**Dispute Details:**
+In September 2023, after numerous delays, TechSolutions delivered the software to BuildRight, claiming that it met the defined acceptance criteria. However, BuildRight asserted that the program failed to fulfill critical requirements, prompting them to refuse acceptance of the delivery.
+
+**Key Issues in Dispute:**
+
+1. **Functionality Disputes:**
+   - BuildRight identified that the software lacked a critical function—the ability to generate detailed progress reports on demand. They argued that this was essential for effective project management and explicitly stated in the acceptance criteria.
+   - TechSolutions contended that while the software generated basic reports, the requirement for detailed report generation was ambiguous and not clearly defined in the contract, labeling it as a "nice-to-have" rather than a necessity.
+
+2. **Performance Issues:**
+   - Despite fulfilling the requirement for 100 concurrent users during testing, performance at max capacity was another point of contention. BuildRight experienced significant lag when more than 70 users were active simultaneously.
+   - TechSolutions maintained that the tool operated within acceptable performance metrics during their testing phases and that intermittent issues were due to external factors like BuildRight’s network limitations. They argued that performance-related issues fell outside of their scope of responsibility.
+
+3. **Usability Standards:**
+   - BuildRight raised concerns about the user interface, which many employees found counterintuitive and difficult to navigate. They insisted that several elements did not comply with best practices in user experience design as implied in the acceptance criteria.
+   - The TechSolutions team disputed this claim, stating that usability was subjective and the designed interface was informed by the preliminary requirements review and stakeholder feedback obtained before development commenced.
+
+**Conclusion:**
+The impasse resulted in BuildRight claiming breach of contract, seeking damages for the lost time and additional costs incurred due to the delays, while TechSolutions argued they fulfilled the contract in good faith. The disagreement over the interpretation of acceptance criteria and the extent of both parties’ obligations has led to negotiations for a potential settlement, involving mediation to bring clarity—potentially requiring renegotiated acceptance terms and a roadmap for possible feature updates to the software.

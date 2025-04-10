@@ -1,0 +1,28 @@
+Theme: Price Escalation
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: Price Escalation in Construction**
+
+**Parties Involved:**
+1. **ConstructCo Ltd.** - A mid-sized construction firm based in Austin, Texas.
+2. **GreenBuild Enterprises** - A renewable energy development company focusing on sustainable solutions.
+
+**Background:**
+In March 2022, ConstructCo Ltd. entered into a contract with GreenBuild Enterprises to build a solar panel installation at a new eco-friendly housing development in Elgin, Texas. The total contract value was set at $2 million, with work expected to commence in May 2022 and be completed by November 2022. The contract included a fixed price clause but also some terms for price escalation due to market volatility in raw materials.
+
+**Key Issues:**
+As construction began, the global price of steel and polysilicon (essential materials for solar installations) surged dramatically due to international supply chain disruptions, particularly exacerbated by the ongoing effects of the COVID-19 pandemic and geopolitical tensions. By August 2022, ConstructCo Ltd. found itself facing a cost increase of 35% in materials, which they attempted to mitigate through careful project management. However, by September 2022, estimates showed a further 20% increase looming on the horizon.
+
+In October 2022, with construction well underway but the costs escalating uncontrollably, ConstructCo Ltd. formally notified GreenBuild Enterprises of the need to adjust the contract price due to "substantial increases in material costs" as specified in the price escalation clause. They requested a supplemental agreement to increase the total contract value by an additional $600,000, essentially shifting the financial burden resulting from increased material costs onto GreenBuild.
+
+GreenBuild, however, contested the price increase, stating that the price escalation clause was only applicable if the increases exceeded 20% relative to the agreed-upon contract price, and they argued that the clause stipulated that notice must be given within 30 days of the material price rise. They contended that since the initial price hikes had been communicated in August but not acted upon within the stipulated timeframe, ConstructCo Ltd. effectively forfeited their right to adjust the contract price.
+
+**Points of Contention:**
+1. **Interpretation of the Price Escalation Clause**: The nuanced language in the price escalation clause has led to differing interpretations about when and how increases need to be notified and whether the stipulations regarding percentage increases were met.
+   
+2. **Timeliness of Communication**: GreenBuild claims that ConstructCo did not provide timely notice for the increases as required, potentially invalidating their request for price adjustments.
+
+3. **Economic Necessity vs. Contractual Obligation**: ConstructCo argues that unforeseen circumstances outside their control necessitated the price adjustment, while GreenBuild maintains that contractual obligations must be upheld irrespective of market conditions, which could set a dangerous precedent for future contracts.
+
+The dispute escalated into formal arbitration as both parties were unable to reach an amicable resolution, each standing firm on their interpretations. This case will likely hinge on the legal interpretation of the contract terms and the circumstances surrounding the abrupt increase in costs attributable to external factors.

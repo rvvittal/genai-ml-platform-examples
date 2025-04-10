@@ -1,0 +1,28 @@
+Theme: Reporting Requirements
+Case Number: 10
+--------------------------------------------------
+
+**Contract Dispute Scenario: Reporting Requirements**
+
+**Parties Involved:**
+1. **TechCorp Solutions, Inc.** - A software development firm contracted to create a custom project management tool for clients.
+2. **BuildIt Construction, LLC** - A medium-sized construction company that needs the tool to streamline project tracking and reporting.
+
+**Background:**
+In January 2023, TechCorp Solutions and BuildIt Construction entered into a contractual agreement where TechCorp would deliver a custom project management tool. The contract specified several key deliverables, including periodic progress reports, a user acceptance testing (UAT) phase, and detailed documentation outlining the software's functionalities.
+
+**Key Issues:**
+1. **Timeliness of Reports:**
+   The contract stipulated that TechCorp was required to provide monthly progress reports, detailing development status, challenges encountered, and milestones achieved. By June 2023, BuildIt Construction noted that TechCorp had missed two consecutive reporting deadlines, with the latest update provided over four weeks late. BuildIt argues that these delays have hindered their ability to manage their internal staffing and project planning.
+
+2. **Content of Reports:**
+   When reports were delivered, BuildIt found them lacking in detail. The contract required reports to include performance metrics, a breakdown of completed tasks versus planned tasks, and any outstanding issues. However, the provided reports contained little more than vague status updates without substantive data. BuildIt contends that this lack of clarity has prevented them from making informed decisions about the project timeline and resource allocation.
+
+3. **Impact on Project Timeline:**
+   BuildIt Construction claims that the lack of timely and adequate reporting has delayed their ability to launch the software. They argue that without the necessary insights from TechCorp, they have been unable to prepare their team for UAT effectively. Consequently, BuildIt wants to hold TechCorp accountable for potential financial losses due to project delays—specifically, the opportunity cost of not having the software operational for a scheduled project.
+
+4. **Dispute Resolution and Contractual Language:**
+   The contract includes a dispute resolution clause that requires both parties to engage in mediation before pursuing litigation. However, BuildIt contends that the issue of reporting requirements is significant enough to warrant a breach of contract claim. TechCorp, on the other hand, argues that they have fulfilled their obligations and that the construction firm’s expectations for additional reporting detail were not clearly outlined in the original agreement.
+
+**Conclusion:**
+As the dispute escalates, both parties are seeking resolution to avoid further operational disruptions. TechCorp wants to renegotiate the terms of the remaining contract deliverables, while BuildIt aims to secure damages or a revised timeline that would allow them to meet their internal deadlines. Mediation is set to occur next month, but the parties remain divided on the interpretation of the reporting requirement expectations, which threatens their ongoing business relationship.

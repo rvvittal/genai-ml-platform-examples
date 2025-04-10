@@ -1,0 +1,29 @@
+Theme: Amendment Procedures
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: Amendment Procedures**
+
+**Parties Involved:**
+1. **TechSolutions Inc.** - A software development company based in San Francisco, specializing in custom enterprise applications.
+2. **Global Retailers LLC** - A large retail chain based in New York City, that contracted TechSolutions to develop an inventory management system.
+
+**Background:**
+In January 2023, TechSolutions and Global Retailers entered into a contract worth $500,000 for the development of a custom inventory management software. The contract included an amendment clause outlining the procedures for making changes to the scope of work. According to Section 7 of the contract, any amendments must be documented in writing, agreed upon by both parties, and signed by authorized representatives. 
+
+**Key Issues:**
+
+1. **Verbal Agreement vs. Written Amendment:**
+   In March 2023, Global Retailers' project manager, Sarah, and TechSolutions' lead developer, Mark, had a verbal discussion regarding additional features that Global Retailers wanted to implement, such as real-time inventory tracking and integration with their existing ERP system. Sarah expressed urgency, believing these features would significantly enhance the software's functionality before its projected launch date in June. Mark indicated that TechSolutions would begin work on these adjustments but failed to secure a written amendment.
+
+2. **Timeline and Deliverables:**
+   By mid-April, TechSolutions began development on the agreed-upon additional features without a formally signed amendment. However, due to the increased complexity of integrating the new features, the timeline for project completion was affected. By May, it became clear that the completion date would be pushed back by two months, now targeting an August 2023 release. Global Retailers argued that the timeline was unacceptable, claiming they had been misled by the verbal assurances regarding prompt delivery.
+
+3. **Disagreement on Cost Implications:**
+   In June, TechSolutions sent a revised budget to Global Retailers reflecting additional costs incurred from the unexpected complexity of the requested features. Global Retailers countered that the original contract did not include provisions for cost overruns unless explicitly agreed in writing. They contended that since there was no formal amendment, they should not be liable for any additional costs. TechSolutions asserted that the nature of the additional features justified the increase in costs, and that the verbal agreement constituted a mutual understanding.
+
+4. **Lack of Clarity around Authorizations:**
+   Additionally, Global Retailers pointed to the fact that Mark was not an authorized signatory for such amendments as per their internal policies. Sarah insisted that his involvement in discussions should suffice for agreement, but Global Retailers held that the contractual language clearly stated that amendments required signatures from designated representatives only.
+
+**Conclusion:**
+The dispute escalated, leading both parties to a legal standstill. TechSolutions argued for entitlement to the increased costs and extended timeline based on the verbal agreement, while Global Retailers maintained that without a signed amendment, they were bound only by the original contract terms. The situation left both parties contemplating mediation or potential litigation, highlighting a critical need for clarity in amendment procedures and communication between parties in contractual agreements.

@@ -1,0 +1,30 @@
+Theme: Warranty Claims
+Case Number: 10
+--------------------------------------------------
+
+**Contract Dispute Scenario: Warranty Claims Involving ABC Manufacturing and XYZ Electronics**
+
+**Parties Involved:**
+1. **ABC Manufacturing**: A company specializing in the production of high-quality electronic components, most notably resistors and capacitors. ABC Manufacturing offers a limited five-year warranty on its products.
+   
+2. **XYZ Electronics**: An established small electronic devices manufacturer that relies on components from ABC Manufacturing for its products. XYZ Electronics has been a loyal customer of ABC for over eight years and has purchased components worth over $500,000 annually.
+
+**Background:**
+In January 2021, XYZ Electronics placed an order for 50,000 resistors and 25,000 capacitors from ABC Manufacturing. The order included a reference to the five-year warranty covering defects in material and workmanship. In October 2022, XYZ Electronics began receiving customer complaints regarding the performance of the resistors, citing issues with electrical reliability, leading to device failures in several products. 
+
+On November 15, 2022, XYZ Electronics submitted a warranty claim to ABC Manufacturing, detailing the issues and providing evidence of the failures. XYZ requested replacement parts and sought compensation for the defective components, referencing the warranty terms.
+
+**Key Issues:**
+
+1. **Extent of Defectiveness**: ABC Manufacturing disputes the assertion that the resistors are defective. They argue that previous quality control assessments showed the products met required specifications. ABC claims that the issues XYZ encountered are due to improper handling or installation by their production staff.
+
+2. **Timeliness of the Claim**: ABC asserts that XYZ Electronics failed to notify them of the issue within a reasonable time frame, as stipulated in the warranty agreement. They argue that it took too long for XYZ to identify the defect and submit the claim, which resulted in difficulties for the manufacturer in validating the problem.
+
+3. **Compensation Limitations**: ABC Manufacturing argues that even if a defect is found, the warranty covers only direct replacements and does not extend to loss of revenue or additional costs incurred by XYZ due to product failures. XYZ, however, contends that the warranty should encompass broader compensation, including lost sales and reputational damage.
+
+4. **Dispute Over Repair Procedures**: ABC has seen XYZ attempt to repair the defective components in-house rather than allowing ABC to handle returns. ABC claims this voids the warranty coverage, whereas XYZ believes that the warranty terms do not specifically prohibit them from attempting repairs. 
+
+5. **Future purchases and relationship impact**: Due to the dispute, XYZ Electronics is considering the impact on its future business dealings with XYZ. They contemplate switching to another supplier for components if the issue is not resolved satisfactorily, which could significantly affect ABC's revenue.
+
+**Conclusion:**
+As both parties remain entrenched in their positions, mediation has been suggested but not yet pursued. The dispute revolves around whether the resistors are indeed defective, the timeliness and procedures of the warranty claim, and the interpretation of compensation limitations. The resolution of these issues will significantly impact their future business relationship and contracts.

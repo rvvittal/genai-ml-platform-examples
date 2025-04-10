@@ -1,0 +1,32 @@
+Theme: Dispute Resolution Process
+Case Number: 18
+--------------------------------------------------
+
+**Contract Dispute Scenario: EcoBuild Contract Dispute**
+
+**Parties Involved:**
+1. **EcoBuild Construction LLC (Claimant)**: A mid-sized construction company specializing in sustainable building practices.
+2. **GreenSpace Developers Inc. (Respondent)**: A property development firm that focuses on residential and commercial projects.
+
+**Background:**
+In January 2022, EcoBuild Construction and GreenSpace Developers entered into a contractual agreement for the construction of EcoResidences, a sustainable housing project comprising 50 units. The contract included specific requirements for using environmentally friendly materials, meeting certain energy efficiency standards, and adhering to a project timeline of 12 months.
+
+**Dispute Overview:**
+By October 2022, EcoBuild alleged that GreenSpace Developers had breached the contract due to a series of non-payments, delays in providing necessary project specifications and materials, and failure to facilitate timely inspections. In contrast, GreenSpace claimed that EcoBuild had failed to follow specific architectural guidelines, which they alleged resulted in significant delays and potential violations of local building codes.
+
+**Key Issues of Contention:**
+
+1. **Payment Delays:**
+   EcoBuild asserts that GreenSpace has failed to make three scheduled payments totaling $150,000, which were due upon the completion of specific milestones. EcoBuild argues that these delays have not only put a financial strain on their operations but have also contributed to project delays. GreenSpace counters that they withheld payments because EcoBuild did not meet certain quality standards and deadlines, specifically pointing to late delivery of eco-friendly materials.
+
+2. **Project Timeline and Delays:**
+   EcoBuild claims that delays in obtaining project specifications and information from GreenSpace, including necessary approvals and permits, hindered their ability to keep to the agreed schedule. They emphasize that these delays were not due to their performance. GreenSpace, however, maintains that the delays have primarily stemmed from EcoBuild's alleged failure to adhere to the architectural guidelines, which necessitated repeated revisions and consultations.
+
+3. **Quality and Compliance Concerns:**
+   GreenSpace has raised concerns regarding EcoBuild's choice of construction materials that purportedly do not comply with the agreed-upon sustainable standards, risking the project’s eligibility for green certifications. They have documented instances where supplied materials did not meet specified criteria. EcoBuild refutes these claims, asserting that the materials supplied were within acceptable parameters and could be substantiated with documentation if necessary.
+
+4. **Dispute Resolution Process:**
+   The contract included a clause stipulating that all disputes must be resolved through mediation before any legal action could be initiated. EcoBuild expressed a willingness to mediate the issues at hand, seeking resolution through an independent mediator while maintaining that GreenSpace must fulfill their payment obligations first. GreenSpace, on the other hand, is hesitant and insists on addressing compliance and quality-related concerns before any discussion of payments can take place.
+
+**Conclusion:**
+The parties stand at a crossroads, with EcoBuild advocating for prompt payment and project reassurance, while GreenSpace seeks compliance and quality before proceeding. With mediation stipulated in the contract, both parties must navigate these complex issues to find a mutually agreeable resolution, or risk prolonging the dispute with potential legal implications.

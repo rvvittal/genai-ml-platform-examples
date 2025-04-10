@@ -1,0 +1,26 @@
+Theme: Warranty Claims
+Case Number: 20
+--------------------------------------------------
+
+**Contract Dispute Scenario: Warranty Claims**
+
+**Parties Involved:**
+1. **SunTech Solar Solutions, Inc. (Plaintiff)** - A renewable energy company based in California, specializing in the manufacturing and installation of solar panels.
+2. **GreenHome Builders, LLC (Defendant)** - A construction company based in Arizona that develops residential properties and integrates renewable energy solutions, including solar panels, into their homes for clients.
+
+**Background:**
+In January 2022, SunTech entered into a contractual agreement with GreenHome to supply and install solar panel systems for three residential properties located in Phoenix, Arizona. The contract included a standard warranty clause providing coverage for any manufacturing defects for a period of 25 years alongside a performance warranty promising at least 80% efficiency over that time.
+
+On January 15, 2023, after the installations, the homeowners reported significant performance issues with the solar systems, alleging that the panels were producing only 60% of the expected energy output. Following a site inspection carried out by SunTech on February 10, 2023, it was revealed that several panels were malfunctioning due to a manufacturing defect.
+
+**Key Issues of Contention:**
+1. **Warranty Coverage:** A major point of contention arises from the interpretation of the warranty terms. SunTech claims that the warranty clearly covers manufacturing defects and performance issues, obligating them to either repair or replace the defective panels at no cost. GreenHome, however, argues that the warranty is ambiguous regarding who is responsible for inspections and the documentation process required to file a warranty claim, stating they were not made aware of the necessary steps during installation.
+
+2. **Timeliness of Claims:** GreenHome filed a warranty claim on March 1, 2023. SunTech, however, contends that GreenHome delayed the claim unnecessarily, causing further damages due to prolonged inefficiencies, indicating that repairs should have been initiated as soon as the issues were reported by the homeowners. SunTech argues that such delays may void the terms of the warranty under specific conditions cited in their contract.
+
+3. **Compliance with Installation Guidelines:** SunTech also raises concerns regarding GreenHome's adherence to installation guidelines. They claim that improper installation techniques or maintenance by GreenHome may have contributed to the malfunctioning panels. GreenHome disputes this assertion, maintaining that their installation process was executed as per SunTech's specifications and insisting that any defects should be covered under the warranty.
+
+4. **Damages and Remedies:** GreenHome is seeking damages for the costs incurred during the inspection and temporary repairs made prior to SunTech’s claims acceptance. They are also raising concerns about reputational damage as these performance issues have led to complaints from homeowners, impacting their future business prospects. SunTech, conversely, is claiming the right to remedy the defect and minimize their potential liability, emphasizing that their warranty obligations only arise once proper notification and compliance have been observed.
+
+**Conclusion:**
+The dispute has escalated into a legal confrontation, with both parties arguing over warranty obligations, the impact of alleged delays, compliance issues, and the resulting damages. Mediation has been proposed but has yet to occur, leaving the matter unresolved.

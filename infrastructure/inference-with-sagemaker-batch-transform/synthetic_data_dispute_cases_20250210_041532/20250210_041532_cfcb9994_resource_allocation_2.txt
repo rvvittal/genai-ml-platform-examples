@@ -1,0 +1,35 @@
+Theme: Resource Allocation
+Case Number: 2
+--------------------------------------------------
+
+**Contract Dispute Scenario: Resource Allocation**
+
+**Parties Involved:**
+
+1. **TechBuild Solutions Inc.** (Plaintiff) - A mid-sized construction technology firm specializing in building software for contractors.
+2. **Platinum Construction Group** (Defendant) - A large construction company involved in multiple commercial projects across the region.
+
+**Background:**
+
+In January 2023, TechBuild Solutions Inc. entered into a contractual agreement with Platinum Construction Group to provide a customized project management software solution for a $1.5 million fee. The contract stipulated a series of deliverables, including software development milestones, user training, and ongoing support.
+
+**Key Issues in Dispute:**
+
+1. **Resource Allocation Discrepancies:**
+   TechBuild claims that Platinum Construction has not provided adequate resources as outlined in the contract. Specifically, TechBuild expected Platinum to allocate a dedicated team of construction professionals to collaborate on the software design to ensure that the product accurately meets practical use-case scenarios. However, Platinum has only delivered part-time consultants who were already engaged in other projects, leading to delays in development.
+
+2. **Impact on Project Timelines:**
+   Due to the insufficient allocation of resources by Platinum, TechBuild alleges that the originally agreed-upon timeline for software delivery has been severely impacted. The original timeline proposed a six-month development period, but TechBuild now estimates that an additional three months will be needed to accommodate the lack of input from construction professionals. They argue that this delay requires renegotiation of payments or potential financial penalties on Platinum.
+
+3. **Project Scope Creep:**
+   As the project progressed, TechBuild claims that Platinum has unilaterally expanded the project scope without prior agreement from TechBuild. New features, not included in the initial contract, have been requested, such as advanced analytics tools and mobile integration. TechBuild insists that these changes were not scoped in the original contract and demand additional compensation for the extra development work.
+
+4. **Breach of Agreement:**
+   TechBuild's position centers on the belief that Platinum's actions constitute a breach of contract due to failure to properly allocate resources and adhere to agreed-upon timelines. TechBuild is seeking financial compensation for the delays and additional resources required. Conversely, Platinum argues that TechBuild is not delivering on its commitments, failing to produce a functional prototype by the initial deadline, which justifies their reluctance to allocate more resources.
+
+5. **Dispute Resolution Clause:**
+   The contract contains a dispute resolution clause that mandates mediation before any litigation. TechBuild is prepared to initiate this process, while Platinum has expressed skepticism about the mediation's effectiveness given the substantial disagreements on resource commitments.
+
+**Conclusion:**
+
+The conflict between TechBuild Solutions Inc. and Platinum Construction Group revolves around resource allocation discrepancies, project delays, scope alterations, and breach of contract allegations. Both parties are entrenched in their positions, leading to a growing rift that could escalate into litigation if mediation fails to address their concerns adequately.

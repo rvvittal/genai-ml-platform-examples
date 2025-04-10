@@ -1,0 +1,33 @@
+Theme: Performance Issues
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Performance Issues**
+
+**Parties Involved:**
+1. **Tech Solutions Inc.** (Client) – A mid-sized software development firm specializing in custom applications for small businesses.
+2. **CodeBuilders LLC** (Vendor) – An IT consulting firm contracted to develop a new project management tool for Tech Solutions.
+
+**Background:**
+In January 2023, Tech Solutions entered into a contract with CodeBuilders for the development of a project management tool, with a budget of $250,000 and a timeline of six months for completion. The contract stipulated clear milestones for deliverables, including a functional prototype within three months, a beta version within five months, and a final release by June 30, 2023. Additionally, the agreement included performance clauses related to software quality, functionality, and user experience.
+
+**Key Issues in Dispute:**
+
+1. **Failure to Meet Milestones:**
+   By April 2023, CodeBuilders failed to deliver the functional prototype on time, citing internal staffing issues and unexpected technical challenges. As a result, the prototype was not delivered until May 15, 2023, which was over six weeks late. This delay has significant implications: Tech Solutions had planned marketing campaigns and had already signed contracts with clients who were depending on the tool's timely release.
+
+2. **Quality of Deliverables:**
+   Upon reviewing the delivered prototype, Tech Solutions identified several performance issues. The software exhibited frequent bugs, slow loading times, and lacked key functionalities that were explicitly mentioned in the contract. Tech Solutions documented these deficiencies and formally notified CodeBuilders of their concerns. However, CodeBuilders' response was deemed insufficient, addressing only 60% of the listed issues within the allotted time frame.
+
+3. **Client Collaboration and Communication Breakdown:**
+   An additional point of contention emerged regarding the communication between Tech Solutions and CodeBuilders. Tech Solutions contends that CodeBuilders did not adhere to the weekly progress update meetings outlined in the contract, leading to further misunderstandings about project expectations. CodeBuilders argues that Tech Solutions was unresponsive to requests for feedback and clarification, thereby contributing to the delays and performance issues.
+
+4. **Financial Impact:**
+   Tech Solutions claims that due to the delays and performance issues, they have incurred financial losses, including costs associated with rescheduling marketing efforts and lost revenue from potential clients. They are seeking compensation, asserting that CodeBuilders is liable for the breach of contract provisions relating to timely delivery and functional quality of the software.
+
+**Outcome Sought:**
+Tech Solutions is seeking a resolution through mediation, aiming for either:
+- A partial refund of the contract amount totaling $75,000 due to the late delivery and performance issues, or
+- An extension of the development timeline without additional charges, coupled with a commitment from CodeBuilders to rectify the identified issues within a specified timeframe.
+
+CodeBuilders, on the other hand, is willing to offer a timeline extension but contests the claim for a refund, arguing that the software is usable and that Tech Solutions' demands exceeded contracted requirements. The parties now face the challenge of negotiating a settlement to avoid escalation to litigation.

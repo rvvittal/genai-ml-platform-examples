@@ -1,0 +1,27 @@
+Theme: Renewal Terms
+Case Number: 3
+--------------------------------------------------
+
+**Contract Dispute Scenario: Renewal Terms Between ABC Technologies and XYZ Solutions**
+
+**Parties Involved:**
+- **ABC Technologies**: A software development company, based in San Francisco, specializing in custom enterprise solutions.
+- **XYZ Solutions**: A consulting firm that provides IT services and solutions, based in Austin, Texas.
+
+**Background:**
+In January 2021, ABC Technologies and XYZ Solutions entered into a three-year contract where ABC agreed to provide software development services to enhance XYZ's product offerings. The contract included a clause for renewal upon expiration, provided that either party gave written notice at least 90 days before the contract's end date. The contract also stipulated that the renewal terms would be negotiated based on the prevailing market conditions at the time of renewal.
+
+**Dispute Overview:**
+As of October 2023, the contract is set to expire in January 2024. In July 2023, a representative from XYZ Solutions verbally indicated to ABC Technologies that they were interested in renewing the contract. However, ABC Technologies claims they never received formal written notice until late September 2023, just 60 days before the expiration.
+
+**Key Issues:**
+1. **Written Notice Requirement**: ABC Technologies contends that XYZ Solutions failed to adhere to the contract's requirement for written notice. According to ABC’s interpretation, the 90-day notice period is non-negotiable, and failing to provide it invalidates any renewal discussion. XYZ counters that the verbal communication should be sufficient to initiate renewal discussions, suggesting that ABC's reliance on strict adherence to written notice is unreasonable and detrimental to business relations.
+
+2. **Market Condition Negotiation Clause**: XYZ Solutions argues that the prevailing market conditions have shifted significantly since the original negotiation, which should lead to a reevaluation of service rates. In contrast, ABC Technologies believes the terms and pricing from the original contract should carry over into the renewal, emphasizing their substantial investment in software development that would not remain profitable under the revised market terms proposed by XYZ.
+
+3. **Value of Services**: Additionally, there is contention over the perceived value of ABC's services. XYZ Solutions asserts that they have consistently encountered issues with software glitches which affected their customer satisfaction. They argue that the renewal should come with a reduction in fees due to past performance issues. ABC Technologies disputes this claim, maintaining that the problems were minor and quickly resolved within the agreed-upon support framework.
+
+4. **Potential Breach of Contract**: With the misalignment on the renewal terms and the implications of fee adjustments, both parties hint at potential breaches of contract. ABC states that their concerns over written notice could lead them to refuse the renewal altogether, while XYZ threatens to file a legal complaint for non-performance based on their claims of service deficiencies.
+
+**Conclusion:**
+The dispute hinges on the enforceability of the written notice requirement, interpretations of the market condition clause, differing perspectives on service value, and the threat of breach claims. Both parties are at an impasse, complicating future collaboration and necessitating mediation or potential legal intervention to resolve the conflicts before the contract's expiration.

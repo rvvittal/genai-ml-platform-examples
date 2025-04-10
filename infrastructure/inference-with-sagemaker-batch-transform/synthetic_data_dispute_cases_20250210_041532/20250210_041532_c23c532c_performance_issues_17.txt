@@ -1,0 +1,32 @@
+Theme: Performance Issues
+Case Number: 17
+--------------------------------------------------
+
+**Contract Dispute Scenario: Performance Issues**
+
+**Parties Involved:**
+1. **ABC Construction, Inc.** - A general contractor based in Florida, specializing in residential developments.
+2. **XYZ Homeowners Association (HOA)** - A non-profit organization representing the homeowners of a newly developed residential community in Orlando, Florida.
+
+**Background:**
+In April 2022, ABC Construction entered into a contract with the XYZ Homeowners Association to construct a community clubhouse and recreational facilities. The contract stipulated a completion date of December 31, 2022, with a total project cost of $500,000. Payment was to be made in stages based on project milestones. 
+
+**Key Issues:**
+
+1. **Delayed Project Timeline:**
+   By August 2022, ABC Construction was already behind schedule. The initial completion of the foundation, which was to be finished by June 2022, was only started in late July due to issues the contractor cited as related to supply chain disruptions and labor shortages. The HOA expressed dissatisfaction in several meetings, highlighting the urgency of having the clubhouse ready for community events planned for early 2023.
+
+2. **Quality of Work:**
+   When construction progressed to the framing phase, several HOA members voiced concerns about the quality of workmanship. Cracks in the walls, poorly installed windows, and roofing concerns prompted the HOA board to take action, requesting inspection reports. The contractor's substandard work violated the quality standards outlined in the contract, which specified compliance with local building codes and adherence to industry standards.
+
+3. **Failure to Address Corrective Measures:**
+   In November 2022, following multiple complaints, the HOA formally notified ABC Construction of its dissatisfaction and demanded corrective measures within 30 days. The contractor partially addressed these concerns, but the HOA claimed that many issues remained uncorrected by the December deadline. 
+
+4. **Breach of Contract:**
+   As the project continued into 2023 without completion, the HOA argued that ABC Construction had breached the contract's terms due to both delays and failure to deliver quality work. They asserted that their community had incurred additional expenses in planning events without the clubhouse, including rental fees for alternative venues and increased costs associated with staging events in unsafe environments due to ongoing construction.
+
+5. **Demand for Remedies:**
+   In March 2023, the HOA issued a formal demand for remedies, seeking a partial refund for the unfinished work and costs incurred due to the delays and quality issues. Alternatively, they proposed allowing another contractor to complete the project under the supervision of ABC Construction, with costs deducted from the remaining balance due. ABC Construction denied the claims, arguing that the delays were due to extraordinary circumstances and that any quality issues were addressable without significant expense.
+
+**Dispute Resolution:**
+The parties have reached an impasse and are now preparing for mediation, as stipulated in their contract's dispute resolution clause. The HOA seeks to assert its rights regarding performance issues while ABC Construction prepares to defend its position on the basis of unforeseen external factors affecting the timeline and quality of work. The outcome of the mediation could involve renegotiating payment terms, revisions to the completion timeline, or further legal action depending on the resolution reached.

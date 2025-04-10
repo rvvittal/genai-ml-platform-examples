@@ -1,0 +1,39 @@
+Theme: Force Majeure Claims
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: Force Majeure Claims**
+
+**Parties Involved:**
+
+1. **Global Construction Inc. (GCI)** - A large construction firm based in New York, engaged in various infrastructure projects across the United States.
+
+2. **Eco-Tech Supplies Ltd. (ETSL)** - A supplier of eco-friendly construction materials located in California. 
+
+**Background:**
+
+In January 2022, GCI entered into a contract with ETSL to supply specialized eco-friendly building materials for the construction of a new green office complex in San Francisco, scheduled for completion by December 2022. The contract included a clause outlining a Force Majeure provision, stating that neither party would be liable for delays or damages resulting from events beyond their control, such as natural disasters, pandemics, or government actions.
+
+**Scenario Details:**
+
+In March 2022, California experienced a historic series of wildfires, exacerbated by an unusually severe drought. The fires not only disrupted ETSL’s manufacturing operations but also affected transportation networks, making it impossible for ETSL to deliver the materials on time. They formally invoked the Force Majeure clause in their contract with GCI, citing the wildfires and subsequent supply chain disruptions as the primary reasons for the delays.
+
+However, GCI contends that the invocation of Force Majeure was not justified for several reasons:
+
+1. **Timing of Notification:** GCI claims that ETSL failed to notify them of the Force Majeure situation within the required seven-day window outlined in the contract, which they argue invalidates ETSL's claim.
+
+2. **Mitigation of Damages:** GCI asserts that ETSL did not take reasonable steps to mitigate the delays. They argue that ETSL could have sourced materials from alternative suppliers, some located outside California, that were unaffected by the wildfires. GCI maintains that the lack of diligence demonstrates that ETSL’s claim is not warranted under the Force Majeure provision.
+
+3. **Financial Impact:** GCI has expressed concerns about the financial implications of the project delay, including potential penalties from their client and lost revenue. They argue that ETSL’s failure to fulfill their obligations in a timely manner constitutes a breach of contract that warrants compensation for damages.
+
+**Key Issues:**
+
+- **Valid Invocation of Force Majeure:** The primary contention lies in whether ETSL’s claim about the impact of the wildfires qualifies as a genuine force majeure event as outlined in their contract, particularly given the legal interpretations of “natural disasters” and how they relate to supply chain disruptions.
+
+- **Mitigation Requirements:** The expectations regarding each party’s obligation to mitigate damages in the face of unforeseen circumstances will be thoroughly examined. GCI’s argument focuses on ETSL’s perceived lack of effort in seeking alternative solutions.
+
+- **Communication and Notification:** The adequacy and timeliness of communication related to the invocation of the Force Majeure clause will be scrutinized, especially in determining if GCI suffered damages due to any delays in notification.
+
+- **Potential Remedies:** If GCI successfully argues that ETSL’s Force Majeure claim is invalid, they are seeking damages that include lost revenue and additional costs incurred from finding alternative suppliers and expediting material deliveries. Conversely, ETSL is prepared to defend their position by illustrating the non-negligible impact of the wildfires and challenging the amount of claimed damages.
+
+The dispute is currently set for arbitration, with both parties aiming to reach a resolution without escalating to litigation.

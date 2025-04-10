@@ -1,0 +1,28 @@
+Theme: Acceptance Criteria
+Case Number: 13
+--------------------------------------------------
+
+**Contract Dispute Scenario: Acceptance Criteria in Software Development Project**
+
+**Parties Involved:**
+1. **Tech Solutions Inc. (TSI)** - A software development company hired to create a custom inventory management system for a retail chain, QuickMart.
+2. **QuickMart Retail Group (QRG)** - A chain of grocery stores that specializes in local products and requires an upgraded inventory management system to streamline operations.
+
+**Background:**
+In March 2023, TSI entered into a contract with QRG to design, develop, and implement an inventory management system. The agreed contract outlined deliverables, timelines, payment schedules, and critical acceptance criteria to ensure the software met QRG's needs. Acceptance criteria centered around functionality, user interface, performance standards, and integration with existing systems. The project was scheduled for completion by August 2023.
+
+**Timeline of Events:**
+- **Project Kick-off:** TSI began development in April 2023, regularly updating QRG on progress.
+- **Demo Phase:** In July 2023, TSI delivered an initial demonstration of the system. QRG highlighted several issues, particularly with usability and integration with point-of-sale systems during the demo.
+
+**Main Points of Contention:**
+1. **Misalignment on Acceptance Criteria:** QRG claimed the acceptance criteria were inadequately defined in the contract, particularly regarding user experience (UX) and performance metrics. They argued that the criteria listed did not provide measurable benchmarks for system speed and ease of use, resulting in a significant mismatch between expectations and the delivered product.
+
+2. **Functionality Shortcomings:** TSI contended that they met the minimum functional requirements outlined in the contract. However, QRG insisted that certain critical features, such as real-time inventory tracking and reporting capabilities, were either poorly implemented or missing. They argued that these functionalities were implied expectations and vital to their operations.
+
+3. **Integration Issues:** A significant sticking point was the integration of TSI’s software with QRG’s existing point-of-sale systems. TSI maintained that the integration requirement was not explicitly detailed in the acceptance criteria. In contrast, QRG insisted that seamless integration was a non-negotiable part of the project, as it was crucial for their operational efficiency.
+
+4. **Payment Delays:** Due to the disputes over the acceptance criteria and functionality, QRG withheld the final payment of $150,000, claiming that TSI had not met the project deliverables. TSI responded that the payment was unjustifiably delayed and threatened to pursue legal action for breach of contract unless paid.
+
+**Conclusion:**
+The dispute escalated to potential legal action, with both parties preparing to present their cases regarding the adequacy of the acceptance criteria and the functionality delivered. TSI wanted recognition for the work completed, whereas QRG sought a resolution that included further development work at no additional cost to meet their operational needs. Mediation was suggested as a preliminary step to address the differences, hoping to clarify the acceptance criteria and define the necessary steps for project completion.

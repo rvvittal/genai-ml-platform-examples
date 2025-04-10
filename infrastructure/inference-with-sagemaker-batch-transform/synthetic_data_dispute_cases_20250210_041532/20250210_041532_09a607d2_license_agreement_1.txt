@@ -1,0 +1,29 @@
+Theme: License Agreement
+Case Number: 1
+--------------------------------------------------
+
+**Contract Dispute Scenario: License Agreement**
+
+**Parties Involved:**  
+1. **TechNova Inc.** – A software development company specializing in project management tools.
+2. **BiblioSoft LLC** – A small tech firm that develops educational applications for schools and libraries.
+
+**Background:**  
+On January 1, 2022, TechNova Inc. entered into a License Agreement with BiblioSoft LLC, granting BiblioSoft exclusive rights to use TechNova's proprietary project management software, “ProjectEdge,” for a five-year term. The agreement stipulated a licensing fee of $50,000 per year, with the first payment due upon signing. It also included clauses on software updates, support, and termination rights if certain conditions were not met.
+
+**Key Issues in Dispute:**
+
+1. **Non-Payment of Licensing Fees:**  
+BiblioSoft claims it made the first payment but has not seen a confirmation from TechNova. However, TechNova alleges that no payments have been received, and therefore, BiblioSoft is currently in breach of contract. BiblioSoft claims it has bank statements showing the payment was processed but failed to attach them to any formal communication.
+
+2. **Software Updates and Support:**  
+The License Agreement clearly states that TechNova would provide regular updates to “ProjectEdge” at no additional charge. BiblioSoft argues that since signing the contract, there have been three major updates that they did not receive due to inadequate support from TechNova. They contend that these delays have significantly impacted their ability to deliver their application effectively to clients.
+
+3. **Restrictions on Use:**  
+TechNova included a clause in the License Agreement that limited BiblioSoft from using the software for any purpose outside of its intended educational applications. However, BiblioSoft argues that this restriction is overly broad and has hampered their ability to innovate. They have attempted to create a derivative product designed for corporate training, which TechNova claims violates the agreement. This has led to a significant creative and financial strain on BiblioSoft.
+
+4. **Dispute Resolution Clause:**  
+The agreement has a mandatory arbitration clause, stipulating that any disputes must be resolved before an arbitrator rather than in court. BiblioSoft is resistant to arbitration, citing concerns over confidentiality and costs. They argue that the issue should be heard in a public forum to ensure transparency, particularly regarding their claims on TechNova's inability to provide adequate support.
+
+**Conclusion:**  
+The dispute has escalated, with BiblioSoft threatening to terminate the agreement based on TechNova's failure to meet support obligations and their contention around payment issues. TechNova, in turn, claims BiblioSoft's breaches concerning payment and restrictions on product use entitle them to damages. Both companies have signaled willingness to negotiate, but fundamental trust issues and interpretation of the license terms remain significant barriers to resolution. As they approach the contract's second anniversary with escalating tensions, both parties face potential financial and reputational repercussions.

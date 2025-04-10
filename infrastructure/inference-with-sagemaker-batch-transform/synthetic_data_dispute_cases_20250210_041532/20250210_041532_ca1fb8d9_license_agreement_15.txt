@@ -1,0 +1,29 @@
+Theme: License Agreement
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: License Agreement between TechWave Corp. and SoftSolutions LLC**
+
+**Parties Involved:**
+- **Licensor:** TechWave Corp., a software development company based in San Francisco, California.
+- **Licensee:** SoftSolutions LLC, an IT services company located in Austin, Texas.
+
+**Background:**
+In January 2022, TechWave Corp. and SoftSolutions LLC entered into a License Agreement granting SoftSolutions non-exclusive rights to use TechWave’s proprietary project management software, "ProjectMaster Pro," for five years. The agreement stipulated that SoftSolutions would pay an upfront fee of $250,000 and ongoing royalties of 5% on net sales derived from any product featuring the licensed software.
+
+**Key Issues:**
+
+1. **Scope of Licensed Use:**
+   The License Agreement specifically allowed SoftSolutions to integrate ProjectMaster Pro into their own project management offerings. However, in June 2023, TechWave discovered that SoftSolutions was using the licensed software to create a competing standalone product, "SmartProject Suite," that closely resembles ProjectMaster Pro but with additional features. TechWave asserts that this use exceeds the license's intended scope, which permits integration only—not independent distribution.
+
+2. **Royalty Payments:**
+   Another point of contention arose over royalty payments. SoftSolutions reported $1.5 million in net sales for the first two quarters of 2023. However, they calculated royalties based on an adjusted net sales figure that did not include sales from services indirectly utilizing ProjectMaster Pro. TechWave claims that SoftSolutions is intentionally minimizing royalty payments by misinterpreting the net sales calculation method outlined in the agreement. They argue that royalties should be based on total sales including all services and products that leverage the licensed software, not merely those identified as directly featuring it.
+
+3. **Termination Clauses:**
+   The License Agreement includes a clause stating that either party may terminate the agreement with 30 days’ written notice if the other party breaches any material term. TechWave sent a notice of termination in July 2023, citing SoftSolutions' unauthorized use of the software and subsequent failure to pay the full royalties. SoftSolutions responded, arguing that TechWave’s claims lack merit and that they are in compliance with the licensing terms, thus contesting the validity of the termination notice.
+
+4. **Confidentiality Breach:**
+   Following the termination notice, TechWave learned that SoftSolutions had shared proprietary information about ProjectMaster Pro with a competitor. TechWave now wants to pursue additional damages for this alleged breach of confidentiality, stating that it has harmed their market position and undermined the value of their intellectual property.
+
+**Conclusion:**
+The dispute centers around the scope of the License Agreement, specifically regarding the nature of licensed use, proper calculation of royalty payments, the validity of the termination notice, and alleged breaches of confidentiality. Both parties are considering mediation but are also preparing for potential litigation, as their disagreements threaten to escalate further, impacting their business operations and reputations in a competitive market.

@@ -1,0 +1,32 @@
+Theme: Insurance Coverage
+Case Number: 7
+--------------------------------------------------
+
+**Contract Dispute Scenario: Insurance Coverage**
+
+**Background:**
+In January 2022, ABC Construction, a mid-sized contracting firm based in Denver, signed a comprehensive insurance policy with SecureSure Insurance Company. The policy was meant to cover various risks, including general liability, property damage, and workers' compensation, with a total coverage limit of $5 million. In February 2023, ABC Construction was hired to renovate a high-rise building in downtown Denver. Mid-project, an incident occurred that involved significant property damage, leading to a claim worth $1.2 million.
+
+**Parties Involved:**
+- **ABC Construction** (Plaintiff): The contracting firm that is seeking coverage for the incurred damages.
+- **SecureSure Insurance Company** (Defendant): The insurer providing the coverage, which is refusing to pay the claim.
+
+**Key Issues:**
+
+1. **Exclusion of Coverage:**
+   SecureSure Insurance denied ABC Construction's claim on the grounds that the incident fell under a specific exclusion clause in the policy regarding damage caused by "negligent work practices." The insurer contends that the cause of the damage was due to improper scaffolding installation by ABC Construction, which constitutes a breach of the policy terms.
+
+2. **Interpretation of Negligence:**
+   ABC Construction argues that the scaffolding installation was conducted following industry standards and that any alleged negligence was not the root cause of the damage. The firm asserts that the incident was primarily due to an unexpected structural failure of the building, which was not a result of their work. Both parties extend their positions to the meaning of "negligence," with the construction firm emphasizing the lack of evidence proving negligence on their part.
+
+3. **Claims Process and Adjustment:**
+   Another contention arises from the claims adjustment process. ABC Construction asserts that SecureSure failed to conduct a timely investigation of the claim. The contract stipulates a 30-day period for investigation, after which liability is to be determined. ABC alleges that SecureSure took over 45 days to respond, causing unnecessary delays and financial strain due to unexpected costs related to damage control and additional repairs.
+
+4. **Concessions and Waivers:**
+   In their defense, SecureSure argues that ABC Construction failed to disclose prior incidents of similar nature in their initial application for coverage—a potential breach of good faith and fair dealing. ABC counters that the insurer was aware of these incidents during the underwriting process, claiming that SecureSure's acceptance of the policy constitutes a waiver of any related claims beforehand.
+
+5. **Impact on Future Business:**
+   ABC Construction points out the significant financial repercussions resulting from the denial. The firm argues that the refusal to honor the claim may lead to potential bankruptcy and loss of reputation, which could irreparably damage their business and livelihoods of their employees.
+
+**Conclusion:**
+The dispute between ABC Construction and SecureSure Insurance centers on the interpretation of the negligence clause, the propriety of the claims adjustment process, and the implications of prior incidents referenced in the application. Both parties are poised for legal resolution, setting the stage for a potential court case if negotiations fail.

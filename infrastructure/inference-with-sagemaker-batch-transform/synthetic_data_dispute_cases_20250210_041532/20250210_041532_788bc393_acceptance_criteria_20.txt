@@ -1,0 +1,34 @@
+Theme: Acceptance Criteria
+Case Number: 20
+--------------------------------------------------
+
+### Scenario: Contract Dispute Over Acceptance Criteria in Software Development 
+
+**Parties Involved:**
+1. **Tech Solutions LLC** – A software development company hired to create a custom project management tool.
+2. **Innovate Corp** – A mid-sized client in the technology sector looking to streamline their project management processes.
+
+**Background:**
+In May 2023, Innovate Corp entered into a contract with Tech Solutions LLC for the development of a tailored project management tool. The contract explicitly stated the requirements, project milestones, deliverables, and acceptance criteria for the application. The acceptance criteria outlined specific functionalities, performance metrics, and user interface standards that the final product should meet before being considered complete.
+
+**Key Issues:**
+By August 2023, Tech Solutions delivered the first version of the software, which included basic features such as task assignment and deadline tracking. However, Innovate Corp rejected this version, claiming it did not meet the acceptance criteria, particularly concerning user interface standards and performance metrics.
+
+**Disputes:**
+
+1. **Ambiguity in Acceptance Criteria:** 
+   Innovate Corp contended that the acceptance criteria clearly defined performance metrics, including a requirement for the software to support at least 100 concurrent users with response times under two seconds. Tech Solutions argued that these metrics were not unequivocally defined in the contract and claimed they interpreted the criteria to mean that performance would be evaluated under different conditions (with fewer concurrent users).
+
+2. **User Interface Standards:**  
+   Innovate Corp was dissatisfied with the overall user experience, including the intuitiveness of the design and accessibility features. They stated that the design did not align with wireframes and mockups approved during the initial design phase. Tech Solutions countered that they had adhered to the latest changes in wireframes communicated through emails, which Innovate Corp had acknowledged. Innovate Corp, however, argued that those emails did not constitute formal agreement and were simply suggestions.
+
+3. **Change Requests:**  
+   Throughout the development process, Innovate Corp made several change requests that Tech Solutions documented but did not include in the formal acceptance criteria. When Innovate Corp insisted these changes were vital requirements, Tech Solutions reiterated that they were change requests and not included in the final iteration scope according to the initial contract.
+
+4. **Communication Breakdown:**  
+   Both parties agreed in the contract to have regular status meetings to discuss progress and address feedback; however, numerous missed meetings and delayed responses strained communication. Innovate Corp accused Tech Solutions of non-responsiveness, while Tech Solutions asserted that Innovate Corp was often indecisive regarding feedback, contributing to delays.
+
+**Outcome Scenario:**
+As a result of the disputes, Innovate Corp has threatened to withhold further payments until the software meets the acceptance criteria. Tech Solutions seeks compensation for the additional work incurred due to change requests and communication issues, arguing that the additional efforts were not budgeted for in the initial contract. Both parties now face potential legal action, with discussions underway to negotiate a resolution and avoid litigation. 
+
+This scenario highlights the critical importance of clear and unambiguous acceptance criteria and effective communication in contract management, particularly in technology development projects.

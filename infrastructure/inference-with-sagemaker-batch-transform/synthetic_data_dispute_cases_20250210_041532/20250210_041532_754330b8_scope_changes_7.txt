@@ -1,0 +1,41 @@
+Theme: Scope Changes
+Case Number: 7
+--------------------------------------------------
+
+**Contract Dispute Scenario: Scope Changes in a Commercial Construction Project**
+
+**Parties Involved:**
+1. **ABC Construction, Inc.** (Contractor) – a mid-sized construction company specializing in commercial properties.
+2. **XYZ Realty Group, LLC** (Client) – a real estate development firm overseeing the completion of a new office building in downtown.
+
+**Project Overview:**
+ABC Construction was contracted on January 15, 2023, to construct a 10-story office building for XYZ Realty Group, with a fixed price of $5 million. The contract specified detailed plans, materials, and a timeline for completion by December 2023.
+
+**Dispute Details:**
+In July 2023, mid-project, XYZ Realty Group proposed several changes to the original plans, including:
+- Expanding the lobby area to include a café.
+- Modifying the design of the upper floors to allow for larger office spaces.
+- Upgrading the materials from standard to premium-grade finishes.
+
+While ABC Construction acknowledged receipt of the proposed modifications, they insisted that any changes required a formal change order, including a reassessment of costs and an adjustment to the timeline.
+
+**Key Issues:**
+
+1. **Formal Change Orders:**
+   - XYZ Realty Group maintained they had verbally discussed these modifications and believed the changes were informal adjustments acceptable under the original contract.
+   - ABC Construction argued that the contract explicitly stipulated a formal change order process, which would require written documentation of any alterations, along with cost implications and time adjustments.
+
+2. **Cost Implications:**
+   - ABC Construction submitted a change order that estimated the additional costs of the adjustments to be $750,000, an increase in both labor and materials due to the higher grade requested.
+   - XYZ Realty Group contested these costs, arguing that they were excessive and suggesting that the modifications should have a much lower cost impact as the contractor was already on site.
+
+3. **Timeline Delays:**
+   - ABC Construction projected that the changes would extend the project timeline by an additional two months, pushing the completion date to February 2024.
+   - XYZ Realty Group expressed concern, emphasizing their need to open for business by January 2024, and insisted that ABC Construction should absorb the delay costs since they perceived the changes as enhancements to the building and not significant alterations.
+
+4. **Quality and Compliance:**
+   - The introduction of premium-grade materials raised compliance issues as certain new materials had to meet local building codes and undergo additional inspections.
+   - XYZ Realty Group was frustrated by what they viewed as unnecessary red tape introduced by ABC Construction, believing that the contractor should verify compliance before bringing forth such concerns.
+
+**Conclusion:**
+The communication breakdown between ABC Construction and XYZ Realty Group led to increasing tensions regarding the financial and technical aspects of the project. Both parties sought resolution via mediation, emphasizing the need for clear acknowledgment of the formal change order process and a reevaluation of cost and schedule implications to avoid escalation into a legal dispute.

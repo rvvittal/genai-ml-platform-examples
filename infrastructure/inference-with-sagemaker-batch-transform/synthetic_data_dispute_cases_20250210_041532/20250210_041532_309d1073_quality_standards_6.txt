@@ -1,0 +1,36 @@
+Theme: Quality Standards
+Case Number: 6
+--------------------------------------------------
+
+**Contract Dispute Scenario: Quality Standards between TechBuild Inc. and PrimeBuild Ltd.**
+
+### Background
+
+TechBuild Inc., a software development firm, contracted PrimeBuild Ltd., a construction company, to construct their new headquarters in Austin, Texas. The contract, valued at $5 million, was signed in January 2023, specifying that the building must meet certain quality standards laid out in the “Quality Compliance Clause” included in the agreement.
+
+### Parties Involved
+
+1. **TechBuild Inc.**: The client seeking to establish a high-standard office with specific technological integration, including smart building features.
+   
+2. **PrimeBuild Ltd.**: The contractor responsible for executing the construction work according to the agreed plans and specifications.
+
+### Key Issues in Dispute
+
+1. **Quality Compliance Clause**:
+   The dispute centers around the interpretation of the Quality Compliance Clause, which mandates that all materials used must comply with standardized building codes and the specifications outlined in the project's blueprints. TechBuild asserts that PrimeBuild has used substandard materials in several critical components, undermining the building's structural integrity and intended smart features.
+
+2. **Inspections and Approvals**:
+   TechBuild claims that PrimeBuild failed to provide timely updates and access during inspections of the ongoing work, thus obstructing their ability to verify compliance with the established quality standards. PrimeBuild contends that TechBuild's representatives did not attend scheduled inspections, leading to misunderstandings about the project's progress.
+
+3. **Project Delays**:
+   TechBuild alleges that PrimeBuild's use of inferior materials and their delays in adhering to the project timelines have resulted in a failure to meet the deadline agreed upon in the contract. According to the contract, the building was due for completion by September 2023, but as of October 2023, the project remains unfinished. PrimeBuild argues that delays were primarily due to supply chain issues for construction materials beyond their control, making them not liable for the late completion.
+
+4. **Financial Consequences**:
+   TechBuild is seeking compensation in the amount of $750,000 for both the costs incurred due to project delays and the required replacement of materials that did not meet quality requirements. They also demand that future payments be withheld until the completion meets the quality standards set forth in the contract. Conversely, PrimeBuild argues that withholding payments is not legally justified and that they are entitled to the full contract payment, as the timing issues were mutually acknowledged.
+
+5. **Crisis of Confidence**:
+   The continual disagreements have led to a breakdown in the relationship between the two parties, with TechBuild now questioning PrimeBuild’s ability to deliver a finished product that meets their standards. PrimeBuild feels that TechBuild's escalating demands undermine their professionalism and ability to manage the project.
+
+### Conclusion
+
+The primary points of contention revolve around the interpretation and application of quality standards within the contract, the effectiveness of communication regarding project status, liability for delays, and financial claims stemming from these issues. Both parties are at an impasse, necessitating mediation or potential legal action to resolve their disputes and bring the project to completion.

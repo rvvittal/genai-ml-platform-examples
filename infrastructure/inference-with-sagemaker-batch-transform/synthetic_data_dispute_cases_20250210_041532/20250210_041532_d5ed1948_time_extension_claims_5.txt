@@ -1,0 +1,35 @@
+Theme: Time Extension Claims
+Case Number: 5
+--------------------------------------------------
+
+**Contract Dispute Scenario: Time Extension Claim**
+
+**Parties Involved:**
+1. **Greenfield Construction, Inc.** (Contractor) - A mid-sized construction firm specializing in commercial projects.
+2. **Oakwood Developments, LLC** (Owner) - A real estate development company overseeing the construction of a new retail complex.
+
+**Project Overview:**
+Greenfield Construction was contracted to complete the Oakwood Retail Complex in downtown Cityville under a firm fixed-price contract. The project had a timeline of 12 months, with a completion date set for June 30, 2023. The total contract value was $4 million.
+
+**Dispute Details:**
+As construction progressed, Greenfield encountered several unexpected delays leading to their submission of a Time Extension Claim on April 15, 2023. They requested an additional two months, citing specific causes for the delays, including:
+
+1. **Unforeseen Site Conditions:** During excavation, Greenfield discovered significant groundwater issues requiring additional dewatering measures. Greenfield argued that this condition was not disclosed in the preliminary site assessment.
+
+2. **Weather Delays:** As construction began earlier in the year, an unforeseen and unusually harsh winter led to substantial work stoppages, particularly in foundational and structural work.
+
+3. **Supply Chain Issues:** Greenfield noted that global supply chain disruptions impacted the timely delivery of critical materials, including steel and electrical components, further delaying the project schedule.
+
+**Key Issues of Contention:**
+1. **Causation of Delays:** Oakwood Developments contests that Greenfield failed to provide adequate evidence linking the alleged delays to the specific causes claimed. They assert that site conditions and weather are factors that should have been anticipated and planned for, given the project’s urban location.
+
+2. **Contractual Obligations:** Oakwood references contract clauses that require the contractor to anticipate and mitigate risks, arguing that Greenfield failed to do so. They maintain that Greenfield’s poor planning should not warrant an extension.
+
+3. **Documentation and Notification:** Oakwood claims that Greenfield did not provide timely notifications of the delays as outlined in the contract. According to the contract, all claims for time extensions must be filed within seven days of the occurrence of the cause. Greenfield submitted their claim months after the delays began, which Oakwood argues invalidates their request.
+
+4. **Impact on Project Costs:** Oakwood raises concerns that the time extension will increase project costs significantly due to overhead and potential liquidated damages stated in their contract for delays attributable to the contractor's performance.
+
+5. **Resolution Process:** The contract stipulates a specific dispute resolution process, which requires mediation prior to litigation. Oakwood has expressed willingness to resolve the dispute amicably, but Greenfield has threatened to escalate the matter to arbitration if their requested extension isn’t honored.
+
+**Conclusion:**
+As the parties prepare for mediation, the core of the dispute centers on the nature of the delays, adherence to contractual obligations, and the appropriate documentation process. Both sides seek a resolution that minimizes additional costs and preserves their respective interests in the ongoing project.

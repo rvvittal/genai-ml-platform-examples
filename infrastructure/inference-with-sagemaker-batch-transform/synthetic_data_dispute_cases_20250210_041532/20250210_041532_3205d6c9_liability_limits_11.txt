@@ -1,0 +1,35 @@
+Theme: Liability Limits
+Case Number: 11
+--------------------------------------------------
+
+**Contract Dispute Scenario: Liability Limits**
+
+**Parties Involved:**
+
+1. **TechSolutions Inc.** - A software development company that provided a custom software solution to a large manufacturing firm, **Manufacturers United.**
+   
+2. **Manufacturers United** - A manufacturing firm that integrates state-of-the-art technology into its operations.
+
+**Background of the Dispute:**
+
+In June 2022, TechSolutions Inc. entered into a contract with Manufacturers United to develop a custom inventory management system. The contract outlined the scope, payment terms, delivery timelines, and included a liability limitation clause stating that liability for any claims arising from the agreement would be limited to the amount paid for the software, capped at $100,000. 
+
+In February 2023, after the software was launched, Manufacturers United experienced significant operational disruptions due to a critical bug in the system that caused inventory tracking errors. The errors led to overproduction and subsequent waste of raw materials, amounting to losses of approximately $500,000.
+
+**Key Issues:**
+
+1. **Interpretation of the Liability Limits:**
+   Manufacturers United contends that the liability limits outlined in the contract are unconscionable given the scale of potential damages associated with failures in their production systems. They argue that TechSolutions should be held liable for the full extent of damages because the consequences of inadequate software were foreseeable.
+
+2. **Scope of Indemnification:**
+   The contract lacked a clear indemnification clause regarding third-party claims, which has become a focal point for Manufacturers United. As a result of the inventory disruptions, they also lost several contracts with key clients, which led to additional losses and potential legal claims from those clients. Manufacturers United argues that TechSolutions should be liable for losses incurred as a result of indirect damages stemming from their software malfunction.
+
+3. **Breach of Duty:**
+   Manufacturers United claims that TechSolutions failed to conduct proper testing before the software went live, which constitutes a breach of their duty of care. They argue that had TechSolutions performed due diligence in testing, the critical bug could have been identified and resolved before deployment. This raises questions about the nature of the service provided and the expectations of the software development process.
+
+4. **Negotiation Breakdown:**
+   Efforts to resolve the dispute through negotiation have been unsuccessful. Manufacturers United initially proposed a settlement where TechSolutions would bear half of the loss incurred due to the software failure. However, TechSolutions refused, asserting that their maximum liability was limited to the total contract value, which they maintain is enforceable under law.
+
+**Conclusion:**
+
+The dispute between TechSolutions Inc. and Manufacturers United highlights the complexities surrounding liability limits in software contracts, particularly how such clauses affect the responsible parties’ expectations in relation to performance failures. Both companies are now considering mediation or litigation to resolve the disagreement, weighing the potential costs and reputational impacts against the financial stakes involved.

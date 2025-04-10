@@ -1,0 +1,28 @@
+Theme: Performance Issues
+Case Number: 15
+--------------------------------------------------
+
+**Contract Dispute Scenario: Performance Issues**
+
+**Background:**
+In January 2023, Apex Construction, a medium-sized general contractor, entered into a contract with Stellar Designs, an architectural firm, to design and oversee renovations for a new corporate headquarters located in downtown Jacksonville. The contract, worth $500,000, included a detailed scope of work, timelines, and performance metrics to monitor progress. 
+
+**Parties Involved:**
+1. **Apex Construction (Contractor):** Led by John Thompson, CEO; responsible for executing construction projects and adhering to industry standards.
+2. **Stellar Designs (Architectural Firm):** Represented by Lisa Green, Principal Architect; tasked with providing architectural designs, project oversight, and ensuring compliance with local building codes.
+
+**Key Issues:**
+1. **Delayed Deliverables:** The contract stipulated that Stellar Designs would submit the finalized architectural plans by March 15, 2023, to allow Apex Construction to begin renovations in early April. However, as of May 1, 2023, Stellar had only provided incomplete preliminary designs. The delay has pushed back Apex’s overall schedule, impacting their financial projections and client commitments.
+
+2. **Subpar Quality of Work:** When Stellar Designs did submit preliminary plans, Apex noted several design issues, including structural inadequacies and aesthetic flaws that did not meet the specifications outlined in the contract. For instance, crucial load-bearing walls were omitted, which would require significant redesign and further delay. Apex argues that these deficiencies indicate a lack of professionalism and due diligence.
+
+3. **Communication Breakdown:** Throughout the project, there have been numerous instances of missed meetings and unreturned emails between the parties. Apex asserts that this lack of communication has further contributed to delays and misunderstandings regarding project expectations. Conversely, Stellar claims that Apex often failed to provide timely feedback on submitted drafts, prolonging the design process. 
+
+4. **Dispute over Performance Metrics:** The contract included performance metrics that stipulated penalties for delays. Apex argues that due to Stellar's failure to meet these metrics, they are entitled to compensation for the delays incurred. Stellar, however, contends that the performance metrics are ambiguous and were not clearly outlined, arguing that blame for the delays should be equally shared.
+
+5. **Cost Overruns:** The project’s current timeline extensions have led to unanticipated costs for Apex, as they must now pay for extra labor to mitigate delays and manage scheduling conflicts with their workforce. Apex claims that these additional costs should be compensated by Stellar due to the latter's failure to perform according to the contract terms.
+
+**Resolution Attempts:**
+Efforts to mediate the dispute have been unsuccessful, with both parties firmly holding their ground. Apex Construction is considering escalating the dispute to legal arbitration, seeking damages for costs incurred due to Stellar's alleged performance issues and delayed deliverables. Stellar Designs, on the other hand, is prepared to defend their work quality and project management decisions, arguing that they have acted within industry standards and that external factors contributed to the delays. 
+
+This contract dispute highlights the complexities often encountered in construction projects when performance issues arise and the critical importance of clear communication and defined expectations.

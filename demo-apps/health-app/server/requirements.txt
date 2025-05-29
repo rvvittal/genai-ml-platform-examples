@@ -1,0 +1,6 @@
+python-dotenv
+fastapi[all]
+uvicorn
+websockets==13.1
+boto3
+git+https://github.com/adithyaxx/pipecat.git@emit-func-call-event#egg=pipecat-ai[daily,aws-nova-sonic,silero,webrtc]

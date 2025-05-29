@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Amazon Ember';
+  src: url('https://m.media-amazon.com/images/G/01/AmazonUI/fonts/amazonember_rg-cc7ebaa05a2cd3b02c0929ac0475a44ab30b7efa._V2_.woff2') format('woff2'),
+       url('https://m.media-amazon.com/images/G/01/AmazonUI/fonts/amazonember_rg-cb7f64bb6cde397b119ea106551893deedb8975d._V2_.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amazon Ember';
+  src: url('https://m.media-amazon.com/images/G/01/AmazonUI/fonts/amazonember_bd-46b91bda68161c14e554a779643ef4957431987b._V2_.woff2') format('woff2'),
+       url('https://m.media-amazon.com/images/G/01/AmazonUI/fonts/amazonember_bd-a344921ffd52563d3c1590dace4ef09c14c0d9a3._V2_.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amazon Ember';
+  src: url('https://m.media-amazon.com/images/G/01/AmazonUI/fonts/amazonember_lt-9cc1bb64eb270135f1691c71588a5c5ff7e2420c._V2_.woff2') format('woff2'),
+       url('https://m.media-amazon.com/images/G/01/AmazonUI/fonts/amazonember_lt-b605de63d0843593ad5c0cfeddee29ac251b528d._V2_.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+} 

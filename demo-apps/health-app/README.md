@@ -45,6 +45,48 @@ This project consists of:
    - Provisioned [Amazon Bedrock Knowledge Base](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base.html) with health-related content
    - Appropriate IAM permissions for Bedrock services
 
+### Create Bedrock Knowledge Base
+Please upload the two files under `"server/data/kb/"` to an S3 bucket.
+
+1. **Access AWS Bedrock Console**
+   - Log into your AWS Console
+   - Navigate to Amazon Bedrock service
+   - Select "Knowledge Bases" from the left navigation menu
+![kb](./data/bedrock-kb.png)
+
+2. **Create New Knowledge Base**
+   - Click "Create -> Knowledge Base with vector store"
+   - Enter a name for your knowledge base (e.g., "Health-Assistant-KB")
+   - You can select to create a new service role or use existing service role
+   - Choose `Amazon S3` as your data source
+![ds](./data/datasource.png)
+
+3. **Configure Data Source and chunking strategy**
+   - Click `Browse S3` to select the S3 location where you have uploaded the two files under the kb folder
+   - Then you can select the `Chunking Strategy` as *Semantic chunking* and leave the remaining as default, and then select **Next**
+![chunking](./data/chunking.png)
+
+4. **Configure data storage and processing**
+   - Choose **Cohere -> Embed English V3** as your embedding model
+   - Then select **Next**
+![embedding](./data/embedding.png)
+
+5. **Review and Create**
+   - Review your configuration settings
+   - Click **Create Knowledge Base**
+   - Wait for the knowledge base to be created (Do not refresh page or leave page)
+
+6. **Get Knowledge Base ID**
+   - Once created, select the Data source and click **Sync** to sync the data source (Note that you need to sync the data source at least once to be able to retrieve data from the knowledge base)
+![sync](./data/sync.png)
+   - copy the Knowledge Base ID
+   - Add this ID to your `server/.env` file as `AMAZON_BEDROCK_KB_ID`
+![kb-id](./data/kb.png)
+
+> **Note**: The knowledge base creation process may take several minutes depending on the size of your documents.
+
+
+
 ## Setup
 
 ### 1. Clone the Repository

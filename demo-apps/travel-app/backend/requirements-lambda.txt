@@ -1,0 +1,5 @@
+# Core dependencies for Lambda
+strands-agents>=0.1.6
+boto3>=1.38.27
+psycopg2-binary>=2.9.9
+pydantic>=2.5.0

@@ -1,0 +1,7 @@
+{
+  "api_id": "djvk0wal4m",
+  "api_endpoint": "https://djvk0wal4m.execute-api.us-west-2.amazonaws.com/prod",
+  "region": "us-west-2",
+  "stage": "prod",
+  "proxy_function": "travel-planner-proxy"
+}

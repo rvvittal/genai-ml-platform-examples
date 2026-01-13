@@ -126,7 +126,7 @@ class TestPipelineExecution:
                 entry_point="train.py",
                 framework_version="0.23-1",
                 instance_type="ml.m5.large",
-                role="arn:aws:iam::{ACCOUNT-ID}:role/SageMakerRole",
+                role="arn:aws:iam::123456789012:role/SageMakerRole",
                 sagemaker_session=local_session
             )
             
@@ -357,7 +357,7 @@ class TestEndpointDeployment:
         # Mock endpoint response
         health_response = {
             "EndpointStatus": "InService",
-            "EndpointArn": "arn:aws:sagemaker:us-east-1:{ACCOUNT-ID}:endpoint/test-endpoint",
+            "EndpointArn": "arn:aws:sagemaker:us-east-1:123456789012:endpoint/test-endpoint",
             "CreationTime": "2024-01-01T10:00:00Z",
             "LastModifiedTime": "2024-01-01T10:05:00Z"
         }
@@ -863,7 +863,7 @@ class TestMonitoringValidation:
         notifications = [
             {"type": "email", "recipients": ["admin@example.com"], "severity": "critical"},
             {"type": "slack", "channel": "#alerts", "severity": "warning"},
-            {"type": "sns", "topic_arn": "arn:aws:sns:us-east-1:{ACCOUNT-ID}:alerts", "severity": "error"}
+            {"type": "sns", "topic_arn": "arn:aws:sns:us-east-1:123456789012:alerts", "severity": "error"}
         ]
         
         # Validate notification configurations
@@ -922,7 +922,7 @@ markers =
         configs["test_config.json"] = '''{
     "aws": {
         "region": "us-east-1",
-        "role_arn": "arn:aws:iam::{ACCOUNT-ID}:role/SageMakerExecutionRole",
+        "role_arn": "arn:aws:iam::123456789012:role/SageMakerExecutionRole",
         "bucket": "sagemigrator-test-bucket"
     },
     "sagemaker": {
@@ -1074,7 +1074,7 @@ Edit `test_config.json` to customize:
 ### Environment Variables
 ```bash
 export AWS_DEFAULT_REGION=us-east-1
-export SAGEMAKER_ROLE_ARN=arn:aws:iam::{ACCOUNT-ID}:role/SageMakerExecutionRole
+export SAGEMAKER_ROLE_ARN=arn:aws:iam::123456789012:role/SageMakerExecutionRole
 export TEST_BUCKET=sagemigrator-test-bucket
 export TESTING=true
 ```

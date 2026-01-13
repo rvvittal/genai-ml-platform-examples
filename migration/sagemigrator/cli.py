@@ -862,7 +862,7 @@ def generate_standalone_pipeline(ctx: click.Context, output_path: str, source_di
                     console.print("[yellow]Note: Role may need to be created. Check the generated README for instructions.[/yellow]")
             except Exception as e:
                 # Final fallback
-                role = "arn:aws:iam::{ACCOUNT-ID}:role/SageMakerExecutionRole"
+                role = "arn:aws:iam::123456789012:role/SageMakerExecutionRole"
                 console.print(f"[red]⚠️  Role discovery failed:[/red] {e}")
                 console.print(f"[yellow]Using placeholder role:[/yellow] {role}")
                 console.print("[yellow]You'll need to update this with a valid role ARN.[/yellow]")

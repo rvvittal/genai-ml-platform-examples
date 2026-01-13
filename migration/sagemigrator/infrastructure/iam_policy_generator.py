@@ -40,11 +40,11 @@ class IAMPolicyGenerator:
             self.region = config.infrastructure.default_region
             self.enable_encryption = config.infrastructure.enable_encryption
             # Use placeholder account ID for testing
-            self.account_id = getattr(config, 'account_id', '123456789012')
+            self.account_id = getattr(config, 'account_id', '{ACCOUNT-ID}')
         else:
             # Fallback for direct PolicyConfig
             self.config = config
-            self.account_id = getattr(config, 'account_id', '123456789012')
+            self.account_id = getattr(config, 'account_id', '{ACCOUNT-ID}')
             self.region = getattr(config, 'region', 'us-east-1')
             self.project_name = getattr(config, 'project_name', 'sagemigrator-project')
             self.enable_encryption = getattr(config, 'enable_encryption', True)

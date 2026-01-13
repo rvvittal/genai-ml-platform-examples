@@ -218,7 +218,7 @@ class DeploymentResult:
             deployment_duration_minutes=35.5,
             endpoints_created=["sagebridge-inference-endpoint"],
             stack_outputs={
-                "ExecutionRoleArn": f"arn:aws:iam::123456789012:role/sagebridge-migration-stack-SageMakerExecutionRole",
+                "ExecutionRoleArn": f"arn:aws:iam::{ACCOUNT-ID}:role/sagebridge-migration-stack-SageMakerExecutionRole",
                 "S3BucketName": f"sagebridge-migration-stack-s3bucket-{region}"
             }
         )

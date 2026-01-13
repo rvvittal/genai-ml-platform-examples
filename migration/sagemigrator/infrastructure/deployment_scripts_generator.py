@@ -31,7 +31,7 @@ class DeploymentScriptsGenerator:
         if hasattr(config, 'infrastructure'):
             self.project_name = config.project_name
             self.region = config.infrastructure.default_region
-            self.account_id = getattr(config, 'account_id', '123456789012')
+            self.account_id = getattr(config, 'account_id', '{ACCOUNT-ID}')
             self.environment = getattr(config, 'environment', 'dev')
             self.stack_name = f"{self.project_name}-{self.environment}"
         else:
@@ -39,7 +39,7 @@ class DeploymentScriptsGenerator:
             self.config = config
             self.project_name = getattr(config, 'project_name', 'sagemigrator-project')
             self.region = getattr(config, 'region', 'us-east-1')
-            self.account_id = getattr(config, 'account_id', '123456789012')
+            self.account_id = getattr(config, 'account_id', '{ACCOUNT-ID}')
             self.environment = getattr(config, 'environment', 'dev')
             self.stack_name = getattr(config, 'stack_name', f"{self.project_name}-{self.environment}")
         

@@ -26,3 +26,9 @@ Thumbs.db
 *.log
 *.sqlite
 CLAUDE.md
+
+# KIRO
+.hypothesis
+.pytest_cache
+*/.hypothesis
+*/.pytest_cache

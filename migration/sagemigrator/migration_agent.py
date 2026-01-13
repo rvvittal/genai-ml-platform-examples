@@ -56,10 +56,9 @@ class MigrationAgent:
         self._deployment_scripts_generator = DeploymentScriptsGenerator(config)
         
         # Initialize validation suite components
-        from .validation import LocalTestingGenerator, IntegrationTestingGenerator, ProductionValidationGenerator
+        from .validation import LocalTestingGenerator, IntegrationTestingGenerator
         self._local_testing_generator = LocalTestingGenerator()
         self._integration_testing_generator = IntegrationTestingGenerator()
-        self._production_validation_generator = ProductionValidationGenerator()
         
         # Initialize deployment integration
         from .deployment import ModelRegistryIntegration
@@ -268,7 +267,7 @@ class MigrationAgent:
             # Generate validation suite with the artifacts
             testing_suite_result = self._local_testing_generator.generate_test_suite(analysis, migration_artifacts)
             integration_tests = self._integration_testing_generator.generate_integration_suite(analysis, migration_artifacts)
-            production_validation = self._production_validation_generator.generate_production_suite(analysis, migration_artifacts)
+            # Note: Production validation suite generation removed as it was not being used
             
             # Convert TestSuite to TestingSuite format
             testing_suite_updated = TestingSuite(
@@ -458,7 +457,7 @@ def test_placeholder():
     
     def _fallback_to_production_generator(self, artifacts: MigrationArtifacts):
         """
-        Fallback method to create SecurityValidation using ProductionValidationGenerator.
+        Fallback method to create SecurityValidation with basic defaults.
         
         Args:
             artifacts: Migration artifacts to validate
@@ -467,17 +466,10 @@ def test_placeholder():
             SecurityValidation object with safe defaults
         """
         try:
-            # Use production validation generator as fallback
-            security_validation = self._production_validation_generator.create_default_security_validation()
-            logger.info("SecurityValidation created successfully using ProductionValidationGenerator fallback")
-            return security_validation
-            
-        except Exception as e:
-            logger.warning(f"ProductionValidationGenerator fallback failed: {str(e)}")
-            # Final fallback to creating a basic SecurityValidation with empty lists
+            # Direct fallback to creating a basic SecurityValidation with empty lists
             from .models.validation import SecurityValidation
             
-            logger.warning("Using minimal SecurityValidation fallback with empty lists")
+            logger.info("Using minimal SecurityValidation fallback with empty lists")
             return SecurityValidation(
                 iam_policy_checks=[],
                 encryption_checks=[],
@@ -485,6 +477,11 @@ def test_placeholder():
                 access_control_checks=[],
                 overall_security_score=0.0
             )
+            
+        except Exception as e:
+            logger.error(f"Even basic SecurityValidation creation failed: {str(e)}")
+            # Return None as last resort - this will be handled by the calling code
+            return None
     
     def load_migration_artifacts(self, artifacts_path: Path) -> MigrationArtifacts:
         """
